@@ -1,0 +1,1022 @@
+Order_ID,Order_Date,Order_Priority,Customer_ID,Product_Category,Product_Name,City,Ship_Mode,Ship_Date,Discount,Unit_Price,Quantity_ordered_new,Product_Base_Margin,Shipping_Cost,Sales,Profit
+90193,13-12-2010,Not Specified,5,Furniture,Global Troy? Executive Leather Low-Back Tilter,San Gabriel,Delivery Truck,15-12-2010,0.02,500.98,12,0.6,26,6362.85,4390.3665
+90197,12-05-2012,Low,5,Office Supplies,Xerox 1930,San Gabriel,Regular Air,21-05-2012,0.08,6.48,18,0.36,6.81,113.25,-141.26
+90194,26-05-2011,High,6,Office Supplies,Kensington 6 Outlet MasterPiece? HOMEOFFICE Power Control Center,San Jose,Regular Air,26-05-2011,0.01,90.24,16,0.56,0.99,1515.17,1045.4673
+90200,29-12-2012,Critical,6,Office Supplies,Xerox 21,San Jose,Regular Air,31-12-2012,0.07,6.48,4,0.37,6.6,28.61,-13.86
+90200,29-12-2012,Critical,6,Office Supplies,*Staples* Highlighting Markers,San Jose,Regular Air,31-12-2012,0.01,4.84,17,0.52,0.71,83.45,57.5805
+90200,29-12-2012,Critical,6,Technology,Accessory34,San Jose,Regular Air,31-12-2012,0.1,85.99,24,0.55,0.99,1705.08,1176.5052
+87655,11-11-2011,High,23,Furniture,Nu-Dell Leatherette Frames,Laguna Hills,Regular Air,12-11-2011,0.05,14.34,36,0.49,5,519.23,284.526
+87655,11-11-2011,High,23,Office Supplies,Xerox 1979,Laguna Hills,Regular Air,12-11-2011,0,30.98,37,0.4,8.74,1245.31,859.2639
+87660,10-09-2012,Not Specified,23,Office Supplies,Xerox 1929,Laguna Hills,Express Air,13-09-2012,0.07,22.84,7,0.39,5.47,165.11,83.24
+87669,18-11-2013,Low,23,Furniture,BPI Conference Tables,Laguna Hills,Delivery Truck,25-11-2013,0.1,146.05,11,0.71,80.2,1591.71,353.77216
+87651,28-01-2010,High,24,Office Supplies,Xerox 194,Laguna Niguel,Regular Air,29-01-2010,0.06,55.48,1,0.37,14.3,67.49,-28.2968
+87651,28-01-2010,High,24,Office Supplies,Newell 323,Laguna Niguel,Regular Air,30-01-2010,0.02,1.68,1,0.59,1.57,2.25,-5.3072
+87656,02-03-2012,Not Specified,24,Technology,V70,Laguna Niguel,Regular Air,04-03-2012,0.07,205.99,13,0.59,2.5,2159.19,1489.8411
+87662,19-12-2012,High,24,Office Supplies,Boston 1730 StandUp Electric Pencil Sharpener,Laguna Niguel,Regular Air,20-12-2012,0.06,21.38,5,0.59,8.99,105.99,-23.415
+87663,13-01-2013,Critical,24,Office Supplies,Harmony HEPA Quiet Air Purifiers,Laguna Niguel,Regular Air,14-01-2013,0.07,11.7,8,0.5,6.96,89.77,-88.102
+87657,18-04-2012,High,25,Technology,"Imation 3.5"" IBM-Formatted Diskettes, 10/Pack",Lake Elsinore,Regular Air,20-04-2012,0.02,5.98,1,0.68,3.85,7.12,-27.13
+87657,18-04-2012,High,25,Office Supplies,Xerox 1992,Lake Elsinore,Regular Air,20-04-2012,0.05,5.98,1,0.36,5.2,7.81,-10.58
+87666,02-07-2013,Critical,25,Office Supplies,3M Office Air Cleaner,Lake Elsinore,Regular Air,04-07-2013,0.06,25.98,7,0.5,5.37,174.54,86.51776
+87666,02-07-2013,Critical,25,Office Supplies,"Dual Level, Single-Width Filing Carts",Lake Elsinore,Regular Air,04-07-2013,0.05,155.06,12,0.59,7.07,1838.39,1268.4891
+87658,27-06-2012,Medium,26,Office Supplies,Belkin 8 Outlet SurgeMaster II Gold Surge Protector,Lake Forest,Regular Air,29-06-2012,0.08,59.98,11,0.57,3.99,619.14,420.984
+87667,02-09-2013,Not Specified,26,Office Supplies,Avery 498,Lake Forest,Express Air,03-09-2013,0,2.89,7,0.38,0.5,28.13,19.4097
+87670,11-12-2013,High,26,Office Supplies,Avery 52,Lake Forest,Regular Air,12-12-2013,0.09,3.69,15,0.38,0.5,54.16,37.3704
+87670,11-12-2013,High,26,Technology,V 3600 Series,Lake Forest,Regular Air,12-12-2013,0.06,65.99,3,0.58,8.99,170.67,-85.606752
+87652,02-11-2010,Not Specified,27,Furniture,Eldon Image Series Black Desk Accessories,Lakewood,Regular Air,04-11-2010,0.04,4.14,12,0.49,6.6,54.78,8.894
+87659,12-07-2012,Low,27,Office Supplies,Xerox 1880,Lakewood,Regular Air,14-07-2012,0.1,35.44,4,0.38,19.99,142.51,-47.01
+87659,12-07-2012,Low,27,Office Supplies,Xerox 194,Lakewood,Regular Air,17-07-2012,0.06,55.48,9,0.37,14.3,502.47,346.7043
+87661,26-10-2012,Critical,27,Furniture,"6"" Cubicle Wall Clock, Black",Lakewood,Express Air,26-10-2012,0,8.09,23,0.49,7.96,204.57,-171.2664
+87661,26-10-2012,Critical,27,Furniture,Coloredge Poster Frame,Lakewood,Regular Air,28-10-2012,0.06,14.2,11,0.46,5.3,161.11,33.4144
+87668,02-11-2013,Not Specified,27,Technology,SC-3160,Lakewood,Regular Air,04-11-2013,0.01,65.99,29,0.59,8.99,1730.04,847.943712
+87653,22-01-2011,High,28,Office Supplies,Newell 346,Lancaster,Regular Air,23-01-2011,0.06,2.88,1,0.56,0.7,3.41,-2.2072
+87665,14-04-2013,Critical,28,Office Supplies,Holmes Harmony HEPA Air Purifier for 17 x 20 Room,Lancaster,Regular Air,16-04-2013,0.07,225.04,1,0.42,11.79,226.03,28.81
+87654,30-01-2011,Not Specified,29,Technology,StarTAC Series,Lawndale,Regular Air,01-02-2011,0.08,65.99,3,0.55,3.9,164.1,-120.52304
+87664,30-01-2013,Not Specified,29,Office Supplies,Avery 481,Lawndale,Regular Air,31-01-2013,0.08,3.08,1,0.37,0.99,3.85,-1.6864
+87948,02-05-2012,Critical,65,Technology,iDEN i550,Mountain View,Regular Air,03-05-2012,0.01,205.99,13,0.6,19.99,2395.13,1312.038
+87948,02-05-2012,Critical,66,Office Supplies,Multimedia Mailers,Murrieta,Regular Air,04-05-2012,0.09,162.93,14,0.39,19.99,2104.26,1451.9394
+87951,12-06-2013,Not Specified,66,Office Supplies,"Black Print Carbonless Snap-Off? Rapid Letter, 8 1/2"" x 7""",Murrieta,Regular Air,13-06-2013,0.06,9.11,15,0.4,2.15,138.23,95.3787
+87946,02-01-2010,Low,67,Office Supplies,"Dual Level, Single-Width Filing Carts",Napa,Regular Air,09-01-2010,0.05,155.06,8,0.59,7.07,1225.6,845.664
+87949,02-01-2013,Low,67,Furniture,Hon 4070 Series Pagoda? Armless Upholstered Stacking Chairs,Napa,Delivery Truck,02-01-2013,0,291.73,1,0.56,48.8,309.77,-239.4192
+87949,02-01-2013,Low,67,Furniture,Hon Valutask? Swivel Chairs,Napa,Delivery Truck,04-01-2013,0.07,100.98,12,0.69,45,1139.49,-1301.814
+87950,12-03-2013,Medium,67,Office Supplies,Ibico Ibimaster 300 Manual Binding System,Napa,Regular Air,14-03-2013,0.1,367.99,9,0.4,19.99,3129.76,2159.5344
+87950,12-03-2013,Medium,67,Office Supplies,Storex DuraTech Recycled Plastic Frosted Binders,Napa,Regular Air,14-03-2013,0.1,4.24,5,0.35,5.41,21.27,-67.459
+90596,03-06-2010,Low,87,Office Supplies,Fellowes Super Stor/Drawer? Files,Vacaville,Regular Air,08-06-2010,0.05,161.55,19,0.66,19.99,3127.69,1892.424
+90597,22-09-2010,High,87,Office Supplies,Avery 493,Vacaville,Regular Air,23-09-2010,0.09,4.91,9,0.36,0.5,41.82,28.8558
+90597,22-09-2010,High,87,Furniture,Hon 94000 Series Round Tables,Vacaville,Delivery Truck,25-09-2010,0.01,296.18,9,0.76,54.12,2875.72,173.48
+90599,15-04-2013,Medium,87,Furniture,Flat Face Poster Frame,Vacaville,Regular Air,17-04-2013,0.05,18.84,13,0.43,3.62,247.57,170.8233
+87181,07-02-2012,Not Specified,90,Office Supplies,Belkin OmniView SE Rackmount Kit,Vacaville,Express Air,07-02-2012,0.1,35.48,10,0.85,35,340.42,-1191.13
+87175,17-05-2010,High,91,Office Supplies,Prismacolor Color Pencil Set,Vallejo,Regular Air,18-05-2010,0.07,19.84,9,0.44,4.1,170.8,117.852
+87176,18-08-2010,Medium,91,Office Supplies,Array? Memo Cubes,Vallejo,Regular Air,20-08-2010,0.05,5.18,10,0.36,2.04,53.54,34.0104
+87177,04-09-2010,Medium,91,Technology,2180,Vallejo,Regular Air,06-09-2010,0.06,175.99,23,0.57,8.99,3363.53,2031.507
+87181,07-02-2012,Not Specified,91,Technology,US Robotics 56K V.92 External Faxmodem,Vallejo,Regular Air,07-02-2012,0.07,99.99,3,0.52,19.99,307.29,-95.52
+87181,07-02-2012,Not Specified,91,Office Supplies,"Boston School Pro Electric Pencil Sharpener, 1670",Vallejo,Regular Air,09-02-2012,0.08,30.98,13,0.58,8.99,373.01,19.57
+87182,08-09-2012,Low,91,Furniture,Eldon? Wave Desk Accessories,Vallejo,Express Air,10-09-2012,0.05,2.08,3,0.43,5.33,13.66,-5.87
+87182,08-09-2012,Low,91,Office Supplies,"Decoflex Hanging Personal Folder File, Blue",Vallejo,Express Air,13-09-2012,0.08,15.42,21,0.58,10.68,314.17,-231.34
+90670,11-04-2012,Critical,122,Technology,Imation DVD-RAM discs,Visalia,Regular Air,13-04-2012,0.02,35.41,14,0.43,1.99,495.54,341.9226
+90670,11-04-2012,Critical,122,Office Supplies,"SAFCO Mobile Desk Side File, Wire Frame",Visalia,Regular Air,12-04-2012,0.01,42.76,7,,6.22,315.85,217.9365
+90671,30-04-2012,Medium,122,Technology,Belkin MediaBoard 104- Keyboard,Visalia,Regular Air,01-05-2012,0.08,27.48,1,0.75,4,26.28,-103.23
+90672,30-08-2013,High,122,Office Supplies,"Wilson Jones Hanging View Binder, White, 1""",Visalia,Regular Air,31-08-2013,0.1,7.1,23,0.39,6.05,160.29,-48.41868
+90672,30-08-2013,High,122,Technology,Hewlett-Packard 2600DN Business Color Inkjet Printer,Visalia,Delivery Truck,30-08-2013,0.01,119.99,8,0.39,56.14,1006.9,-41.7350832
+88534,16-11-2010,Critical,136,Office Supplies,Xerox 1939,Petaluma,Regular Air,17-11-2010,0.04,18.97,5,0.37,9.54,101.74,3.04
+88534,16-11-2010,Critical,136,Office Supplies,Fiskars? Softgrip Scissors,Petaluma,Regular Air,17-11-2010,0.09,10.98,8,0.57,3.37,84.52,2.706
+88538,02-05-2013,High,136,Office Supplies,Xerox 1977,Petaluma,Regular Air,02-05-2013,0.06,6.68,8,0.37,5.2,52.97,-38.57
+88539,16-11-2013,Critical,136,Office Supplies,Newell 340,Petaluma,Regular Air,19-11-2013,0.02,2.88,44,0.56,0.7,134.75,76.31008
+91091,14-01-2011,Critical,141,Office Supplies,Acme? Box Cutter Scissors,Visalia,Regular Air,15-01-2011,0.07,10.23,2,0.59,4.68,20.45,-30.8512
+91093,24-01-2012,Not Specified,141,Office Supplies,"Peel & Seel? Recycled Catalog Envelopes, Brown",Visalia,Regular Air,26-01-2012,0.06,11.58,12,0.35,6.97,135.14,-15.7108
+38087,21-02-2010,Critical,181,Technology,Zoom V.92 USB External Faxmodem,San Francisco,Regular Air,21-02-2010,0.02,49.99,18,0.41,19.99,901.81,-76.89
+3585,22-11-2010,High,181,Office Supplies,Newell 323,San Francisco,Regular Air,23-11-2010,0.07,1.68,116,0.59,1.57,186.59,-35.75
+12643,19-03-2011,Low,181,Office Supplies,White GlueTop Scratch Pads,San Francisco,Regular Air,21-03-2011,0.02,15.04,22,0.39,1.97,345.69,143.23
+23271,03-11-2011,High,181,Technology,"Hewlett-Packard Business Color Inkjet 3000 [N, DTN] Series Printers",San Francisco,Delivery Truck,04-11-2011,0.09,808.49,3,0.4,55.3,2383.74,-1748.3433
+25669,16-01-2012,Critical,181,Office Supplies,Avery 487,San Francisco,Regular Air,16-01-2012,0.02,3.69,13,0.38,0.5,49.43,6.168
+42213,21-03-2012,Critical,181,Office Supplies,Avery 494,San Francisco,Regular Air,23-03-2012,0.08,2.61,52,0.39,0.5,125.43,35.92
+3585,22-11-2013,High,181,Office Supplies,Riverleaf Stik-Withit? Designer Note Cubes?,San Francisco,Regular Air,22-11-2013,0.07,10.06,97,0.39,2.06,933.07,78.05
+7751,23-12-2013,Not Specified,181,Furniture,Global Deluxe Office Fabric Chairs,San Francisco,Delivery Truck,24-12-2013,0.01,95.98,90,0.58,58.2,9095.8,-768.14
+89282,21-01-2012,Low,207,Technology,Logitech Access Keyboard,Petaluma,Regular Air,21-01-2012,0.01,15.98,7,0.37,4,120.68,83.2692
+89283,01-03-2013,Not Specified,208,Furniture,Eldon Wave Desk Accessories,Pico Rivera,Regular Air,03-03-2013,0,5.89,1,0.41,5.57,11.7,-8.06
+88530,11-01-2012,Critical,223,Furniture,"O'Sullivan Elevations Bookcase, Cherry Finish",Pico Rivera,Delivery Truck,13-01-2012,0.01,130.98,13,0.69,54.74,1734.25,-1021.946
+88530,11-01-2012,Critical,223,Technology,Microsoft Multimedia Keyboard,Pico Rivera,Regular Air,11-01-2012,0.02,30.97,6,0.74,4,197.72,-19.902
+89294,13-02-2012,Medium,274,Furniture,"Bush Westfield Collection Bookcases, Dark Cherry Finish, Fully Assembled",San Jose,Delivery Truck,14-02-2012,0.06,100.98,8,0.78,57.38,783.96,-1231.98
+89297,24-05-2013,Critical,274,Office Supplies,Staples Metal Binder Clips,San Jose,Regular Air,26-05-2013,0.09,2.62,5,0.39,0.8,12.77,6.46
+89830,11-05-2011,Medium,310,Office Supplies,GBC DocuBind 200 Manual Binding Machine,Lawndale,Regular Air,13-05-2011,0,420.98,2,0.35,19.99,867.22,416.0155
+89830,11-05-2011,Medium,310,Office Supplies,Xerox 1993,Lawndale,Regular Air,12-05-2011,0.02,6.48,16,0.36,9.68,110.21,-238.45
+89831,14-05-2012,Critical,310,Office Supplies,GBC VeloBinder Strips,Lawndale,Regular Air,15-05-2012,0.09,7.68,9,0.35,6.16,67.1,-56.1085
+89832,20-08-2012,Low,310,Technology,Canon F603 Scientific Calculator,Lawndale,Express Air,27-08-2012,0.09,9.99,7,0.36,6.24,78.82,-8.419164
+89833,10-11-2012,Critical,310,Furniture,Magna Visual Magnetic Picture Hangers,Lawndale,Regular Air,11-11-2012,0.03,4.82,37,0.47,5.72,179.64,28.848
+89834,22-06-2013,Medium,310,Office Supplies,Xerox 1899,Lawndale,Regular Air,23-06-2013,0.08,5.78,18,0.36,4.96,104.28,-57.16
+89830,11-05-2011,Medium,311,Office Supplies,"Dixon Ticonderoga Core-Lock Colored Pencils, 48-Color Set",Lemon Grove,Regular Air,13-05-2011,0.07,36.55,17,0.41,13.89,588.55,202.68
+89168,21-07-2011,Low,313,Office Supplies,"Snap-A-Way? Black Print Carbonless Ruled Speed Letter, Triplicate",Foster City,Regular Air,26-07-2011,0.01,37.94,6,0.38,5.08,226.81,156.4989
+89169,10-09-2011,Not Specified,313,Furniture,Hon 4070 Series Pagoda? Round Back Stacking Chairs,Foster City,Delivery Truck,11-09-2011,0.05,320.98,10,0.57,58.95,3076.1,803.48
+89170,03-03-2013,Not Specified,313,Office Supplies,Avery Hole Reinforcements,Foster City,Regular Air,05-03-2013,0.05,6.23,5,0.36,6.97,33.62,-74.4395
+89172,07-08-2013,Medium,313,Technology,Okidata ML591 Wide Format Dot Matrix Printer,Foster City,Delivery Truck,09-08-2013,0.09,810.98,14,0.56,16.06,11055.12,7628.0328
+89173,07-12-2013,Low,313,Office Supplies,"Carina Mini System Audio Rack, Model AR050B",Foster City,Regular Air,12-12-2013,0.1,110.98,1,0.82,35,119.38,-79.03056
+86041,17-06-2010,Not Specified,317,Furniture,"Eldon? Expressions? Wood Desk Accessories, Oak",Lemon Grove,Regular Air,18-06-2010,0.09,7.38,9,0.56,5.21,66.55,-27.16
+86041,17-06-2010,Not Specified,317,Office Supplies,Xerox 193,Lemon Grove,Regular Air,18-06-2010,0.04,5.98,17,0.36,5.15,103.49,-52.344
+86041,17-06-2010,Not Specified,317,Office Supplies,"Decoflex Hanging Personal Folder File, Blue",Lemon Grove,Regular Air,18-06-2010,0.04,15.42,12,0.58,10.68,192.18,-119.936
+86044,17-11-2013,Not Specified,317,Furniture,Hon 2090 ?Pillow Soft? Series Mid Back Swivel/Tilt Chairs,Lemon Grove,Delivery Truck,19-11-2013,0.05,280.98,5,0.78,57,1475.58,207.988
+86044,17-11-2013,Not Specified,317,Office Supplies,Project Tote Personal File,Lemon Grove,Regular Air,18-11-2013,0.09,14.03,43,0.56,9.37,562.88,105.15168
+87348,01-01-2011,Medium,360,Office Supplies,Xerox 1898,Fresno,Regular Air,03-01-2011,0.01,6.68,11,0.37,6.92,75.24,-152.6068
+87351,10-03-2012,Critical,360,Furniture,Bretford CR4500 Series Slim Rectangular Table,Fresno,Delivery Truck,12-03-2012,0.02,348.21,13,0.62,40.19,3664.71,2528.6499
+87352,05-12-2012,High,360,Office Supplies,Rediform S.O.S. Phone Message Books,Fresno,Regular Air,06-12-2012,0,4.98,7,0.36,0.8,35.99,24.8331
+87353,07-01-2013,Low,360,Technology,i1000,Fresno,Regular Air,11-01-2013,0.05,65.99,9,0.58,5.99,519.3,323.57304
+90292,11-10-2010,Low,369,Furniture,"Executive Impressions 13"" Clairmont Wall Clock",Oakland,Express Air,13-10-2010,0.09,19.23,21,0.44,6.15,394.1,211.232
+90294,03-03-2013,Critical,369,Furniture,"Rubbermaid ClusterMat Chairmats, Mat Size- 66"" x 60"", Lip 20"" x 11"" -90 Degree Angle",Oakland,Regular Air,05-03-2013,0.04,110.98,11,0.69,13.99,1269.37,820.94
+90294,03-03-2013,Critical,369,Office Supplies,Xerox 1961,Oakland,Regular Air,05-03-2013,0,4.98,1,0.38,7.54,6.54,-24.43
+90294,03-03-2013,Critical,369,Office Supplies,Colored Push Pins,Oakland,Regular Air,03-03-2013,0.09,1.81,6,0.49,1.56,10.6,-18.57
+90295,14-08-2013,Critical,369,Furniture,"Safco Value Mate Steel Bookcase, Baked Enamel Finish on Steel, Black",Oakland,Delivery Truck,16-08-2013,0.04,70.98,23,,26.85,1706.04,377.02648
+90295,14-08-2013,Critical,369,Office Supplies,Xerox 1893,Oakland,Regular Air,15-08-2013,0.03,40.99,16,0.36,17.48,677,363.06312
+87805,03-04-2011,Low,401,Furniture,Bush Mission Pointe Library,Lodi,Delivery Truck,03-04-2011,0.03,150.98,12,0.65,66.27,1774.7,-1061.68
+87806,22-09-2012,Medium,401,Office Supplies,Xerox 1905,Lodi,Regular Air,23-09-2012,0.04,6.48,17,0.37,9.54,114.76,-189.33
+87806,22-09-2012,Medium,401,Office Supplies,"Decoflex Hanging Personal Folder File, Blue",Lodi,Express Air,22-09-2012,0.09,15.42,16,0.58,10.68,236.5,-185.8
+87807,01-10-2012,Critical,402,Office Supplies,Xerox 1993,Long Beach,Regular Air,01-10-2012,0.1,6.48,8,0.36,9.68,51.5,-110.3436
+87807,01-10-2012,Critical,402,Technology,Accessory8,Long Beach,Regular Air,03-10-2012,0.06,85.99,10,0.39,1.25,714.54,460.04508
+87808,22-01-2013,Medium,402,Office Supplies,Round Ring Binders,Long Beach,Regular Air,23-01-2013,0.08,2.08,1,0.38,1.49,2.25,-6.14606
+87810,27-09-2013,Low,402,Office Supplies,Binder Posts,Long Beach,Regular Air,04-10-2013,0.07,5.74,3,0.39,5.01,19.66,-15.8171
+87810,27-09-2013,Low,402,Technology,"Memorex 80 Minute CD-R Spindle, 100/Pack",Long Beach,Express Air,04-10-2013,0.01,43.98,19,0.44,1.99,873.76,602.8944
+87905,04-05-2010,High,411,Office Supplies,"Hot File? 7-Pocket, Floor Stand",Oakland,Express Air,07-05-2010,0.05,178.47,9,0.55,19.99,1531.31,943
+87704,16-03-2012,Not Specified,417,Office Supplies,Hanging Personal Folder File,San Luis Obispo,Regular Air,16-03-2012,0.1,15.7,7,0.6,11.25,108.13,-156.76
+87705,04-08-2012,Not Specified,417,Office Supplies,Newell 343,San Luis Obispo,Express Air,06-08-2012,0.02,2.94,20,0.58,0.96,62.36,18.7812
+87705,04-08-2012,Not Specified,417,Office Supplies,Assorted Color Push Pins,San Luis Obispo,Regular Air,05-08-2012,0.07,1.81,3,0.52,0.75,5.58,-1.3624
+87707,20-07-2013,Low,417,Office Supplies,Avery 506,San Luis Obispo,Regular Air,27-07-2013,0.01,4.13,7,0.39,0.5,31.09,21.4521
+87707,20-07-2013,Low,417,Furniture,Luxo Professional Fluorescent Magnifier Lamp with Clamp-Mount Base,San Luis Obispo,Regular Air,29-07-2013,0.04,209.84,4,0.59,21.21,869.9,600.231
+87708,14-08-2013,High,417,Office Supplies,Cardinal Poly Pocket Divider Pockets for Ring Binders,San Luis Obispo,Regular Air,16-08-2013,0.04,3.36,3,0.4,6.27,13.54,-10.839348
+87701,17-01-2011,Not Specified,418,Office Supplies,"Acme Hot Forged Carbon Steel Scissors with Nickel-Plated Handles, 3 7/8"" Cut, 8""L",San Mateo,Regular Air,18-01-2011,0.04,13.9,10,0.56,7.59,140.63,-101.122
+87702,13-05-2011,Low,418,Technology,Okidata ML184 Turbo Dot Matrix Printers,San Mateo,Delivery Truck,20-05-2011,0.04,306.14,9,0.56,26.53,2760.4,1494.01
+87702,13-05-2011,Low,418,Office Supplies,Xerox 197,San Mateo,Regular Air,17-05-2011,0,30.98,15,0.4,17.08,489.69,65.01
+87703,10-10-2011,Low,418,Office Supplies,Xerox 1920,San Mateo,Regular Air,15-10-2011,0.03,5.98,4,0.4,7.5,28.58,-36.666
+90697,05-11-2011,Not Specified,430,Office Supplies,Avery Self-Adhesive Photo Pockets for Polaroid Photos,San Ramon,Regular Air,06-11-2011,0,6.81,26,0.37,5.48,192.28,7.4405
+90698,03-09-2012,High,430,Office Supplies,Honeywell Enviracaire? Portable Air Cleaner for up to 8 x 10 Room,San Ramon,Regular Air,04-09-2012,0.03,76.72,24,0.54,19.95,1813.68,541.92
+90698,03-09-2012,High,430,Office Supplies,Staples? General Use 3-Ring Binders,San Ramon,Regular Air,05-09-2012,0.1,1.88,14,0.37,1.49,26.06,-15.1225
+90702,05-05-2013,High,430,Furniture,Office Star - Task Chair with Contemporary Loop Arms,San Ramon,Delivery Truck,05-05-2013,0.02,90.98,16,0.61,30,1493.63,195.04
+90703,01-06-2013,Low,430,Office Supplies,"Mead 1st Gear 2"" Zipper Binder, Asst. Colors",San Ramon,Regular Air,08-06-2013,0.09,12.97,16,0.35,1.49,198.28,136.8132
+90703,01-06-2013,Low,430,Technology,Fuji Slim Jewel Case CD-R,San Ramon,Express Air,06-06-2013,0.06,2.12,9,0.55,1.99,22.76,-20.52
+90700,21-11-2012,Not Specified,431,Office Supplies,Surelock? Post Binders,Santa Ana,Regular Air,22-11-2012,0.1,30.56,5,0.35,2.99,147.15,62.3458
+90700,21-11-2012,Not Specified,431,Technology,Keytronic 105-Key Spanish Keyboard,Santa Ana,Regular Air,22-11-2012,0,73.98,13,0.67,12.14,972.26,34.732
+90701,03-12-2012,Low,431,Technology,252,Santa Ana,Regular Air,10-12-2012,0.03,65.99,17,0.55,5.92,973.71,671.8599
+86020,27-12-2011,Medium,450,Office Supplies,"Dixon Ticonderoga Core-Lock Colored Pencils, 48-Color Set",Long Beach,Regular Air,29-12-2011,0.03,36.55,16,0.41,13.89,619.17,391.305
+86022,20-08-2012,Medium,450,Technology,iDENi80s,Long Beach,Regular Air,22-08-2012,0.09,65.99,11,0.59,19.99,581.2,-148.005
+86010,10-04-2010,High,451,Technology,"210 Trimline Phone, White",Los Altos,Regular Air,11-04-2010,0.03,15.99,2,0.38,11.28,35.48,-53.2962
+86012,27-05-2010,Critical,451,Office Supplies,Vinyl Sectional Post Binders,Los Altos,Regular Air,28-05-2010,0.04,37.7,12,0.35,2.99,434.31,299.6739
+86013,05-07-2010,Low,451,Office Supplies,GBC Instant Index? System for Binding Systems,Los Altos,Regular Air,10-07-2010,0.01,8.88,2,0.35,6.28,19.86,-15.456
+86013,05-07-2010,Low,451,Office Supplies,Avery 514,Los Altos,Regular Air,14-07-2010,0.06,2.88,8,0.36,0.99,23.26,16.0494
+86016,04-07-2011,Low,451,Technology,Belkin 105-Key Black Keyboard,Los Altos,Regular Air,11-07-2011,0.09,19.98,2,0.68,4,40.87,-65.67
+86018,08-10-2011,Not Specified,451,Technology,Maxell DVD-RAM Discs,Los Altos,Regular Air,09-10-2011,0,16.48,14,0.42,1.99,231.62,157.0348
+86026,21-05-2013,Critical,451,Office Supplies,Accohide Poly Flexible Ring Binders,Los Altos,Regular Air,22-05-2013,0.09,3.74,7,0.35,4.69,26.82,-60.9615
+86012,27-05-2010,Critical,452,Technology,Accessory36,Los Banos,Regular Air,28-05-2010,0.01,55.99,1,0.83,5,51.83,-235.895
+86017,20-09-2011,Low,452,Furniture,BPI Conference Tables,Los Banos,Delivery Truck,24-09-2011,0.01,146.05,19,0.71,80.2,2839.31,-1704.89
+86024,03-10-2012,Critical,452,Office Supplies,"Elite 5"" Scissors",Los Banos,Regular Air,05-10-2012,0.04,8.45,25,0.55,7.77,206.69,-242.3628
+86024,03-10-2012,Critical,452,Technology,282,Los Banos,Regular Air,05-10-2012,0.04,115.99,8,0.56,4.23,810.18,223.04664
+86011,08-05-2010,Not Specified,453,Furniture,"Seth Thomas 14"" Putty-Colored Wall Clock",Los Gatos,Regular Air,10-05-2010,0.03,29.34,1,0.54,7.87,32.4,-41.32
+86019,16-12-2011,Medium,453,Technology,V2397,Los Gatos,Express Air,18-12-2011,0.07,125.99,4,0.58,2.5,424.67,-129.426
+86023,24-09-2012,Low,453,Technology,"Memorex 4.7GB DVD-RAM, 3/Pack",Los Gatos,Regular Air,28-09-2012,0.06,31.78,20,0.42,1.99,633.31,436.9839
+86023,24-09-2012,Low,453,Office Supplies,Xerox 1989,Los Gatos,Regular Air,26-09-2012,0.06,4.98,1,0.38,5.02,6.45,-11.36
+86023,24-09-2012,Low,453,Office Supplies,Berol Giant Pencil Sharpener,Los Gatos,Regular Air,28-09-2012,0.06,16.99,17,0.56,8.99,286.73,-91.31
+86023,24-09-2012,Low,453,Furniture,Hon 2111 Invitation? Series Corner Table,Los Gatos,Regular Air,03-10-2012,0,209.37,9,0.79,69,2011.23,-626.45
+86029,07-07-2013,Critical,453,Technology,8890,Los Gatos,Regular Air,07-07-2013,0.07,115.99,15,0.58,5.92,1485.38,1024.9122
+86033,27-12-2013,Medium,453,Office Supplies,Newell 326,Los Gatos,Express Air,28-12-2013,0.02,1.76,11,0.56,0.7,22.61,7.67104
+86021,31-05-2012,Critical,454,Technology,"Imation 3.5"" DS/HD IBM Formatted Diskettes, 50/Pack",Manhattan Beach,Express Air,02-06-2012,0.01,15.98,10,0.64,8.99,168.37,-125.8
+86021,31-05-2012,Critical,454,Office Supplies,Xerox 1881,Manhattan Beach,Regular Air,02-06-2012,0.08,12.28,18,0.38,6.47,205.94,-10.84
+86021,31-05-2012,Critical,454,Office Supplies,Xerox 19,Manhattan Beach,Express Air,02-06-2012,0.1,30.98,5,0.4,5.09,148.45,84.53
+86028,12-06-2013,Critical,454,Office Supplies,Bionaire Personal Warm Mist Humidifier/Vaporizer,Manhattan Beach,Regular Air,14-06-2013,0.09,46.89,14,0.46,5.1,647.05,446.4645
+86028,12-06-2013,Critical,454,Furniture,G.E. Longer-Life Indoor Recessed Floodlight Bulbs,Manhattan Beach,Regular Air,13-06-2013,0.05,6.64,19,0.37,4.95,131.32,-30.432
+86030,12-08-2013,Medium,454,Furniture,"DAX Copper Panel Document Frame, 5 x 7 Size",Manhattan Beach,Regular Air,12-08-2013,0,12.58,25,0.43,5.16,323.42,222.48392
+86031,15-08-2013,High,454,Office Supplies,"Hot File? 7-Pocket, Floor Stand",Manhattan Beach,Regular Air,16-08-2013,0.08,178.47,15,0.55,19.99,2645.29,1825.2501
+88061,14-07-2010,Low,463,Office Supplies,Economy Rollaway Files,West Hollywood,Regular Air,16-07-2010,0.07,165.2,7,0.59,19.99,1081.54,521.69
+88062,31-03-2011,Not Specified,463,Technology,Hewlett-Packard Deskjet 5550 Color Inkjet Printer,West Hollywood,Delivery Truck,02-04-2011,0.05,115.99,6,0.4,56.14,714.29,-44.5179
+88065,01-03-2012,Not Specified,463,Office Supplies,"TOPS Money Receipt Book, Consecutively Numbered in Red,",West Hollywood,Regular Air,04-03-2012,0.05,8.01,7,0.4,2.87,56.23,31
+88066,11-10-2012,Low,463,Furniture,Luxo Professional Fluorescent Magnifier Lamp with Clamp-Mount Base,West Hollywood,Regular Air,15-10-2012,0.09,209.84,24,0.59,21.21,4776.61,2820.8764
+88068,07-05-2013,High,463,Technology,Belkin MediaBoard 104- Keyboard,West Hollywood,Regular Air,09-05-2013,0.06,27.48,1,0.75,4,28.87,-101.41
+88070,28-12-2013,Not Specified,463,Office Supplies,Catalog Binders with Expanding Posts,West Hollywood,Regular Air,30-12-2013,0.02,67.28,15,0.4,19.99,1058.35,730.2615
+88063,18-10-2011,Low,464,Furniture,"Master Caster Door Stop, Brown",Westminster,Regular Air,20-10-2011,0.06,5.08,14,0.51,2.03,68.47,16.7992
+88067,17-12-2012,Not Specified,464,Furniture,Eldon Radial Chair Mat for Low to Medium Pile Carpets,Westminster,Regular Air,19-12-2012,0.08,39.98,17,0.65,9.2,661.29,303.705
+88067,17-12-2012,Not Specified,464,Office Supplies,Newell 312,Westminster,Regular Air,19-12-2012,0.02,5.84,14,0.55,1.2,84.73,51.36
+88069,18-10-2013,Low,464,Office Supplies,"Peel & Seel? Recycled Catalog Envelopes, Brown",Westminster,Regular Air,20-10-2013,0.06,11.58,19,0.35,5.72,224.24,51.91
+88064,13-12-2011,Medium,465,Office Supplies,Xerox 1885,Whittier,Regular Air,14-12-2011,0.02,48.04,13,0.37,7.23,639.75,441.4275
+88069,18-10-2013,Low,465,Office Supplies,Eureka Disposable Bags for Sanitaire? Vibra Groomer I? Upright Vac,Whittier,Regular Air,23-10-2013,0.08,4.06,9,0.6,6.89,39.62,-83.71
+91062,18-03-2010,Not Specified,485,Office Supplies,Avery 49,Fresno,Regular Air,20-03-2010,0.05,2.88,3,0.36,0.5,8.77,6.0513
+91066,28-04-2013,Medium,485,Technology,Lexmark Z55se Color Inkjet Printer,Fresno,Delivery Truck,29-04-2013,0.04,90.97,9,0.38,28,792.79,547.0251
+91069,30-10-2013,Low,485,Furniture,O'Sullivan Living Dimensions 3-Shelf Bookcases,Fresno,Delivery Truck,03-11-2013,0.05,200.98,20,0.75,55.96,3961.88,-737.41
+91064,20-09-2011,High,486,Office Supplies,Staples SlimLine Pencil Sharpener,Gilroy,Regular Air,22-09-2011,0.01,11.97,10,0.6,5.81,123.4,-38.94
+91065,06-12-2011,High,486,Technology,252,Gilroy,Express Air,08-12-2011,0.04,65.99,12,0.55,5.92,690.61,476.5209
+91067,02-09-2013,Low,486,Office Supplies,"Blue String-Tie & Button Interoffice Envelopes, 10 x 13",Gilroy,Regular Air,09-09-2013,0.03,39.98,26,0.4,9.83,1053.74,707.7888
+91067,02-09-2013,Low,486,Technology,i2000,Gilroy,Regular Air,06-09-2013,0.03,125.99,16,0.6,2.5,1761.78,937.95084
+91068,11-10-2013,Medium,486,Office Supplies,Economy Rollaway Files,Gilroy,Express Air,13-10-2013,0.02,165.2,24,0.59,19.99,4009.89,1952.15
+90058,13-01-2010,Low,510,Office Supplies,Xerox 1910,Manteca,Regular Air,13-01-2010,0.02,48.04,3,0.37,5.09,152.54,105.2526
+90059,01-08-2010,Critical,510,Office Supplies,"C-Line Peel & Stick Add-On Filing Pockets, 8-3/4 x 5-1/8, 10/Pack",Manteca,Regular Air,02-08-2010,0.03,6.37,14,0.38,5.19,89.79,-29.0927
+90061,25-07-2011,Critical,510,Office Supplies,Southworth Structures Collection?,Manteca,Regular Air,27-07-2011,0.08,7.28,5,0.35,5.47,36.1,-28.13
+90062,16-11-2011,Medium,510,Office Supplies,GBC Standard Plastic Binding Systems Combs,Manteca,Express Air,17-11-2011,0.07,8.85,5,0.36,5.6,53.64,1.3915
+90062,16-11-2011,Medium,510,Technology,Canon PC940 Copier,Manteca,Regular Air,18-11-2011,0.01,449.99,9,0.52,24.49,4129.7,53.3248
+90067,13-01-2013,Low,510,Technology,Panasonic KX-P1150 Dot Matrix Printer,Manteca,Delivery Truck,18-01-2013,0.03,145.45,1,0.56,17.85,148.45,-468.598356
+88126,10-05-2011,High,542,Furniture,Hon 61000 Series Interactive Training Tables,Santa Ana,Delivery Truck,11-05-2011,0.03,44.43,12,0.67,46.59,439.7,-1052.79
+88128,03-03-2012,Critical,542,Technology,Accessory25,Santa Ana,Regular Air,05-03-2012,0.05,20.99,12,0.57,0.99,217.63,150.1647
+88130,14-07-2012,Low,542,Technology,Logitech Access Keyboard,Santa Ana,Regular Air,19-07-2012,0.1,15.98,2,0.37,4,30.67,-47.36
+88131,21-12-2012,Not Specified,542,Office Supplies,Prang Drawing Pencil Set,Santa Ana,Regular Air,23-12-2012,0,2.78,19,0.45,1.34,57.72,17.115
+88129,03-06-2012,Low,543,Office Supplies,Brown Kraft Recycled Envelopes,Santa Barbara,Regular Air,05-06-2012,0.03,16.98,1,0.35,12.39,29.19,-18.48
+88134,22-11-2013,Low,543,Technology,TimeportP7382,Santa Barbara,Express Air,29-11-2013,0,205.99,11,0.56,8.99,2033.98,195.991488
+88127,27-07-2011,Critical,544,Office Supplies,Newell 307,Santa Clara,Regular Air,28-07-2011,0.08,1.82,13,0.57,0.83,22.67,-8.95
+88129,03-06-2012,Low,544,Office Supplies,Holmes Harmony HEPA Air Purifier for 17 x 20 Room,Santa Clara,Express Air,05-06-2012,0.03,225.04,4,0.42,11.79,892.11,615.5559
+88129,03-06-2012,Low,544,Technology,"Sharp EL501VB Scientific Calculator, Battery Operated, 10-Digit Display, Hard Case",Santa Clara,Regular Air,08-06-2012,0.05,9.49,17,0.39,5.76,155.59,-35.44032
+88132,27-07-2013,Critical,544,Office Supplies,Avery 508,Santa Clara,Regular Air,29-07-2013,0.03,4.91,1,0.36,0.5,5.05,1.4144
+88133,09-10-2013,Critical,544,Office Supplies,"Adams Write n' Stick Phone Message Book, 11"" X 5 1/4"", 200 Messages",Santa Clara,Regular Air,09-10-2013,0,5.68,21,0.39,1.46,122.43,74.83
+88133,09-10-2013,Critical,544,Office Supplies,"Staples Wirebound Steno Books, 6"" x 9"", 12/Pack",Santa Clara,Regular Air,11-10-2013,0.02,10.14,13,0.36,2.27,133,83.16
+17155,28-01-2010,Medium,553,Office Supplies,"Adams Phone Message Book, 200 Message Capacity, 8 1/16? x 11?",Los Angeles,Express Air,29-01-2010,0,6.88,36,0.39,2,267.53,34.068
+2433,21-08-2010,Not Specified,553,Technology,Lexmark 4227 Plus Dot Matrix Printer,Los Angeles,Delivery Truck,21-08-2010,0.07,2036.48,25,0.55,14.7,43046.2,4073.25
+8165,15-10-2010,Low,553,Office Supplies,Xerox 1922,Los Angeles,Regular Air,24-10-2010,0.01,4.98,63,0.36,7.44,330.21,-179.592
+359,18-12-2010,Medium,553,Furniture,Bevis 36 x 72 Conference Tables,Los Angeles,Delivery Truck,19-12-2010,0.08,124.49,56,0.63,51.94,6831.37,-500.38
+35046,24-07-2011,Medium,553,Office Supplies,"Wilson Jones Hanging View Binder, White, 1""",Los Angeles,Express Air,24-07-2011,0.1,7.1,25,0.39,6.05,180.79,-54.671
+35046,24-07-2011,Medium,553,Furniture,Global Commerce? Series High-Back Swivel/Tilt Chairs,Los Angeles,Delivery Truck,25-07-2011,0.07,284.98,16,0.6,69.55,4410.92,-113.08
+35046,24-07-2011,Medium,553,Furniture,"Tenex Contemporary Contur Chairmats for Low and Medium Pile Carpet, Computer, 39"" x 49""",Los Angeles,Express Air,25-07-2011,0.03,107.53,54,0.65,5.81,5941.63,1759.72
+53314,19-09-2011,High,553,Furniture,Howard Miller 12-3/4 Diameter Accuwave DS ? Wall Clock,Los Angeles,Regular Air,19-09-2011,0.01,78.69,60,0.43,19.99,4850.76,1049.02
+53314,19-09-2011,High,553,Furniture,Bevis Rectangular Conference Tables,Los Angeles,Delivery Truck,21-09-2011,0.05,145.98,27,0.69,51.92,4025.07,-310.95
+15300,08-02-2012,High,553,Office Supplies,Astroparche? Fine Business Paper,Los Angeles,Express Air,10-02-2012,0.05,5.28,47,0.37,5.06,257.25,-75.25
+7142,21-07-2012,Critical,553,Office Supplies,Avery 501,Los Angeles,Regular Air,23-07-2012,0.06,3.69,49,0.38,0.5,180.84,57
+35684,03-08-2012,Low,553,Technology,Soundgear TeleForum DX Desktop Conference Phone,Los Angeles,Regular Air,08-08-2012,0.07,96.45,20,0.38,13.99,1821.96,18.77
+17155,28-01-2013,Medium,553,Office Supplies,Fellowes Neat Ideas? Storage Cubes,Los Angeles,Express Air,28-01-2013,0.03,32.48,34,0.81,35,1168.35,-1440.432
+14916,27-02-2013,Low,553,Technology,StarTAC 6500,Los Angeles,Express Air,01-03-2013,0.07,125.99,16,0.59,8.8,1685.94,21.024
+27138,30-05-2013,High,553,Furniture,"Bush Westfield Collection Bookcases, Fully Assembled",Los Angeles,Delivery Truck,01-06-2013,0.07,100.98,40,0.62,35.84,3840.27,-277.63
+27138,30-05-2013,High,553,Technology,V 3600 Series,Los Angeles,Regular Air,01-06-2013,0.1,65.99,48,0.58,8.99,2457.3,134.73
+88645,13-07-2010,Low,576,Office Supplies,Hoover Portapower? Portable Vacuum,Pomona,Regular Air,17-07-2010,0.06,4.48,4,0.6,49,32.6,-566
+88648,13-03-2011,Medium,576,Furniture,Global Deluxe High-Back Office Chair in Storm,Pomona,Delivery Truck,15-03-2011,0.1,135.99,4,0.76,28.63,506.51,-357.65
+88649,16-06-2011,High,576,Technology,TimeportP7382,Pomona,Regular Air,18-06-2011,0.1,205.99,5,0.56,8.99,787.91,-207.988
+88652,10-04-2012,Critical,576,Office Supplies,Kensington 6 Outlet SmartSocket Surge Protector,Pomona,Express Air,12-04-2012,0.02,40.98,4,0.6,7.2,173.29,67.98
+88652,10-04-2012,Critical,576,Office Supplies,Avery Durable Binders,Pomona,Regular Air,11-04-2012,0.05,2.88,4,0.36,1.49,11.86,1.071
+88654,23-03-2013,Critical,576,Technology,Belkin ErgoBoard? Keyboard,Pomona,Express Air,24-03-2013,0.01,30.98,3,0.64,6.5,96.68,-84.12
+88654,23-03-2013,Critical,576,Office Supplies,Newell 31,Pomona,Regular Air,25-03-2013,0.09,4.13,9,0.57,1.17,35.49,5.98
+28647,14-03-2010,Critical,604,Furniture,Laminate Occasional Tables,Los Angeles,Express Air,15-03-2010,0.09,154.13,38,0.68,69,5679.59,-1763.7477
+34882,24-07-2010,Critical,604,Office Supplies,Staples? General Use 3-Ring Binders,Los Angeles,Regular Air,25-07-2010,0.03,1.88,52,0.37,1.49,102.32,-15.0995
+48487,11-01-2011,Low,604,Office Supplies,"Mead 1st Gear 2"" Zipper Binder, Asst. Colors",Los Angeles,Regular Air,13-01-2011,0,12.97,27,0.35,1.49,360.7,58.4664
+20068,28-02-2012,Critical,604,Office Supplies,Avery Durable Poly Binders,Los Angeles,Regular Air,29-02-2012,0.09,5.53,10,0.39,6.98,59.09,-46.1265
+40934,13-11-2012,Not Specified,604,Office Supplies,Newell 326,Los Angeles,Regular Air,14-11-2012,0.01,1.76,95,0.56,0.7,167.91,-1.23
+40934,13-11-2012,Not Specified,604,Technology,600 Series Non-Flip,Los Angeles,Regular Air,15-11-2012,0.07,45.99,37,0.57,4.99,1359.41,-107.503
+28581,07-12-2012,Medium,604,Office Supplies,GBC Standard Therm-A-Bind Covers,Los Angeles,Regular Air,09-12-2012,0.06,24.92,2,0.39,12.98,72.8,-41.561
+28581,07-12-2012,Medium,604,Office Supplies,Rediform S.O.S. Phone Message Books,Los Angeles,Regular Air,09-12-2012,0.04,4.98,72,0.36,0.8,352.7,73.05
+37188,04-03-2013,Critical,604,Office Supplies,Xerox 198,Los Angeles,Express Air,05-03-2013,0.04,4.98,24,0.38,8.33,132.02,-123.28
+26660,18-03-2013,Medium,604,Office Supplies,"Recycled Desk Saver Line ""While You Were Out"" Book, 5 1/2"" X 4""",Los Angeles,Regular Air,18-03-2013,0.1,8.95,1,0.39,2.01,10.23,-4.22
+55968,30-09-2013,Low,604,Office Supplies,"Crayola Anti Dust Chalk, 12/Pack",Los Angeles,Regular Air,02-10-2013,0.05,1.82,84,0.4,1,154.6,0.86
+87953,20-03-2010,Low,637,Furniture,Rush Hierlooms Collection Rich Wood Bookcases,Santa Clara,Delivery Truck,24-03-2010,0.06,160.98,8,0.72,35.02,1232.01,-229.68
+87955,31-08-2011,Low,637,Office Supplies,Avery 49,Santa Clara,Regular Air,02-09-2011,0.01,2.88,17,0.36,0.5,48.7,33.603
+87956,19-11-2011,High,637,Office Supplies,"Ampad? Evidence? Wirebond Steno Books, 6"" x 9""",Santa Clara,Regular Air,21-11-2011,0.1,2.18,13,0.38,7.09,32.67,16.216
+87956,19-11-2011,High,637,Office Supplies,Acco Perma? 3000 Stacking Storage Drawers,Santa Clara,Regular Air,21-11-2011,0.01,20.98,40,0.66,5.42,901.89,246.884
+87957,30-12-2011,Not Specified,637,Furniture,"Office Star - Contemporary Task Swivel chair with 2-way adjustable arms, Plum",Santa Clara,Delivery Truck,16-01-2012,0.07,130.98,21,0.78,30,2699.94,-211.885
+87957,30-12-2011,Not Specified,637,Office Supplies,Xerox 1908,Santa Clara,Regular Air,10-01-2012,0.09,55.98,10,0.36,4.86,514.51,355.0119
+87957,30-12-2011,Not Specified,637,Technology,282,Santa Clara,Regular Air,27-01-2012,0.08,115.99,16,0.56,4.23,1480.29,1021.4001
+87960,07-11-2012,Medium,637,Office Supplies,Multimedia Mailers,Santa Clara,Regular Air,08-11-2012,0.01,162.93,35,0.39,19.99,5831.96,4024.0524
+87954,30-04-2010,Critical,638,Technology,6120,Santa Cruz,Express Air,01-05-2010,0.06,65.99,9,0.58,8.8,506.38,288.09
+87954,30-04-2010,Critical,638,Technology,KH 688,Santa Cruz,Express Air,02-05-2010,0,195.99,6,0.57,4.2,1042.72,719.4768
+87958,03-05-2012,High,638,Office Supplies,Sanford Pocket Accent? Highlighters,Santa Cruz,Express Air,05-05-2012,0.04,1.6,9,0.42,1.29,15.69,-8.44
+87958,03-05-2012,High,638,Technology,V 3600 Series,Santa Cruz,Regular Air,04-05-2012,0.04,65.99,16,0.58,8.99,899.01,398.223
+87959,12-06-2012,Low,638,Furniture,DAX Solid Wood Frames,Santa Cruz,Regular Air,19-06-2012,0.05,9.77,5,0.48,6.02,48.72,8.4
+87952,14-02-2010,Not Specified,639,Furniture,Chromcraft Rectangular Conference Tables,Santa Maria,Delivery Truck,15-02-2010,0,236.97,9,0.61,59.24,1769.91,1192.04
+87961,18-02-2013,Low,639,Furniture,Bush Advantage Collection? Round Conference Table,Santa Maria,Delivery Truck,25-02-2013,0.04,212.6,3,0.73,110.2,513.87,-776.72
+87961,18-02-2013,Low,639,Technology,Accessory36,Santa Maria,Regular Air,18-02-2013,0.1,55.99,1,0.83,5,46.67,-300.388
+91213,16-04-2010,Not Specified,653,Office Supplies,Wilson Jones Suede Grain Vinyl Binders,Rancho Cucamonga,Express Air,17-04-2010,0,2.78,9,0.36,1.49,29.92,20.6448
+91216,16-04-2013,Not Specified,653,Technology,Epson DFX-8500 Dot Matrix Printer,Rancho Cucamonga,Delivery Truck,18-04-2013,0.1,2550.14,2,0.57,29.7,4911.57,-3798.0111
+91336,08-06-2011,Low,661,Furniture,Nu-Dell Leatherette Frames,Whittier,Regular Air,10-06-2011,0.04,14.34,9,0.49,5,125.86,86.8434
+91337,17-01-2012,Medium,661,Office Supplies,Newell 320,Whittier,Regular Air,19-01-2012,0.01,4.28,2,0.58,1.6,9.52,-5.58
+44517,23-04-2010,Medium,699,Office Supplies,Xerox 1954,Los Angeles,Regular Air,24-04-2010,0.03,5.28,5,0.4,5.61,32.5,-16.67
+55392,06-06-2010,Critical,699,Office Supplies,"Staples Pen Style Liquid Stix; Assorted (yellow, pink, green, blue, orange), 5/Pack",Los Angeles,Regular Air,07-06-2010,0.02,6.47,30,0.4,1.22,193.95,40.2
+55392,06-06-2010,Critical,699,Office Supplies,SANFORD Liquid Accent? Tank-Style Highlighters,Los Angeles,Regular Air,08-06-2010,0.07,2.84,59,0.54,0.93,158.8,3.21
+36647,30-06-2010,High,699,Office Supplies,"Staples Vinyl Coated Paper Clips, 800/Box",Los Angeles,Regular Air,01-07-2010,0.01,7.89,32,0.4,2.82,274.26,38.7
+36647,30-06-2010,High,699,Office Supplies,"*Staples* vLetter Openers, 2/Pack",Los Angeles,Regular Air,01-07-2010,0.09,3.68,24,0.83,1.32,83.16,-21.91
+36647,30-06-2010,High,699,Office Supplies,Filing/Storage Totes and Swivel Casters,Los Angeles,Regular Air,03-07-2010,0.1,9.71,27,0.6,9.45,261.93,-119.77
+32420,29-07-2010,Medium,699,Technology,"Imation 3.5, DISKETTE 44766 HGHLD3.52HD/FM, 10/Pack",Los Angeles,Regular Air,31-07-2010,0.07,5.02,42,0.79,5.14,210.1,-168.72
+32420,29-07-2010,Medium,699,Furniture,Hon 2090 ?Pillow Soft? Series Mid Back Swivel/Tilt Chairs,Los Angeles,Delivery Truck,31-07-2010,0.07,280.98,23,0.78,57,6499.87,-439.62
+3042,20-11-2010,Medium,699,Office Supplies,"Dixon Prang? Watercolor Pencils, 10-Color Set with Brush",Los Angeles,Regular Air,21-11-2010,0.1,4.26,88,0.44,1.2,351.56,15.42
+21539,09-07-2011,Medium,699,Furniture,"Lesro Sheffield Collection Coffee Table, End Table, Center Table, Corner Table",Los Angeles,Regular Air,09-07-2011,0.05,71.37,47,0.68,69,2819.81,-1730.3
+26784,23-07-2011,Critical,699,Furniture,Hon Every-Day? Chair Series Swivel Task Chairs,Los Angeles,Delivery Truck,24-07-2011,0.02,120.98,14,0.64,30,1711.44,-64.14
+48994,22-10-2011,Not Specified,699,Office Supplies,Office Impressions Heavy Duty Welded Shelving & Multimedia Storage Drawers,Los Angeles,Regular Air,24-10-2011,0.03,167.27,11,0.85,35,1991.72,-373.476
+59815,15-12-2011,Not Specified,699,Office Supplies,"""While you Were Out"" Message Book, One Form per Page",Los Angeles,Regular Air,17-12-2011,0.09,3.71,26,0.35,1.93,95.75,-1.06
+23617,05-05-2012,Not Specified,699,Office Supplies,Vinyl Sectional Post Binders,Los Angeles,Express Air,07-05-2012,0.04,37.7,9,0.35,2.99,371.01,63.6055
+36196,06-08-2012,Not Specified,699,Technology,"DS/HD IBM Formatted Diskettes, 10/Pack - Staples",Los Angeles,Regular Air,08-08-2012,0.07,4.98,14,0.64,4.32,78.02,-38.44
+36196,06-08-2012,Not Specified,699,Furniture,DAX Solid Wood Frames,Los Angeles,Regular Air,07-08-2012,0.09,9.77,12,0.48,6.02,124.06,17.31
+9344,06-12-2012,Low,699,Office Supplies,Safco Industrial Wire Shelving,Los Angeles,Regular Air,08-12-2012,0.09,95.99,36,,35,3466.2,-505.69
+9344,06-12-2012,Low,699,Technology,SC7868i,Los Angeles,Regular Air,06-12-2012,0.02,125.99,62,0.55,8.99,6897.29,900.414
+36356,25-12-2012,Medium,699,Furniture,Hon Valutask? Swivel Chairs,Los Angeles,Delivery Truck,27-12-2012,0.01,100.98,90,0.69,45,9537.18,-593.8
+36356,25-12-2012,Medium,699,Office Supplies,Avery 510,Los Angeles,Regular Air,27-12-2012,0.08,3.75,66,0.37,0.5,235.54,47.98
+57638,22-04-2013,Low,699,Furniture,"Chromcraft Bull-Nose Wood Round Conference Table Top, Wood Base",Los Angeles,Delivery Truck,27-04-2013,0.09,217.85,35,0.68,29.1,5740.62,-526.478095
+57638,22-04-2013,Low,699,Office Supplies,Personal Creations? Ink Jet Cards and Labels,Los Angeles,Regular Air,24-04-2013,0.07,11.48,49,0.36,5.43,570.43,78.89
+57638,22-04-2013,Low,699,Office Supplies,Kleencut? Forged Office Shears by Acme United Corporation,Los Angeles,Regular Air,24-04-2013,0.08,2.08,49,0.55,2.56,100.08,-85.58
+21539,09-07-2013,Medium,699,Office Supplies,Standard Line? ?While You Were Out? Hardbound Telephone Message Book,Los Angeles,Regular Air,10-07-2013,0.04,21.98,25,0.39,8.32,539.07,40.11
+26784,23-07-2013,Critical,699,Technology,Sharp EL500L Fraction Calculator,Los Angeles,Regular Air,24-07-2013,0.09,13.99,46,0.39,7.51,613.65,-37.9407
+4771,13-12-2013,Critical,699,Furniture,Hon iLevel? Computer Training Table,Los Angeles,Delivery Truck,15-12-2013,0.04,31.76,8,0.65,45.51,271.86,-126.47
+87980,20-11-2010,Medium,700,Office Supplies,"Dixon Prang? Watercolor Pencils, 10-Color Set with Brush",Santa Maria,Regular Air,21-11-2010,0.1,4.26,22,0.44,1.2,87.89,33.924
+87981,09-07-2011,Medium,701,Office Supplies,Standard Line? ?While You Were Out? Hardbound Telephone Message Book,Santa Monica,Regular Air,10-07-2011,0.04,21.98,5,0.39,8.32,107.81,40.11
+87981,09-07-2011,Medium,701,Furniture,"Lesro Sheffield Collection Coffee Table, End Table, Center Table, Corner Table",Santa Monica,Regular Air,09-07-2011,0.05,71.37,12,0.68,69,719.95,-1730.3
+87985,05-05-2012,Not Specified,701,Office Supplies,Vinyl Sectional Post Binders,Santa Monica,Express Air,07-05-2012,0.04,37.7,2,0.35,2.99,82.45,56.8905
+87987,06-12-2012,Low,701,Office Supplies,Safco Industrial Wire Shelving,Santa Monica,Regular Air,08-12-2012,0.09,95.99,9,,35,866.55,-252.845
+87987,06-12-2012,Low,701,Technology,SC7868i,Santa Monica,Regular Air,06-12-2012,0.02,125.99,16,0.55,8.99,1779.95,1228.1655
+87992,13-12-2013,Critical,701,Furniture,Hon iLevel? Computer Training Table,Santa Monica,Delivery Truck,15-12-2013,0.04,31.76,2,0.65,45.51,67.96,-42.49392
+87977,23-04-2010,Medium,702,Office Supplies,Xerox 1954,Santa Rosa,Regular Air,24-04-2010,0.03,5.28,1,0.4,5.61,6.5,-16.67
+87979,30-06-2010,High,702,Office Supplies,"Staples Vinyl Coated Paper Clips, 800/Box",Santa Rosa,Regular Air,01-07-2010,0.01,7.89,8,0.4,2.82,68.56,46.44
+87979,30-06-2010,High,702,Office Supplies,"*Staples* vLetter Openers, 2/Pack",Santa Rosa,Regular Air,01-07-2010,0.09,3.68,6,0.83,1.32,20.79,-17.528
+87979,30-06-2010,High,702,Office Supplies,Filing/Storage Totes and Swivel Casters,Santa Rosa,Regular Air,03-07-2010,0.1,9.71,7,0.6,9.45,67.91,-95.816
+87986,06-08-2012,Not Specified,702,Technology,"DS/HD IBM Formatted Diskettes, 10/Pack - Staples",Santa Rosa,Regular Air,08-08-2012,0.07,4.98,3,0.64,4.32,16.72,-19.9888
+87988,25-12-2012,Medium,702,Furniture,Hon Valutask? Swivel Chairs,Santa Rosa,Delivery Truck,27-12-2012,0.01,100.98,23,0.69,45,2437.28,-296.9
+87988,25-12-2012,Medium,702,Office Supplies,Avery 510,Santa Rosa,Regular Air,27-12-2012,0.08,3.75,17,0.37,0.5,60.67,41.8623
+87984,15-12-2011,Not Specified,703,Office Supplies,"""While you Were Out"" Message Book, One Form per Page",Saratoga,Regular Air,17-12-2011,0.09,3.71,6,0.35,1.93,22.1,-0.53
+86998,03-10-2011,Not Specified,776,Furniture,"Office Star - Contemporary Task Swivel chair with 2-way adjustable arms, Plum",Oceanside,Delivery Truck,04-10-2011,0.06,130.98,8,0.78,30,1057.4,-282.7116
+87000,01-03-2013,Medium,776,Office Supplies,GBC Wire Binding Strips,Oceanside,Regular Air,02-03-2013,0.1,31.74,2,0.37,12.62,62.57,-9.315
+87000,01-03-2013,Medium,776,Office Supplies,"Snap-A-Way? Black Print Carbonless Ruled Speed Letter, Triplicate",Oceanside,Regular Air,02-03-2013,0.09,37.94,2,0.38,5.08,71.88,39.23
+87001,13-06-2013,Not Specified,776,Office Supplies,JM Magazine Binder,Oceanside,Regular Air,14-06-2013,0.07,16.51,15,0.37,2.99,238.35,164.4615
+87001,13-06-2013,Not Specified,776,Office Supplies,"Eaton Premium Continuous-Feed Paper, 25% Cotton, Letter Size, White, 1000 Shts/Box",Oceanside,Regular Air,14-06-2013,0.01,55.48,8,0.37,6.79,455.05,313.9845
+87001,13-06-2013,Not Specified,776,Office Supplies,Space Solutions? Industrial Galvanized Steel Shelving.,Oceanside,Regular Air,14-06-2013,0.03,78.8,17,0.83,35,1351.62,-878.376
+90962,29-04-2010,High,782,Office Supplies,Home/Office Personal File Carts,Whittier,Regular Air,30-04-2010,0.04,34.76,8,0.6,5.49,279.01,192.5169
+91513,06-04-2010,Medium,786,Office Supplies,Southworth 25% Cotton Antique Laid Paper & Envelopes,Mission Viejo,Regular Air,07-04-2010,0,8.34,9,0.4,4.82,76.23,-5.05
+91514,29-04-2011,Medium,786,Furniture,Bretford CR4500 Series Slim Rectangular Table,Mission Viejo,Delivery Truck,01-05-2011,0.02,348.21,9,0.62,40.19,3327.55,-4560.43
+91517,03-03-2013,High,786,Office Supplies,"Holmes Replacement Filter for HEPA Air Cleaner, Very Large Room, HEPA Filter",Mission Viejo,Delivery Truck,05-03-2013,0.05,68.81,6,0.41,60,427.48,-527.83
+91517,03-03-2013,High,786,Office Supplies,"Acme Design Line 8"" Stainless Steel Bent Scissors w/Champagne Handles, 3-1/8"" Cut",Mission Viejo,Regular Air,05-03-2013,0.03,6.84,2,0.58,8.37,16.03,-48.28
+91518,06-04-2013,Medium,786,Office Supplies,Computer Printout Paper with Letter-Trim Perforations,Mission Viejo,Express Air,07-04-2013,0.09,18.97,10,0.37,9.03,186.73,67.03
+91520,26-07-2013,High,786,Furniture,KI Conference Tables,Mission Viejo,Delivery Truck,27-07-2013,0.06,70.89,16,0.69,89.3,1183.23,-2766.61584
+91515,17-12-2011,Medium,787,Technology,252,Modesto,Regular Air,17-12-2011,0.08,65.99,8,0.55,5.92,439.97,70.6455
+91516,28-10-2012,High,787,Technology,"Sharp EL501VB Scientific Calculator, Battery Operated, 10-Digit Display, Hard Case",Modesto,Regular Air,29-10-2012,0.04,9.49,1,0.39,5.76,12.54,-29.888676
+91519,03-05-2013,Low,787,Furniture,"Bush Westfield Collection Bookcases, Fully Assembled",Modesto,Delivery Truck,08-05-2013,0.08,100.98,15,0.62,35.84,1433.08,-335.77
+89770,09-01-2010,High,833,Office Supplies,Boston 16765 Mini Stand Up Battery Pencil Sharpener,Gilroy,Express Air,11-01-2010,0,11.66,11,0.59,8.99,138.51,-203.67
+89772,06-03-2013,High,833,Technology,"Sony MFD2HD Formatted Diskettes, 10/Pack",Gilroy,Regular Air,08-03-2013,0,6.48,6,0.71,2.74,42.68,-37.88
+89772,06-03-2013,High,833,Furniture,Hon 4060 Series Tables,Gilroy,Regular Air,07-03-2013,0.07,111.96,5,0.63,69,437.96,-742.88
+89893,08-08-2011,Critical,838,Office Supplies,Belkin 8 Outlet Surge Protector,Hacienda Heights,Regular Air,09-08-2011,0,40.98,18,0.57,5.33,791.61,546.2109
+89894,03-08-2012,Not Specified,838,Office Supplies,Xerox 1949,Hacienda Heights,Regular Air,04-08-2012,0.04,4.98,24,0.36,4.72,119.4,-43.5656
+89894,03-08-2012,Not Specified,838,Office Supplies,Prang Colored Pencils,Hacienda Heights,Express Air,03-08-2012,0.04,2.94,23,0.4,0.81,72.55,50.0595
+89895,09-12-2012,Medium,838,Technology,"Imation Neon Mac Format Diskettes, 10/Pack",Hacienda Heights,Regular Air,09-12-2012,0.1,8.12,18,0.77,2.83,134.28,-49.51
+89896,02-10-2013,Not Specified,838,Technology,Imation DVD-RAM discs,Hacienda Heights,Regular Air,04-10-2013,0.09,35.41,11,0.43,1.99,354.46,138.1
+89896,02-10-2013,Not Specified,838,Technology,Canon imageCLASS 2200 Advanced Copier,Hacienda Heights,Regular Air,03-10-2013,0.05,3499.99,2,0.37,24.49,6849.48,-9078.94
+89365,12-04-2011,Critical,840,Furniture,Hon 4070 Series Pagoda? Round Back Stacking Chairs,Goleta,Delivery Truck,15-04-2011,0.1,320.98,3,0.57,58.95,934.72,124.36
+89365,12-04-2011,Critical,840,Office Supplies,Newell 337,Goleta,Regular Air,13-04-2011,0.08,3.28,3,0.56,3.97,10.88,-28.37
+89365,12-04-2011,Critical,840,Technology,Accessory29,Goleta,Regular Air,15-04-2011,0,20.99,13,0.83,1.25,232.22,10.998
+89366,12-05-2012,Critical,840,Furniture,"Global Push Button Manager's Chair, Indigo",Goleta,Delivery Truck,13-05-2012,0.08,60.89,14,0.56,32.41,852.12,-319.26
+89370,15-10-2013,Critical,840,Office Supplies,Cardinal Holdit Business Card Pockets,Goleta,Regular Air,17-10-2013,0.04,4.98,18,0.37,4.95,88.68,-84.4215
+88569,07-09-2010,Not Specified,850,Office Supplies,Zebra Zazzle Fluorescent Highlighters,Goleta,Regular Air,08-09-2010,0.07,6.08,7,0.51,0.91,41.96,19.57
+88573,16-07-2012,Critical,850,Office Supplies,Sanford 52201 APSCO Electric Pencil Sharpener,Goleta,Regular Air,18-07-2012,0.04,40.97,9,0.59,8.99,374.57,154.85
+88568,25-02-2010,Low,851,Furniture,"Dana Fluorescent Magnifying Lamp, White, 36""",Hacienda Heights,Regular Air,27-02-2010,0.1,50.98,6,0.55,22.24,300.63,98.12
+88569,07-09-2010,Not Specified,851,Office Supplies,"Holmes Cool Mist Humidifier for the Whole House with 8-Gallon Output per Day, Extended Life Filter",Hacienda Heights,Regular Air,09-09-2010,0.08,19.9,13,0.4,5.29,240.46,107.11
+88569,07-09-2010,Not Specified,851,Office Supplies,Cardinal Poly Pocket Divider Pockets for Ring Binders,Hacienda Heights,Regular Air,09-09-2010,0.02,3.36,21,0.4,6.27,74.08,-216.154
+88571,31-10-2010,Critical,851,Office Supplies,Bagged Rubber Bands,Hacienda Heights,Regular Air,31-10-2010,0.06,1.26,4,0.81,0.7,5.28,-6.6096
+88575,13-08-2013,Medium,851,Office Supplies,Avery Binder Labels,Hacienda Heights,Regular Air,13-08-2013,0.08,3.89,25,0.37,7.01,96.56,-111.835936
+88578,04-10-2013,Not Specified,852,Office Supplies,"Wilson Jones Hanging View Binder, White, 1""",Hemet,Regular Air,04-10-2013,0.06,7.1,9,0.39,6.05,63.27,-51.3015
+88578,04-10-2013,Not Specified,852,Furniture,"Seth Thomas 13 1/2"" Wall Clock",Hemet,Regular Air,05-10-2013,0.05,17.78,10,0.54,5.03,174.94,89.95
+88570,16-09-2010,High,853,Office Supplies,Storex DuraTech Recycled Plastic Frosted Binders,Hesperia,Regular Air,18-09-2010,0.05,4.24,12,0.35,5.41,50.83,-89.217
+88572,22-05-2012,Medium,853,Furniture,Chromcraft Bull-Nose Wood Oval Conference Tables & Bases,Hesperia,Delivery Truck,23-05-2012,0.08,550.98,19,0.71,45.7,8027.28,3918.54
+88574,15-03-2013,Not Specified,853,Office Supplies,Heavy-Duty E-Z-D? Binders,Hesperia,Regular Air,17-03-2013,0.05,10.91,5,0.38,2.99,56.68,39.1092
+88577,16-09-2013,High,853,Office Supplies,Brown Kraft Recycled Envelopes,Hesperia,Regular Air,18-09-2013,0.1,16.98,14,0.35,12.39,235.35,-69.0552
+89543,15-09-2011,Low,883,Technology,Sharp AL-1530CS Digital Copier,Atascadero,Express Air,22-09-2011,0,499.99,21,0.36,24.49,10933.47,-1312.84
+89545,05-07-2012,High,883,Furniture,Bretford CR8500 Series Meeting Room Furniture,Atascadero,Regular Air,07-07-2012,0.02,2.88,2,0.71,0.5,5.81,2.45
+89558,20-09-2013,Medium,883,Furniture,Deflect-o DuraMat Antistatic Studded Beveled Mat for Medium Pile Carpeting,Atascadero,Regular Air,22-09-2013,0.02,16.98,4,0.61,12.39,74.76,-28.6212
+89560,27-10-2013,Critical,883,Furniture,Eldon Expressions Mahogany Wood Desk Collection,Atascadero,Regular Air,28-10-2013,0.03,113.64,11,0.6,35,1268.16,-530.68
+89563,14-11-2013,High,883,Technology,Canon MP100DHII Printing Calculator,Atascadero,Regular Air,14-11-2013,0.01,140.99,43,0.37,13.99,6482.1,4472.649
+90807,17-05-2011,Low,901,Technology,Epson LQ-570e Dot Matrix Printer,Modesto,Delivery Truck,24-05-2011,0.01,270.97,11,0.56,28.06,3197.22,2206.0818
+90808,09-07-2011,High,901,Furniture,Eldon Radial Chair Mat for Low to Medium Pile Carpets,Modesto,Express Air,11-07-2011,0.09,39.98,11,0.65,9.2,409.73,154.16
+90809,18-12-2011,Not Specified,901,Office Supplies,OIC Thumb-Tacks,Modesto,Regular Air,20-12-2011,0.06,1.14,19,0.38,0.7,21.9,-0.73
+90810,19-09-2012,High,901,Office Supplies,"Acco Four Pocket Poly Ring Binder with Label Holder, Smoke, 1""",Modesto,Regular Air,21-09-2012,0.06,7.45,6,0.4,6.28,47.26,-36.225
+90492,12-04-2010,High,918,Office Supplies,Steel Personal Filing/Posting Tote,Rancho Cucamonga,Regular Air,14-04-2010,0.05,35.51,2,0.58,6.31,73.1,6.11
+90493,20-11-2010,Critical,918,Furniture,O'Sullivan 3-Shelf Heavy-Duty Bookcases,Rancho Cucamonga,Delivery Truck,21-11-2010,0.09,58.14,39,0.61,36.61,2115.06,187.412
+90494,24-09-2011,Medium,918,Office Supplies,Jet-Pak Recycled Peel 'N' Seal Padded Mailers,Rancho Cucamonga,Express Air,25-09-2011,0.1,35.89,21,0.4,14.72,685.17,91.56
+90495,20-02-2012,High,918,Furniture,"Bush Westfield Collection Bookcases, Dark Cherry Finish, Fully Assembled",Rancho Cucamonga,Delivery Truck,21-02-2012,0.08,100.98,9,0.78,57.38,894.58,-1341.11
+90496,02-07-2012,Critical,918,Office Supplies,Xerox 1984,Rancho Cucamonga,Regular Air,03-07-2012,0.07,6.48,7,0.36,8.74,45.24,-105.15
+90499,25-10-2013,Critical,918,Office Supplies,Xerox 4200 Series MultiUse Premium Copy Paper (20Lb. and 84 Bright),Rancho Cucamonga,Regular Air,26-10-2013,0.08,5.28,20,0.4,5.66,105.88,-107.2
+90492,12-04-2010,High,919,Office Supplies,Acme? Elite Stainless Steel Scissors,Redding,Regular Air,12-04-2010,0.1,8.34,6,0.59,2.64,47.95,-6.34
+90495,20-02-2012,High,919,Office Supplies,Kensington 6 Outlet SmartSocket Surge Protector,Redding,Regular Air,21-02-2012,0.04,40.98,12,0.6,7.2,483.59,275.5
+90496,02-07-2012,Critical,919,Technology,Lexmark 4227 Plus Dot Matrix Printer,Redding,Delivery Truck,04-07-2012,0.01,2036.48,1,0.55,14.7,2116.92,-3669.051
+90497,30-10-2012,Medium,919,Technology,2190,Redding,Regular Air,01-11-2012,0.09,65.99,16,0.56,5.63,851.68,274.34952
+90491,27-03-2010,Low,920,Technology,Logitech Access Keyboard,Redlands,Regular Air,01-04-2010,0.1,15.98,9,0.37,4,134.38,92.7222
+90492,12-04-2010,High,920,Office Supplies,"Fellowes Twister Kit, Gray/Clear, 3/pkg",Redlands,Regular Air,14-04-2010,0.03,8.04,9,0.4,8.94,76.77,-160.2755
+90494,24-09-2011,Medium,920,Office Supplies,Round Ring Binders,Redlands,Regular Air,26-09-2011,0.03,2.08,20,0.38,1.49,43.84,-9.361
+90498,12-04-2013,High,920,Technology,Epson DFX-8500 Dot Matrix Printer,Redlands,Delivery Truck,14-04-2013,0.08,2550.14,1,0.57,29.7,2346.13,-7373.1282
+87135,20-05-2010,Not Specified,922,Technology,5180,Rancho Cucamonga,Express Air,21-05-2010,0.01,65.99,14,0.56,8.99,782,396.972
+87136,13-01-2011,Low,922,Office Supplies,Ibico EB-19 Dual Function Manual Binding System,Rancho Cucamonga,Regular Air,15-01-2011,0.1,172.99,13,0.39,19.99,2089.9,1442.031
+87140,12-09-2012,Medium,922,Office Supplies,Rediform S.O.S. Phone Message Books,Rancho Cucamonga,Regular Air,14-09-2012,0.05,4.98,13,0.36,0.8,66.83,46.1127
+87140,12-09-2012,Medium,922,Technology,8860,Rancho Cucamonga,Regular Air,14-09-2012,0.08,65.99,5,0.56,5.26,262.84,-147.015
+87137,28-05-2011,Medium,923,Technology,AT&T 1430 2.4GHz Analog Phone w/Caller ID,Redding,Regular Air,28-05-2011,0.02,40.99,17,0.54,8.97,727.04,395.85
+87144,04-07-2013,High,923,Office Supplies,Economy Rollaway Files,Redding,Express Air,06-07-2013,0.04,165.2,13,0.59,19.99,2170.05,1497.3345
+87143,28-05-2013,Medium,924,Technology,"Memorex 'Cool' 80 Minute CD-R Spindle, 25/Pack",Redlands,Regular Air,29-05-2013,0.09,17.48,12,0.46,1.99,206.82,142.7058
+90588,17-02-2010,Critical,936,Office Supplies,"Adams Telephone Message Books, 5 1/4? x 11?",Redlands,Express Air,19-02-2010,0.05,6.04,1,0.38,2.14,8.41,-4.14
+90589,27-12-2010,Not Specified,936,Office Supplies,Xerox 1983,Redlands,Regular Air,27-12-2010,0.05,5.98,17,0.36,5.46,104.95,-31.885
+90590,26-07-2011,Not Specified,936,Office Supplies,"Wirebound Message Books, Four 2 3/4"" x 5"" Forms per Page, 600 Sets per Book",Redlands,Regular Air,27-07-2011,0.02,9.27,5,0.38,4.39,50.07,12.97
+90589,27-12-2010,Not Specified,937,Technology,StarTAC 7760,Redondo Beach,Regular Air,28-12-2010,0.01,65.99,3,0.59,3.99,166.59,-95.2105
+90591,06-10-2012,Medium,937,Technology,T65,Redondo Beach,Express Air,07-10-2012,0.04,195.99,3,0.56,4.2,490.04,-513.71496
+90592,29-11-2012,Medium,937,Furniture,"Executive Impressions 13-1/2"" Indoor/Outdoor Wall Clock",Redondo Beach,Regular Air,01-12-2012,0.08,18.7,11,0.47,8.99,208.2,115.126
+90592,29-11-2012,Medium,937,Office Supplies,Newell 323,Redondo Beach,Regular Air,01-12-2012,0.05,1.68,21,0.59,1.57,35.17,5.104
+86567,06-09-2010,Not Specified,945,Office Supplies,GBC Wire Binding Strips,Saratoga,Regular Air,06-09-2010,0.03,31.74,3,0.37,12.62,98.7,-4.301
+86569,20-11-2011,Low,945,Furniture,Deflect-o DuraMat Antistatic Studded Beveled Mat for Medium Pile Carpeting,Saratoga,Regular Air,20-11-2011,0.04,105.34,13,0.61,24.49,1349.01,930.8169
+86570,14-11-2012,Low,945,Furniture,Eldon Expressions Mahogany Wood Desk Collection,Saratoga,Regular Air,14-11-2012,0.06,6.24,14,0.6,5.22,86.42,6.994
+86571,07-04-2013,High,945,Office Supplies,Plymouth Boxed Rubber Bands by Plymouth,Saratoga,Regular Air,08-04-2013,0.02,4.71,1,0.8,0.7,5.2,-7.97
+86572,10-04-2013,Medium,945,Furniture,Bretford CR8500 Series Meeting Room Furniture,Saratoga,Delivery Truck,12-04-2013,0.01,400.98,5,0.71,42.52,1612.26,1112.4594
+9285,02-01-2010,Critical ,949,Office Supplies,"Avery Trapezoid Ring Binder, 3"" Capacity, Black, 1040 sheets",Los Angeles,Regular Air,04-01-2010,0.06,40.98,3,0.36,2.99,124.81,-19.0992
+8257,22-03-2010,Low,949,Office Supplies,Xerox 1910,Los Angeles,Regular Air,26-03-2010,0.02,48.04,18,0.37,5.09,881.32,373.67
+46434,01-04-2011,Critical,949,Office Supplies,Large Capacity Hanging Post Binders,Los Angeles,Regular Air,02-04-2011,0.06,24.95,34,0.39,2.99,800.39,270.2915
+58054,04-01-2012,High,949,Furniture,Eldon? Wave Desk Accessories,Los Angeles,Regular Air,04-01-2012,0.04,2.08,29,0.43,5.33,68.48,-147.376
+51559,04-03-2013,Low,949,Office Supplies,Boston 1799 Powerhouse? Electric Pencil Sharpener,Los Angeles,Regular Air,13-03-2013,0.09,25.98,34,0.57,4.08,823.98,129.81
+8257,22-03-2013,Low,949,Technology,Epson DFX5000+ Dot Matrix Printer,Los Angeles,Delivery Truck,22-03-2013,0.05,1500.97,5,0.57,29.7,7486.09,-2561.3235
+8257,22-03-2013,Low,949,Office Supplies,Newell 320,Los Angeles,Regular Air,29-03-2013,0.03,4.28,5,0.58,1.6,22.77,-6.2
+57092,01-05-2013,Critical,949,Technology,LX 677,Los Angeles,Regular Air,02-05-2013,0.03,110.99,38,0.57,8.99,3696.09,601.335
+32230,19-08-2013,High,949,Furniture,Eldon Radial Chair Mat for Low to Medium Pile Carpets,Los Angeles,Regular Air,20-08-2013,0.07,39.98,92,0.65,9.2,3507.5,215.11
+42848,06-10-2013,Not Specified,949,Office Supplies,"Rediform Wirebound ""Phone Memo"" Message Book, 11 x 5-3/4",Los Angeles,Regular Air,08-10-2013,0.01,7.64,105,0.36,5.83,814.36,-56.51
+5890,03-11-2013,High,949,Technology,Accessory21,Los Angeles,Express Air,04-11-2013,0,20.99,151,0.37,0.99,2924.85,435.951
+89401,04-02-2010,Low,960,Office Supplies,Newell 343,Redondo Beach,Regular Air,08-02-2010,0.03,2.94,1,0.58,0.96,3.51,-4.2
+89405,08-01-2013,Medium,960,Furniture,Bretford Rectangular Conference Table Tops,Redondo Beach,Delivery Truck,10-01-2013,0.07,376.13,1,0.74,85.63,296.97,-430.4784
+89402,24-08-2010,Not Specified,961,Furniture,Bevis 36 x 72 Conference Tables,Redwood City,Delivery Truck,24-08-2010,0.05,124.49,1,0.63,51.94,120.12,-44.1636
+89403,18-01-2011,Not Specified,961,Furniture,"Global Leather Highback Executive Chair with Pneumatic Height Adjustment, Black",Redwood City,Delivery Truck,20-01-2011,0.01,200.98,1,0.58,23.76,220.83,-99.1504
+89404,01-07-2012,High,961,Furniture,Office Star - Ergonomic Mid Back Chair with 2-Way Adjustable Arms,Redwood City,Delivery Truck,02-07-2012,0.01,180.98,4,0.69,30,734.76,-45.02
+89404,01-07-2012,High,961,Office Supplies,Xerox 1937,Redwood City,Regular Air,03-07-2012,0,48.04,10,0.37,5.79,511.15,352.6935
+89404,01-07-2012,High,961,Furniture,Bretford CR8500 Series Meeting Room Furniture,Redwood City,Delivery Truck,03-07-2012,0.09,400.98,7,0.71,42.52,2096.17,541.01
+86177,30-12-2011,Low,964,Office Supplies,"Quartet Alpha? White Chalk, 12/Pack",Redwood City,Regular Air,31-03-2012,0.02,2.21,10,0.38,1,22.35,5.82
+87259,29-08-2010,Low,972,Furniture,Global Commerce? Series High-Back Swivel/Tilt Chairs,Riverside,Delivery Truck,05-09-2010,0.03,284.98,2,0.6,69.55,619.38,-116.584
+87259,29-08-2010,Low,972,Furniture,"Tensor ""Hersey Kiss"" Styled Floor Lamp",Riverside,Regular Air,29-08-2010,0,12.99,1,0.73,14.37,18.69,12.8961
+87265,11-02-2013,Medium,972,Technology,1726 Digital Answering Machine,Riverside,Regular Air,12-02-2013,0.07,20.99,1,0.58,4.81,19.47,-102.432
+87267,21-05-2013,Low,972,Office Supplies,#10 Self-Seal White Envelopes,Riverside,Regular Air,30-05-2013,0.09,11.09,8,0.36,5.25,86.45,16.92
+87267,21-05-2013,Low,972,Technology,Canon BP1200DH 12-Digit Bubble Jet Printing Calculator,Riverside,Express Air,21-05-2013,0.08,120.97,8,0.36,7.11,898,619.62
+87268,05-08-2013,High,972,Office Supplies,#10 Self-Seal White Envelopes,Riverside,Regular Air,05-08-2013,0.05,11.09,22,0.36,5.25,241.42,82.37752
+87264,14-03-2012,High,973,Furniture,Staples Plastic Wall Frames,Rocklin,Express Air,15-03-2012,0.04,7.96,9,0.41,4.95,75.74,22.38
+87268,05-08-2013,High,973,Furniture,9-3/4 Diameter Round Wall Clock,Rocklin,Regular Air,07-08-2013,0.06,13.79,20,0.43,8.78,276.72,-2.756
+87270,09-11-2013,Not Specified,973,Office Supplies,"Conquest? 14 Commercial Heavy-Duty Upright Vacuum, Collection System, Accessory Kit",Rocklin,Regular Air,11-11-2013,0.06,56.96,23,0.56,13.22,1243.64,270.84288
+87270,09-11-2013,Not Specified,973,Technology,Keytronic French Keyboard,Rocklin,Express Air,10-11-2013,0.07,73.98,19,0.79,4,1412.3,55.80528
+90204,08-04-2011,Not Specified,984,Office Supplies,"Hunt BOSTON? Vista? Battery-Operated Pencil Sharpener, Black",Ontario,Regular Air,09-04-2011,0.02,11.66,5,0.58,7.95,59.69,-78.81
+90204,08-04-2011,Not Specified,984,Office Supplies,"Acme? 8"" Straight Scissors",Ontario,Regular Air,09-04-2011,0.04,12.98,5,0.6,3.14,64.34,12.82
+90205,31-10-2011,High,984,Technology,KF 788,Ontario,Regular Air,31-10-2011,0.02,45.99,11,0.56,4.99,444.34,156.92256
+90209,18-10-2012,Medium,984,Office Supplies,Tennsco Regal Shelving Units,Ontario,Regular Air,20-10-2012,0.07,101.41,3,0.82,35,323.07,-286.8696
+90210,12-11-2012,Critical,984,Furniture,SAFCO Folding Chair Trolley,Ontario,Express Air,13-11-2012,0.01,128.24,39,,12.65,5069.86,3498.2034
+90210,12-11-2012,Critical,984,Office Supplies,Avery 51,Ontario,Regular Air,14-11-2012,0.06,6.3,24,0.39,0.5,150.65,103.9485
+90214,08-04-2013,Not Specified,984,Office Supplies,Hoover? Commercial Lightweight Upright Vacuum,Ontario,Regular Air,09-04-2013,0.03,3.48,6,0.59,49,33.64,-1045.25
+89432,19-02-2010,High,993,Office Supplies,Xerox 1971,Oxnard,Regular Air,19-02-2010,0.05,4.28,9,0.4,5.17,38.58,-104.57
+89436,03-06-2013,Medium,993,Office Supplies,Avery Hanging File Binders,Oxnard,Regular Air,04-06-2013,0.07,5.98,8,0.39,1.49,46.37,31.9953
+89436,03-06-2013,Medium,993,Furniture,"Tenex Traditional Chairmats for Medium Pile Carpet, Standard Lip, 36"" x 48""",Oxnard,Regular Air,05-06-2013,0.08,60.65,13,0.64,12.23,744.42,406.692
+89437,24-06-2013,Critical,993,Furniture,"Electrix Incandescent Magnifying Lamp, Black",Oxnard,Regular Air,26-06-2013,0.04,36.65,18,0.58,22.6,641.97,-366.664
+87846,17-04-2010,Critical,1041,Technology,"Fellowes Smart Design 104-Key Enhanced Keyboard, PS/2 Adapter, Platinum",Woodland,Regular Air,18-04-2010,0.06,55.94,6,0.74,4,322.77,-13.77
+87846,17-04-2010,Critical,1041,Office Supplies,Avery 48,Woodland,Regular Air,17-04-2010,0.07,6.3,11,0.39,0.5,65.09,44.9121
+87849,06-02-2012,Medium,1041,Technology,5125,Woodland,Regular Air,07-02-2012,0.1,200.99,8,0.59,8.08,1316.16,720.954
+87852,30-10-2013,Critical,1041,Office Supplies,Park Ridge? Embossed Executive Business Envelopes,Woodland,Regular Air,31-10-2013,0,15.57,15,0.38,1.39,247.56,170.8164
+87847,16-05-2010,Critical,1042,Office Supplies,Holmes Odor Grabber,Yuba City,Express Air,17-05-2010,0,14.42,6,0.52,6.75,98.96,9.33
+87848,02-12-2011,Medium,1042,Furniture,O'Sullivan 3-Shelf Heavy-Duty Bookcases,Yuba City,Delivery Truck,03-12-2011,0.01,58.14,6,0.61,36.61,377.47,-113.12
+87850,21-10-2012,High,1043,Technology,"Memorex 80 Minute CD-R, 30/Pack",Yucaipa,Regular Air,23-10-2012,0.04,22.98,7,0.46,1.99,160.61,49.1648
+87851,06-09-2013,Low,1043,Technology,Epson LQ-570e Dot Matrix Printer,Yucaipa,Delivery Truck,08-09-2013,0.06,270.97,12,0.56,28.06,2641.14,910.2564
+28001,14-06-2010,Critical,1044,Furniture,Luxo Professional Fluorescent Magnifier Lamp with Clamp-Mount Base,Los Angeles,Regular Air,14-06-2010,0.02,209.84,62,0.59,21.21,13546.94,2593.14
+28001,14-06-2010,Critical,1044,Furniture,Electrix Halogen Magnifier Lamp,Los Angeles,Regular Air,16-06-2010,0.01,194.3,32,0.59,11.54,6401.65,1162.76
+47813,27-08-2010,High,1044,Office Supplies,Xerox 1923,Los Angeles,Regular Air,29-08-2010,0,6.68,90,0.37,5.66,617.4,-76.94
+35777,08-09-2011,Critical,1044,Office Supplies,Newell 325,Los Angeles,Regular Air,10-09-2011,0.09,4.13,64,0.55,1.23,250,5.91
+31303,20-03-2012,Low,1044,Office Supplies,Avery Hanging File Binders,Los Angeles,Express Air,22-03-2012,0.09,5.98,56,0.39,1.49,342.87,87.601
+6950,26-03-2013,Low,1044,Technology,Accessory24,Los Angeles,Regular Air,28-03-2013,0.08,55.99,4,0.59,3.3,187.4,-225.302
+91488,05-11-2010,Medium,1101,Office Supplies,Eldon? Gobal File Keepers,Oxnard,Regular Air,06-11-2010,0.02,15.14,3,0.81,4.53,51.02,5.884
+91490,04-08-2013,Critical,1101,Furniture,"Eldon Expressions Punched Metal & Wood Desk Accessories, Pewter & Cherry",Oxnard,Regular Air,05-08-2013,0.02,10.64,20,0.57,5.16,215.36,-16.5784
+91491,05-11-2013,Medium,1101,Furniture,"Tensor ""Hersey Kiss"" Styled Floor Lamp",Oxnard,Regular Air,05-11-2013,0.01,12.99,12,0.73,14.37,169.13,46.81296
+90832,02-10-2010,Not Specified,1112,Furniture,"Atlantic Metals Mobile 5-Shelf Bookcases, Custom Colors",Yucaipa,Delivery Truck,04-10-2010,0.03,300.98,12,0.55,54.92,3527.82,1272.5808
+90832,02-10-2010,Not Specified,1112,Technology,Epson DFX-8500 Dot Matrix Printer,Yucaipa,Delivery Truck,04-10-2010,0.02,2550.14,2,0.57,29.7,4698.21,-5390.738892
+86767,07-02-2010,Low,1121,Office Supplies,Southworth 25% Cotton Premium Laser Paper and Envelopes,Temecula,Regular Air,14-02-2010,0.04,19.98,8,0.37,8.68,168.04,108
+86767,07-02-2010,Low,1121,Technology,Timeport L7089,Temecula,Regular Air,09-02-2010,0.08,125.99,7,0.58,7.69,703.46,377.154
+86772,26-10-2011,Medium,1121,Office Supplies,"Multi-Use Personal File Cart and Caster Set, Three Stacking Bins",Temecula,Regular Air,27-10-2011,0.07,34.76,4,0.57,8.22,139.89,-15.1416
+86772,26-10-2011,Medium,1121,Furniture,Anderson Hickey Conga Table Tops & Accessories,Temecula,Delivery Truck,28-10-2011,0.03,15.23,4,0.76,27.75,77.11,-173.2212
+86785,08-07-2013,High,1121,Technology,Hewlett-Packard Deskjet 6122 Color Inkjet Printer,Temecula,Delivery Truck,10-07-2013,0.08,200.97,10,0.36,15.59,1547.25,1067.6025
+86787,04-11-2013,High,1121,Technology,Okidata ML591 Wide Format Dot Matrix Printer,Temecula,Delivery Truck,05-11-2013,0.07,810.98,3,0.56,16.06,2421.02,901.6313904
+86788,07-12-2013,Critical,1121,Furniture,"Bevis Round Bullnose 29"" High Table Top",Temecula,Delivery Truck,10-12-2013,0.03,259.71,13,0.61,66.67,3439.28,843.16544
+87015,15-09-2010,High,1123,Office Supplies,"Angle-D Binders with Locking Rings, Label Holders",Roseville,Regular Air,18-09-2010,0.03,7.3,14,0.38,7.72,103.61,-127.052
+87016,20-12-2010,High,1123,Technology,5165,Roseville,Regular Air,22-12-2010,0.09,175.99,22,0.59,4.99,3144.56,2169.7464
+87017,12-12-2011,High,1123,Office Supplies,Staples 4 Outlet Surge Protector,Roseville,Regular Air,13-12-2011,0.08,8.67,7,0.58,3.5,59.15,-9.265
+87018,26-06-2012,Low,1123,Furniture,Office Star Flex Back Scooter Chair with Aluminum Finish Frame,Roseville,Delivery Truck,28-06-2012,0.08,100.89,4,0.61,42,410.35,-169.064
+87019,05-09-2012,Medium,1123,Office Supplies,"Peel & Seel? Recycled Catalog Envelopes, Brown",Roseville,Regular Air,06-09-2012,0.1,11.58,1,0.35,5.72,13.16,-12.99
+90853,02-01-2010,Critical,1155,Office Supplies,"Black Print Carbonless Snap-Off? Rapid Letter, 8 1/2"" x 7""",Montebello,Express Air,04-01-2010,0.09,9.11,4,0.4,2.15,34.41,20.2996
+90853,02-01-2010,Critical,1155,Office Supplies,White GlueTop Scratch Pads,Montebello,Regular Air,02-01-2010,0.08,15.04,11,0.39,1.97,157.27,108.5163
+90856,28-05-2011,Not Specified,1155,Technology,"Memorex 4.7GB DVD-RAM, 3/Pack",Montebello,Regular Air,29-05-2011,0.01,31.78,14,0.42,1.99,471.3,325.197
+89121,14-10-2012,Medium,1161,Office Supplies,3M Office Air Cleaner,Roseville,Regular Air,16-10-2012,0.1,25.98,3,0.5,5.37,77.74,-7.1712
+89121,14-10-2012,Medium,1161,Office Supplies,Prang Drawing Pencil Set,Roseville,Regular Air,15-10-2012,0.06,2.78,10,0.45,1.34,27.03,-3.456
+91471,05-05-2013,Not Specified,1173,Office Supplies,Xerox 1881,Montebello,Regular Air,05-05-2013,0.08,12.28,13,0.38,6.47,160.67,25.58
+85939,09-04-2010,Critical,1186,Technology,Hewlett-Packard Deskjet 1220Cse Color Inkjet Printer,Huntington Beach,Delivery Truck,10-04-2010,0.07,400.97,10,0.36,48.26,3741.39,2581.5591
+85944,11-04-2013,Medium,1186,Office Supplies,Surelock? Post Binders,Huntington Beach,Regular Air,11-04-2013,0.03,30.56,11,0.35,2.99,329.34,227.2446
+87584,17-06-2010,Low,1189,Office Supplies,Belkin 6 Outlet Metallic Surge Strip,Huntington Beach,Regular Air,22-06-2010,0.06,10.89,14,0.59,4.5,149.32,-25.112
+87584,17-06-2010,Low,1189,Furniture,"Eldon Expressions Punched Metal & Wood Desk Accessories, Pewter & Cherry",Huntington Beach,Regular Air,22-06-2010,0.03,10.64,16,0.57,5.16,177.01,17.376
+87584,17-06-2010,Low,1189,Furniture,Staples Plastic Wall Frames,Huntington Beach,Regular Air,19-06-2010,0.03,7.96,4,0.41,4.95,35.16,24.2604
+87592,05-05-2011,Medium,1189,Office Supplies,Staples Brown Kraft Recycled Clasp Envelopes,Huntington Beach,Regular Air,06-05-2011,0.06,5.58,5,0.35,5.3,29.95,-28.83
+87596,03-09-2012,Low,1189,Office Supplies,Durable Pressboard Binders,Huntington Beach,Regular Air,05-09-2012,0.05,3.8,3,0.38,1.49,11.58,-1.2995
+87588,10-01-2011,Medium,1190,Office Supplies,Xerox 1898,Inglewood,Regular Air,12-01-2011,0.1,6.68,3,0.37,6.92,19.77,-58.28
+87591,22-03-2011,Critical,1190,Technology,"Fellowes Basic 104-Key Keyboard, Platinum",Inglewood,Regular Air,24-03-2011,0.1,20.95,9,0.65,5.99,184.77,-71.55
+87597,10-01-2013,Medium,1190,Office Supplies,Avery 508,Inglewood,Regular Air,12-01-2013,0.02,4.91,9,0.36,0.5,43.31,29.8839
+87598,22-03-2013,Critical,1190,Office Supplies,"Black Print Carbonless Snap-Off? Rapid Letter, 8 1/2"" x 7""",Inglewood,Regular Air,24-03-2013,0.02,9.11,1,0.4,2.15,9.65,-2.82
+89124,07-04-2011,Critical,1208,Office Supplies,Xerox 200,Inglewood,Regular Air,08-04-2011,0.06,6.48,2,0.37,6.35,14.2,-27.78
+89125,10-04-2011,High,1208,Office Supplies,Newell 323,Inglewood,Express Air,12-04-2011,0.04,1.68,11,0.59,1.57,19.37,-37.76
+89127,28-09-2013,Medium,1208,Office Supplies,Sterling Rubber Bands by Alliance,Inglewood,Regular Air,29-09-2013,0.02,4.71,15,0.85,0.7,73.75,-2.9716
+88410,09-04-2010,Medium,1271,Technology,StarTAC 3000,La Mesa,Regular Air,10-04-2010,0.07,125.99,8,0.59,7.69,852.53,588.2457
+88411,01-05-2010,Low,1271,Furniture,Hand-Finished Solid Wood Document Frame,La Mesa,Regular Air,06-05-2010,0.1,34.23,7,0.55,5.02,219.66,151.5654
+88412,07-04-2011,Medium,1271,Office Supplies,Staples Surge Protector 6 outlet,La Mesa,Regular Air,08-04-2011,0.08,10.98,7,0.58,3.99,71.68,-25.41
+88413,25-11-2011,Low,1271,Technology,Keytronic French Keyboard,La Mesa,Regular Air,02-12-2011,0.05,73.98,10,0.65,14.52,750.05,44.224
+88417,25-12-2013,High,1271,Office Supplies,Newell 336,La Mesa,Regular Air,26-12-2013,0.07,4.28,14,0.56,0.94,59.56,26.97344
+22755,30-03-2010,Medium,1314,Office Supplies,Wilson Jones 14 Line Acrylic Coated Pressboard Data Binders,Los Angeles,Regular Air,01-04-2010,0.04,5.34,45,0.38,2.99,240.6,3.451
+22755,30-03-2010,Medium,1314,Technology,Accessory6,Los Angeles,Regular Air,01-04-2010,0.06,55.99,5,0.8,5,236.88,-275.253
+27013,05-07-2010,Low,1314,Office Supplies,Carina Double Wide Media Storage Towers in Natural & Black,Los Angeles,Regular Air,09-07-2010,0.05,80.98,34,0.81,35,2710.47,-746.44
+27013,05-07-2010,Low,1314,Office Supplies,"Tennsco Snap-Together Open Shelving Units, Starter Sets and Add-On Units",Los Angeles,Regular Air,05-07-2010,0.05,279.48,31,0.8,35,8354.73,-274.95
+32641,21-03-2011,High,1314,Office Supplies,GBC Standard Plastic Binding Systems Combs,Los Angeles,Regular Air,22-03-2011,0.05,8.85,18,0.36,5.6,167.53,-9.568
+18598,06-08-2011,Critical,1314,Office Supplies,"GBC White Gloss Covers, Plain Front",Los Angeles,Express Air,09-08-2011,0.1,14.48,43,0.38,6.46,626.46,28.5515
+18598,06-08-2011,Critical,1314,Furniture,Luxo Professional Combination Clamp-On Lamps,Los Angeles,Regular Air,08-08-2011,0.03,102.3,83,0.59,21.26,8686.35,855.14
+15303,13-09-2011,Critical,1314,Office Supplies,"Avery? Durable Plastic 1"" Binders",Los Angeles,Regular Air,14-09-2011,0.02,4.54,38,0.36,5.83,183,-74.405
+15303,13-09-2011,Critical,1314,Technology,"Imation IBM Formatted Diskettes, 100/Pack",Los Angeles,Regular Air,15-09-2011,0.02,28.48,33,0.7,8.99,965.16,-108.14
+37380,01-04-2012,Critical,1314,Furniture,SAFCO Optional Arm Kit for Workspace? Cribbage Stacking Chair,Los Angeles,Regular Air,02-04-2012,0.08,26.64,32,,5.3,813.66,90.04
+37380,01-04-2012,Critical,1314,Office Supplies,Xerox 1896,Los Angeles,Regular Air,02-04-2012,0,9.99,53,0.4,4.78,571.93,74.73
+37380,01-04-2012,Critical,1314,Office Supplies,"Acco Clips to Go? Binder Clips, 24 Clips in Two Sizes",Los Angeles,Regular Air,02-04-2012,0.07,3.55,47,0.38,1.43,169.19,27.37
+49027,11-04-2012,High,1314,Furniture,"Executive Impressions 12"" Wall Clock",Los Angeles,Regular Air,12-04-2012,0.08,17.67,46,0.47,8.99,795.27,35.08
+2311,01-05-2012,High,1314,Furniture,Eldon Executive Woodline II Cherry Finish Desk Accessories,Los Angeles,Regular Air,02-05-2012,0.01,40.89,49,0.57,18.98,2092.92,94.96
+22755,30-03-2013,Medium,1314,Office Supplies,"Acco Pressboard Covers with Storage Hooks, 14 7/8"" x 11"", Light Blue",Los Angeles,Regular Air,31-03-2013,0,4.91,35,0.36,5.68,187.84,-95.0475
+42722,07-10-2013,Not Specified,1314,Office Supplies,"Fellowes Premier Superior Surge Suppressor, 10-Outlet, With Phone and Remote",Los Angeles,Regular Air,08-10-2013,0,48.92,48,0.59,4.5,2404.51,286.98
+42722,07-10-2013,Not Specified,1314,Furniture,"Eldon? Expressions? Wood Desk Accessories, Oak",Los Angeles,Regular Air,09-10-2013,0.07,7.38,4,0.56,5.21,39.8,15.97
+88212,07-06-2010,Critical,1374,Office Supplies,Acco Smartsocket? Color-Coded Six-Outlet AC Adapter Model Surge Protectors,Stockton,Regular Air,08-06-2010,0.06,44.01,1,0.59,3.5,46.94,-21.232
+88217,07-06-2013,Critical,1374,Office Supplies,Eureka Disposable Bags for Sanitaire? Vibra Groomer I? Upright Vac,Stockton,Regular Air,09-06-2013,0.07,4.06,8,0.6,6.89,32.71,-92.168
+88217,07-06-2013,Critical,1374,Office Supplies,Bagged Rubber Bands,Stockton,Regular Air,08-06-2013,0.1,1.26,4,0.81,0.7,5.18,-5.424
+88726,25-01-2010,Critical,1389,Furniture,"Eldon Regeneration Recycled Desk Accessories, Smoke",Menlo Park,Regular Air,26-01-2010,0.06,1.74,1,0.53,4.08,2.77,-11.0732
+88728,13-05-2010,High,1389,Office Supplies,Staples Metal Binder Clips,Menlo Park,Express Air,15-05-2010,0.08,2.62,12,0.39,0.8,31.55,21.7695
+88729,03-06-2010,High,1389,Office Supplies,Avery 494,Menlo Park,Regular Air,05-06-2010,0.09,2.61,17,0.39,0.5,42.58,29.3802
+88734,29-08-2011,Medium,1389,Furniture,"Global Leather Task Chair, Black",Menlo Park,Delivery Truck,31-08-2011,0,89.99,17,0.66,42,1625.11,-208.1716
+88739,15-09-2012,Medium,1389,Technology,Canon PC1060 Personal Laser Copier,Menlo Park,Regular Air,17-09-2012,0.03,699.99,1,0.41,24.49,678.99,-2397.44
+88742,02-02-2013,Low,1389,Furniture,"Executive Impressions 12"" Wall Clock",Menlo Park,Regular Air,06-02-2013,0.1,17.67,10,0.47,8.99,166.11,8.65
+88731,16-11-2010,Critical,1390,Office Supplies,"Wirebound Message Forms, Four 2 3/4 x 5 Forms per Page, Pink Paper",Stockton,Regular Air,16-11-2010,0.1,8.17,19,0.38,1.69,145.36,100.2984
+88731,16-11-2010,Critical,1390,Technology,T18,Stockton,Regular Air,18-11-2010,0.03,110.99,38,0.57,2.5,3616.52,2495.3988
+88739,15-09-2012,Medium,1390,Furniture,Hon Non-Folding Utility Tables,Stockton,Delivery Truck,15-09-2012,0.09,159.31,10,0.55,60,1252.22,27.74
+88727,24-04-2010,Not Specified,1391,Office Supplies,Newell 340,Sunnyvale,Express Air,24-04-2010,0,2.88,1,0.56,0.7,7.96,-0.11
+88730,03-11-2010,Low,1391,Office Supplies,Recycled Eldon Regeneration Jumbo File,Sunnyvale,Regular Air,10-11-2010,0.07,12.28,33,0.57,6.13,389.59,15.236
+88732,25-06-2011,Critical,1391,Office Supplies,Xerox 1949,Sunnyvale,Express Air,26-06-2011,0.06,4.98,12,0.36,4.72,66.29,-33.28
+88735,26-09-2011,Low,1391,Office Supplies,Staples Battery-Operated Desktop Pencil Sharpener,Sunnyvale,Regular Air,26-09-2011,0.03,10.48,22,0.6,2.89,240.63,63.5
+88737,20-02-2012,Critical,1391,Technology,TDK 4.7GB DVD+RW,Sunnyvale,Regular Air,22-02-2012,0.06,14.48,11,0.49,1.99,151.78,104.7282
+88737,20-02-2012,Critical,1391,Furniture,Bretford ?Just In Time? Height-Adjustable Multi-Task Work Tables,Sunnyvale,Delivery Truck,21-02-2012,0.06,417.4,4,0.79,75.23,1321.81,-296.06
+88744,06-10-2013,High,1391,Office Supplies,Xerox 1994,Sunnyvale,Regular Air,08-10-2013,0.07,6.48,2,0.37,5.74,16.24,-13.01
+88732,25-06-2011,Critical,1392,Furniture,Bretford CR4500 Series Slim Rectangular Table,Temecula,Delivery Truck,28-06-2011,0.06,348.21,9,0.62,40.19,2463.01,1699.4769
+88732,25-06-2011,Critical,1392,Technology,Accessory41,Temecula,Regular Air,26-06-2011,0.02,35.99,19,0.38,5.99,600.03,414.0207
+88741,12-01-2013,High,1392,Office Supplies,Newell 336,Temecula,Regular Air,12-01-2013,0.07,4.28,3,0.56,0.94,12.3,0.4408
+88743,11-06-2013,Critical,1393,Office Supplies,Avery Printable Repositionable Plastic Tabs,Thousand Oaks,Express Air,13-06-2013,0.02,8.6,9,0.38,6.19,87.79,-9.5588
+87086,07-04-2010,Medium,1410,Technology,g520,Moreno Valley,Regular Air,08-04-2010,0,65.99,9,0.59,5.26,536.23,369.9987
+87089,12-02-2011,Low,1410,Technology,Fellowes 17-key keypad for PS/2 interface,Moreno Valley,Regular Air,19-02-2011,0,30.73,5,0.75,4,159.26,-26.83
+87090,06-09-2011,Not Specified,1410,Technology,US Robotics 56K V.92 External Faxmodem,Moreno Valley,Regular Air,08-09-2011,0.01,99.99,9,0.52,19.99,917.73,199.73
+87091,31-12-2011,Not Specified,1410,Furniture,"Career Cubicle Clock, 8 1/4"", Black",Moreno Valley,Regular Air,31-12-2011,0.02,20.28,1,0.47,14.39,28.07,19.3683
+87094,24-11-2012,High,1410,Office Supplies,Belkin F5C206VTEL 6 Outlet Surge,Moreno Valley,Regular Air,25-11-2012,0.06,22.98,42,0.55,4.5,983.69,576.114
+87098,02-12-2013,Not Specified,1410,Furniture,Document Clip Frames,Moreno Valley,Regular Air,03-12-2013,0.04,8.34,1,0.43,0.96,8.49,-2.9568
+87098,02-12-2013,Not Specified,1410,Technology,LX 677,Moreno Valley,Regular Air,02-12-2013,0.04,110.99,21,0.57,8.99,2038.88,1406.8272
+87088,14-01-2011,High,1411,Office Supplies,"Tyvek ? Top-Opening Peel & Seel ? Envelopes, Gray",Morgan Hill,Regular Air,15-01-2011,0.03,35.94,3,0.4,6.66,109.26,75.3894
+87091,31-12-2011,Not Specified,1411,Technology,i1000,Morgan Hill,Regular Air,02-01-2012,0,65.99,12,0.58,5.99,715.93,429.543
+87092,09-01-2012,Medium,1411,Office Supplies,"Wilson Jones 1"" Hanging DublLock? Ring Binders",Morgan Hill,Regular Air,10-01-2012,0.09,5.28,11,0.37,2.99,54.2,-15.9712
+87092,09-01-2012,Medium,1411,Office Supplies,"Important Message Pads, 50 4-1/4 x 5-1/2 Forms per Pad",Morgan Hill,Regular Air,10-01-2012,0.03,4.2,13,0.36,2.26,55.18,10.488
+87093,26-07-2012,Low,1411,Office Supplies,Belkin 6 Outlet Metallic Surge Strip,Morgan Hill,Regular Air,30-07-2012,0.08,10.89,1,0.59,4.5,12.02,-18.5
+87093,26-07-2012,Low,1411,Office Supplies,Belkin F9M820V08 8 Outlet Surge,Morgan Hill,Regular Air,04-08-2012,0.04,42.98,15,0.56,4.62,645.28,445.2432
+87097,30-09-2013,Medium,1411,Office Supplies,Trimflex? Flexible Post Binders,Morgan Hill,Express Air,01-10-2013,0.03,21.38,20,0.37,2.99,439.05,302.9445
+87087,02-08-2010,Not Specified,1412,Office Supplies,Avery Hi-Liter? Fluorescent Desk Style Markers,Mountain View,Regular Air,04-08-2010,0.08,3.38,12,0.48,0.85,38.81,20.4536
+87096,02-08-2013,Not Specified,1412,Technology,Maxell DVD-RAM Discs,Mountain View,Express Air,04-08-2013,0.02,16.48,8,0.42,1.99,143.57,99.0633
+86735,24-05-2010,Medium,1450,Furniture,"Lifetime Advantage? Folding Chairs, 4/Carton",South Lake Tahoe,Express Air,25-05-2010,0.1,218.08,12,0.57,18.06,2366.51,1318.83
+86739,15-03-2011,Not Specified,1450,Technology,US Robotics 56K V.92 External Faxmodem,South Lake Tahoe,Regular Air,16-03-2011,0.02,99.99,3,0.52,19.99,299.97,-119.92
+86739,15-03-2011,Not Specified,1450,Office Supplies,Newell 351,South Lake Tahoe,Regular Air,16-03-2011,0.04,3.28,3,0.56,4.2,10.71,-31.24
+86742,01-09-2011,Low,1450,Office Supplies,Avery Reinforcements for Hole-Punch Pages,South Lake Tahoe,Regular Air,08-09-2011,0.05,1.98,17,0.4,4.77,36.67,-148.7985
+86747,11-03-2013,Not Specified,1450,Office Supplies,Xerox 1973,South Lake Tahoe,Regular Air,13-03-2013,0.05,22.84,10,0.39,16.92,238.68,-122.12
+86749,16-09-2013,Not Specified,1450,Office Supplies,"#10- 4 1/8"" x 9 1/2"" Security-Tint Envelopes",South Lake Tahoe,Regular Air,17-09-2013,0.03,7.64,4,0.36,1.39,32.12,17.0964
+53953,27-03-2010,Not Specified,1481,Office Supplies,"Recycled Desk Saver Line ""While You Were Out"" Book, 5 1/2"" X 4""",Los Angeles,Regular Air,28-03-2010,0.07,8.95,36,0.39,2.01,307.65,91.73
+26851,24-07-2012,High,1481,Technology,BASF Silver 74 Minute CD-R,Los Angeles,Regular Air,26-07-2012,0.07,1.7,59,0.51,1.99,98.74,-58.87
+33732,28-08-2013,Not Specified,1481,Furniture,"Eldon Expressions? Desk Accessory, Wood Pencil Holder, Oak",Los Angeles,Regular Air,29-08-2013,0.05,9.65,66,0.55,6.22,665.9,-28.16
+88006,13-11-2011,Critical,1490,Office Supplies,Office Impressions Heavy Duty Welded Shelving & Multimedia Storage Drawers,Pacifica,Regular Air,15-11-2011,0.03,167.27,33,0.85,35,5705.18,100.41
+88007,06-07-2012,Low,1490,Office Supplies,"Message Book, Standard Line ""While You Were Out"", 5 1/2"" X 4"", 200 Sets/Book",Pacifica,Regular Air,08-07-2012,0.01,8.56,10,0.38,5.16,92.34,8.34
+88008,28-08-2012,High,1490,Office Supplies,"Binney & Smith inkTank? Erasable Desk Highlighter, Chisel Tip, Yellow, 12/Box",Pacifica,Regular Air,30-08-2012,0.01,2.52,8,0.44,4.28,22.17,-24.4452
+88009,11-09-2012,Not Specified,1490,Office Supplies,Wilson Jones? Four-Pocket Poly Binders,Pacifica,Regular Air,12-09-2012,0.01,6.54,8,0.36,5.27,54.95,-28.9455
+88010,03-11-2012,Critical,1490,Technology,AT&T 1430 2.4GHz Analog Phone w/Caller ID,Pacifica,Regular Air,04-11-2012,0.07,40.99,11,0.54,8.97,431.11,10.23642
+88011,10-01-2013,Low,1490,Furniture,Electrix 20W Halogen Replacement Bulb for Zoom-In Desk Lamp,Pacifica,Regular Air,14-01-2013,0.07,13.4,7,0.37,4.95,90.36,62.3484
+88012,07-03-2013,Medium,1490,Technology,T18,Pacifica,Regular Air,08-03-2013,0.05,110.99,3,0.57,2.5,271.56,-117.612
+88853,07-07-2012,High,1530,Technology,Okidata Pacemark 4410N Wide Format Dot Matrix Printer,Palm Springs,Delivery Truck,09-07-2012,0.06,3502.14,1,0.57,8.73,3057.44,-8570.4483
+88854,04-09-2012,High,1530,Office Supplies,Xerox 1881,Palm Springs,Regular Air,04-09-2012,0.04,12.28,8,0.38,6.47,98.49,-5.76
+88854,04-09-2012,High,1530,Technology,6120,Palm Springs,Regular Air,07-09-2012,0.1,65.99,16,0.58,8.8,851.73,164.97
+90422,06-11-2011,Not Specified,1536,Furniture,"Chromcraft 48"" x 96"" Racetrack Double Pedestal Table",La Quinta,Delivery Truck,07-11-2011,0.1,320.64,7,0.63,43.57,1775.81,553.608
+90425,29-09-2012,High,1536,Office Supplies,Ibico Presentation Index for Binding Systems,La Quinta,Regular Air,01-10-2012,0.09,3.98,20,0.38,5.26,80.86,-134.711
+90425,29-09-2012,High,1536,Office Supplies,"While You Were Out Pads, 50 per Pad, 4 x 5 1/4, Green Cycle",La Quinta,Regular Air,30-09-2012,0.07,4.73,11,0.36,1.52,51.53,24.17
+90427,01-06-2013,Critical,1536,Office Supplies,Avery White Multi-Purpose Labels,La Quinta,Regular Air,02-06-2013,0.07,4.98,11,0.39,0.49,53.49,36.9081
+90428,18-10-2013,Not Specified,1536,Technology,"Hewlett-Packard cp1700 [D, PS] Series Color Inkjet Printers",La Quinta,Delivery Truck,20-10-2013,0.05,500.98,6,0.38,28.14,3084.04,1542
+90940,11-02-2013,Not Specified,1577,Furniture,Global Deluxe Office Fabric Chairs,La Quinta,Delivery Truck,13-02-2013,0.1,95.98,13,0.58,58.2,1183.02,-1335.32
+90942,27-10-2013,Medium,1577,Technology,"80 Minute CD-R Spindle, 100/Pack - Staples",La Quinta,Regular Air,29-10-2013,0.01,39.48,16,0.54,1.99,669.14,376.47
+87824,11-05-2010,High,1609,Office Supplies,Peel & Stick Add-On Corner Pockets,Sacramento,Regular Air,12-05-2010,0.03,2.16,7,0.37,6.05,17.31,-90.5855
+87824,11-05-2010,High,1609,Office Supplies,Filing/Storage Totes and Swivel Casters,Sacramento,Regular Air,11-05-2010,0.03,9.71,2,0.6,9.45,23.56,-36.9
+87826,01-02-2013,Not Specified,1609,Office Supplies,Xerox 210,Sacramento,Regular Air,03-02-2013,0.02,6.48,13,0.37,7.37,89.42,-157.4
+87827,11-05-2013,High,1609,Office Supplies,Hoover Portapower? Portable Vacuum,Sacramento,Regular Air,13-05-2013,0.08,4.48,11,0.6,49,63.91,-1605.73
+87827,11-05-2013,High,1609,Technology,Accessory2,Sacramento,Regular Air,13-05-2013,0.09,55.99,4,0.55,1.25,185.36,10.98
+87828,29-05-2013,High,1609,Office Supplies,"Rediform Wirebound ""Phone Memo"" Message Book, 11 x 5-3/4",Sacramento,Regular Air,01-06-2013,0,7.64,13,0.36,5.83,103.15,-41.75
+87829,16-10-2013,Low,1609,Office Supplies,"Wilson Jones 1"" Hanging DublLock? Ring Binders",Sacramento,Regular Air,18-10-2013,0.05,5.28,3,0.37,2.99,17.15,-6.8195
+87829,16-10-2013,Low,1610,Office Supplies,Martin Yale Chadless Opener Electric Letter Opener,Salinas,Regular Air,20-10-2013,0.09,832.81,15,0.83,24.49,12163.61,1094.74
+89704,14-01-2010,Critical,1636,Technology,Hewlett-Packard Deskjet 5550 Color Inkjet Printer,Salinas,Delivery Truck,16-01-2010,0.08,115.99,5,0.4,56.14,562.93,-272.860884
+89704,14-01-2010,Critical,1636,Office Supplies,Newell 336,Salinas,Regular Air,17-01-2010,0.08,4.28,7,0.56,0.94,29.18,10.5792
+89706,12-07-2010,High,1636,Furniture,"3M Polarizing Task Lamp with Clamp Arm, Light Gray",Salinas,Express Air,14-07-2010,0.04,136.98,12,0.59,24.49,1634.13,1127.5497
+89707,04-04-2011,Not Specified,1636,Office Supplies,Acco 3-Hole Punch,Salinas,Regular Air,05-04-2011,0.08,4.38,7,0.37,6.21,30.27,-127.006
+89707,04-04-2011,Not Specified,1636,Office Supplies,Fellowes Bankers Box? Staxonsteel? Drawer File/Stacking System,Salinas,Regular Air,05-04-2011,0.08,64.98,12,0.73,6.88,776.45,379.11
+89712,04-04-2013,Not Specified,1636,Technology,CF 688,Salinas,Regular Air,06-04-2013,0.08,155.99,5,0.58,8.99,622.12,142.551
+89708,20-04-2011,Low,1637,Furniture,Office Star - Mid Back Dual function Ergonomic High Back Chair with 2-Way Adjustable Arms,San Bernardino,Delivery Truck,22-04-2011,0.02,160.98,1,0.62,30,200.38,-90.41
+89710,17-12-2012,Critical,1637,Office Supplies,GBC Plastic Binding Combs,San Bernardino,Express Air,18-12-2012,0,7.38,22,0.36,11.51,173.1,-167.8425
+89710,17-12-2012,Critical,1637,Furniture,"DAX Metal Frame, Desktop, Stepped-Edge",San Bernardino,Express Air,19-12-2012,0.08,20.24,2,0.46,8.99,42.98,-3.74
+89710,17-12-2012,Critical,1637,Office Supplies,Eldon Simplefile? Box Office?,San Bernardino,Regular Air,19-12-2012,0.07,12.44,20,0.57,6.27,243.86,-35.215
+89713,20-04-2013,Low,1637,Office Supplies,Fellowes Bankers Box? Staxonsteel? Drawer File/Stacking System,San Bernardino,Regular Air,24-04-2013,0.1,64.98,1,0.73,6.88,64.26,-110.07
+89713,20-04-2013,Low,1637,Furniture,Bretford CR4500 Series Slim Rectangular Table,San Bernardino,Delivery Truck,20-04-2013,0,348.21,6,0.62,40.19,1679.45,1158.8205
+89714,29-08-2013,Low,1637,Technology,Fellowes 17-key keypad for PS/2 interface,San Bernardino,Regular Air,07-09-2013,0.05,30.73,6,0.75,4,189.42,-42.13712
+89709,20-12-2011,High,1638,Furniture,"Bush Westfield Collection Bookcases, Fully Assembled",San Carlos,Delivery Truck,21-12-2011,0.01,100.98,12,0.62,35.84,1287.55,55.41
+89885,24-07-2010,Not Specified,1653,Office Supplies,Tennsco Regal Shelving Units,Thousand Oaks,Express Air,25-07-2010,0,101.41,10,0.82,35,1104.32,-457.73
+89885,24-07-2010,Not Specified,1653,Technology,T60,Thousand Oaks,Regular Air,25-07-2010,0.1,95.99,2,0.56,4.9,149.8,-268.664
+89886,28-03-2011,Medium,1653,Office Supplies,"Sanyo Counter Height Refrigerator with Crisper, 3.6 Cubic Foot, Stainless Steel/Black",Thousand Oaks,Delivery Truck,30-03-2011,0.06,328.14,1,0.57,91.05,334.3,-431.45
+89887,01-11-2011,Critical,1653,Office Supplies,Xerox 1895,Thousand Oaks,Regular Air,01-11-2011,0,5.98,31,0.4,10.39,194.09,48.256
+89888,10-01-2012,High,1653,Office Supplies,Avery Durable Binders,Thousand Oaks,Regular Air,12-01-2012,0.1,2.88,6,0.36,1.49,16.11,-3.23702
+89888,10-01-2012,High,1653,Technology,Accessory21,Thousand Oaks,Regular Air,12-01-2012,0.08,20.99,14,0.37,0.99,248.18,171.2442
+89889,20-10-2012,Critical,1654,Office Supplies,Unpadded Memo Slips,Torrance,Regular Air,23-10-2012,0.07,3.98,5,0.35,2.97,20.6,-11.4912
+89890,12-08-2013,Medium,1654,Office Supplies,Storex DuraTech Recycled Plastic Frosted Binders,Torrance,Express Air,12-08-2013,0.07,4.24,4,0.35,5.41,25.29,-6.090124
+89891,31-10-2013,Medium,1654,Furniture,"Eldon Regeneration Recycled Desk Accessories, Smoke",Torrance,Regular Air,31-10-2013,0.07,1.74,20,0.53,4.08,36.45,-113.86
+89892,15-12-2013,Not Specified,1654,Office Supplies,Avery Hi-Liter Pen Style Six-Color Fluorescent Set,Torrance,Regular Air,17-12-2013,0.04,3.85,9,0.44,0.7,35.61,24.5709
+89274,17-07-2011,High,1662,Office Supplies,"Eureka Sanitaire ? Multi-Pro Heavy-Duty Upright, Disposable Bags",Palm Springs,Regular Air,19-07-2011,0.05,4.37,13,0.59,5.15,58.26,-145.1
+89274,17-07-2011,High,1662,Office Supplies,Prismacolor Color Pencil Set,Palm Springs,Regular Air,19-07-2011,0.06,19.84,8,0.44,4.1,154.84,106.8396
+89276,24-02-2013,Critical,1662,Furniture,Eldon Expressions Mahogany Wood Desk Collection,Palm Springs,Regular Air,26-02-2013,0.02,6.24,11,0.6,5.22,74.02,-106.36
+90678,26-02-2010,High,1665,Office Supplies,"Telephone Message Books with Fax/Mobile Section, 4 1/4"" x 6""",Laguna Hills,Regular Air,27-02-2010,0.1,3.6,2,0.39,2.2,6.97,-8.28
+90679,23-01-2011,Low,1665,Technology,Accessory34,Laguna Hills,Regular Air,01-02-2011,0.06,85.99,3,0.55,0.99,220.55,-13.2308
+90680,03-01-2013,Medium,1665,Technology,Polycom ViewStation? Adapter H323 Videoconferencing Unit,Laguna Hills,Regular Air,04-01-2013,0.09,1938.02,1,0.38,13.99,1834.14,-6024.752784
+90681,07-01-2013,Low,1665,Office Supplies,Avery 508,Laguna Hills,Regular Air,09-01-2013,0,4.91,6,0.36,0.5,30.34,20.9346
+90682,27-03-2013,Medium,1665,Furniture,Bush Mission Pointe Library,Laguna Hills,Delivery Truck,28-03-2013,0.01,150.98,9,0.65,66.27,1415.16,-567.14
+90683,22-10-2013,Critical,1665,Office Supplies,Boston 1730 StandUp Electric Pencil Sharpener,Laguna Hills,Regular Air,24-10-2013,0.08,21.38,23,0.59,8.99,488.88,-57.75
+90684,16-12-2013,Critical,1665,Furniture,"Sauder Forest Hills Library, Woodland Oak Finish",Laguna Hills,Delivery Truck,17-12-2013,0,140.98,8,0.77,36.09,1214.76,-58.45056
+40101,31-01-2010,Low,1723,Technology,US Robotics 56K V.92 Internal PCI Faxmodem,San Diego,Express Air,05-02-2010,0.1,49.99,46,0.45,19.99,2188.06,13.508
+44002,07-02-2010,Medium,1723,Office Supplies,Xerox 1923,San Diego,Regular Air,09-02-2010,0.05,6.68,46,0.37,5.66,320.93,-66.48
+44002,07-02-2010,Medium,1723,Office Supplies,Portfile? Personal File Boxes,San Diego,Regular Air,07-02-2010,0.03,17.7,14,0.59,9.47,261.85,-52.33
+32710,16-11-2010,High,1723,Office Supplies,Eldon Simplefile? Box Office?,San Diego,Regular Air,17-11-2010,0.04,12.44,146,0.57,6.27,1834.61,-59.06
+14855,30-04-2011,Not Specified,1723,Office Supplies,Avery Poly Binder Pockets,San Diego,Express Air,02-05-2011,0.06,3.58,44,0.37,5.47,174.9,-150.903
+14855,30-04-2011,Not Specified,1723,Furniture,Eldon Pizzaz? Desk Accessories,San Diego,Regular Air,02-05-2011,0.1,2.23,48,0.41,4.57,103.8,-150.53
+14855,30-04-2011,Not Specified,1723,Furniture,Bevis 36 x 72 Conference Tables,San Diego,Delivery Truck,02-05-2011,0.01,124.49,19,0.63,51.94,2557.51,-168.48
+16289,17-07-2011,High,1723,Technology,V2397,San Diego,Regular Air,19-07-2011,0.01,125.99,59,0.58,2.5,6755.63,2040.867
+16289,17-07-2011,High,1723,Furniture,Aluminum Document Frame,San Diego,Regular Air,19-07-2011,0.09,12.22,44,0.55,2.85,507.36,96.95
+48032,26-08-2011,High,1723,Office Supplies,Hoover Commercial Soft Guard Upright Vacuum And Disposable Filtration Bags,San Diego,Regular Air,27-08-2011,0.09,7.77,76,0.58,9.23,559.45,-283.31
+48032,26-08-2011,High,1723,Office Supplies,Eldon? Gobal File Keepers,San Diego,Regular Air,27-08-2011,0.07,15.14,52,0.81,4.53,740.3,-104.43
+20036,05-12-2011,Not Specified,1723,Furniture,Bush Mission Pointe Library,San Diego,Delivery Truck,08-12-2011,0.03,150.98,52,0.65,66.27,8119.28,-533.44
+20036,05-12-2011,Not Specified,1723,Technology,T60,San Diego,Regular Air,07-12-2011,0.03,95.99,39,0.56,4.9,3240.93,307.251
+20036,05-12-2011,Not Specified,1723,Office Supplies,Staples 6 Outlet Surge,San Diego,Regular Air,05-12-2011,0.1,11.97,46,0.58,4.98,534.45,-31.55
+20036,05-12-2011,Not Specified,1723,Technology,"Micro Innovations Micro 3000 Keyboard, Black",San Diego,Regular Air,07-12-2011,0.03,26.31,81,0.75,5.89,2222.71,-25.23
+43398,24-04-2012,Not Specified,1723,Furniture,Hon Non-Folding Utility Tables,San Diego,Delivery Truck,25-04-2012,0.07,159.31,11,0.55,60,1760.94,-193.97
+18945,17-01-2013,Medium,1723,Technology,Maxell DVD-RAM Discs,San Diego,Regular Air,19-01-2013,0.06,16.48,36,0.42,1.99,576.59,67.416
+33605,03-04-2013,Critical,1723,Office Supplies,Self-Adhesive Ring Binder Labels,San Diego,Regular Air,05-04-2013,0.04,3.52,42,0.38,6.83,153.01,-218.5345
+44900,09-02-2011,Medium,1751,Office Supplies,"Geographics Note Cards, Blank, White, 8 1/2"" x 11""",Los Angeles,Regular Air,10-02-2011,0.08,11.19,4,0.37,5.03,47.03,-12.03
+31523,08-03-2013,Low,1751,Technology,"Sony MFD2HD Formatted Diskettes, 10/Pack",Los Angeles,Regular Air,10-03-2013,0.1,6.48,17,0.71,2.74,105.85,-44.86
+31523,08-03-2013,Low,1751,Office Supplies,"#10- 4 1/8"" x 9 1/2"" Recycled Envelopes",Los Angeles,Regular Air,13-03-2013,0,8.74,19,0.38,8.29,179.33,-58.76
+29537,19-09-2013,Low,1751,Office Supplies,Belkin 6 Outlet Metallic Surge Strip,Los Angeles,Express Air,28-09-2013,0.08,10.89,63,0.59,4.5,668.98,-30.97
+90178,27-08-2010,Low,1754,Technology,Hewlett-Packard 4.7GB DVD+R Discs,Torrance,Regular Air,31-08-2010,0.04,8.5,14,0.49,1.99,118.57,43.2752
+90178,27-08-2010,Low,1754,Technology,"AT&T Black Trimline Phone, Model 210",Torrance,Regular Air,27-08-2010,0.1,15.99,5,0.49,9.4,79.47,-36.21462
+90178,27-08-2010,Low,1754,Technology,600 Series Flip,Torrance,Regular Air,03-09-2010,0.09,95.99,8,0.57,8.99,627.28,7.03296
+90181,07-06-2012,Low,1755,Office Supplies,"Premium Writing Pencils, Soft, #2 by Central Association for the Blind",Tracy,Express Air,11-06-2012,0.05,2.98,2,0.57,2.03,8.11,-3.456
+90181,07-06-2012,High,1755,Office Supplies,Southworth 25% Cotton Linen-Finish Paper & Envelopes,Tracy,Regular Air,07-06-2012,0.09,9.06,19,0.4,9.86,165.42,-190.312
+90182,05-03-2013,Low,1755,Technology,Hewlett-Packard 4.7GB DVD+R Discs,Tracy,Regular Air,07-03-2013,0.05,8.5,11,0.49,1.99,91.1,51.08
+90183,28-03-2013,Not Specified,1755,Furniture,"SAFCO PlanMaster Heigh-Adjustable Drafting Table Base, 43w x 30d x 30-37h, Black",Tracy,Delivery Truck,30-03-2013,0.1,349.45,1,,60,280.18,7.55
+89857,12-06-2010,High,1781,Office Supplies,Xerox 194,San Carlos,Regular Air,14-06-2010,0,55.48,11,0.37,14.3,658.62,454.4478
+89858,07-07-2010,Low,1781,Furniture,"Master Caster Door Stop, Brown",San Carlos,Regular Air,12-07-2010,0.03,5.08,4,0.51,2.03,21.96,15.1524
+89859,29-09-2011,Critical,1781,Office Supplies,Hoover Upright Vacuum With Dirt Cup,San Carlos,Regular Air,30-09-2011,0.08,289.53,17,0.56,19.99,4573.53,2723.31
+89859,29-09-2011,Critical,1781,Office Supplies,Xerox 207,San Carlos,Regular Air,01-10-2011,0.08,6.48,23,0.37,5.4,143.71,-90.42
+89864,10-12-2012,Low,1781,Furniture,Hon iLevel? Computer Training Table,San Carlos,Delivery Truck,15-12-2012,0.02,31.76,23,0.65,45.51,619.94,-730.385
+89856,06-01-2010,High,1782,Office Supplies,Newell 342,San Clemente,Regular Air,08-01-2010,0.03,3.28,7,0.56,3.97,24.57,-90.7556
+89861,21-12-2011,Low,1782,Office Supplies,Honeywell Quietcare HEPA Air Cleaner,San Clemente,Regular Air,21-12-2011,0.02,78.65,13,0.52,13.99,1058.37,730.2753
+89861,21-12-2011,Low,1782,Office Supplies,Avery 496,San Clemente,Express Air,26-12-2011,0.09,3.75,23,0.37,0.5,85.52,59.0088
+89863,05-06-2012,Not Specified,1782,Office Supplies,"Dual Level, Single-Width Filing Carts",San Clemente,Regular Air,06-06-2012,0.03,155.06,4,0.59,7.07,619.68,236.592
+89863,05-06-2012,Not Specified,1782,Technology,VTech VT20-2481 2.4GHz Two-Line Phone System w/Answering Machine,San Clemente,Express Air,06-06-2012,0.05,179.99,18,0.57,13.99,2807.28,1937.0232
+89866,25-11-2013,Not Specified,1782,Technology,Adesso Programmable 142-Key Keyboard,San Clemente,Regular Air,26-11-2013,0.04,152.48,41,0.79,4,6001.62,606.144
+89860,14-10-2011,High,1783,Technology,Belkin ErgoBoard? Keyboard,San Diego,Express Air,16-10-2011,0,30.98,18,0.64,6.5,570.13,49.3396
+89860,14-10-2011,High,1783,Technology,T28 WORLD,San Diego,Regular Air,16-10-2011,0.09,195.99,5,0.6,8.99,803.47,-273.64392
+89862,25-04-2012,Not Specified,1783,Furniture,Office Star - Ergonomic Mid Back Chair with 2-Way Adjustable Arms,San Diego,Delivery Truck,27-04-2012,0.09,180.98,8,0.69,30,1391.41,209.54
+89865,14-10-2013,High,1783,Office Supplies,"Avery Flip-Chart Easel Binder, Black",San Diego,Regular Air,14-10-2013,0.01,22.38,5,0.38,15.1,119.44,-48.208
+89867,12-12-2013,Not Specified,1783,Office Supplies,Staples Brown Kraft Recycled Clasp Envelopes,San Diego,Express Air,13-12-2013,0,5.58,22,0.35,5.3,134.11,-20.46576
+89867,12-12-2013,Not Specified,1783,Office Supplies,"Array? Parchment Paper, Assorted Colors",San Diego,Regular Air,13-12-2013,0.1,7.28,12,0.37,11.15,86.56,-55.91376
+90775,10-04-2011,Low,1796,Office Supplies,"Wirebound Service Call Books, 5 1/2"" x 4""",San Francisco,Regular Air,12-04-2011,0.09,9.68,10,0.37,2.03,93.88,64.7772
+90775,10-04-2011,Low,1796,Office Supplies,Staples Bulldog Clip,San Francisco,Express Air,15-04-2011,0.03,3.78,4,0.39,0.71,17.02,11.7438
+90776,26-09-2011,Critical,1796,Office Supplies,"Manila Recycled Extra-Heavyweight Clasp Envelopes, 6"" x 9""",San Francisco,Regular Air,27-09-2011,0.01,10.98,12,0.36,4.8,132.66,37.9
+90777,16-10-2011,Low,1796,Office Supplies,Ibico Hi-Tech Manual Binding System,San Francisco,Express Air,20-10-2011,0.03,304.99,15,0.4,19.99,4621.92,3189.1248
+90778,23-03-2013,High,1796,Office Supplies,GBC DocuBind 200 Manual Binding Machine,San Francisco,Express Air,25-03-2013,0.01,420.98,8,0.35,19.99,3371.37,2326.2453
+90778,23-03-2013,High,1796,Furniture,"Sauder Forest Hills Library, Woodland Oak Finish",San Francisco,Delivery Truck,25-03-2013,0.05,140.98,9,0.77,36.09,1263.15,-427.99
+90778,23-03-2013,High,1796,Technology,Okidata Pacemark 4410N Wide Format Dot Matrix Printer,San Francisco,Delivery Truck,24-03-2013,0.05,3502.14,1,0.57,8.73,3360.3,-7961.4309
+90778,23-03-2013,High,1796,Technology,Accessory41,San Francisco,Regular Air,26-03-2013,0.07,35.99,3,0.38,5.99,92,-17.413
+90779,11-05-2013,Not Specified,1796,Technology,Canon Image Class D660 Copier,San Francisco,Regular Air,12-05-2013,0.08,599.99,2,0.44,24.49,1126.06,-1352.68
+90779,11-05-2013,Not Specified,1796,Technology,Talkabout T8367,San Francisco,Regular Air,13-05-2013,0.08,65.99,8,0.56,8.99,444.08,156.114
+90780,02-08-2013,Low,1796,Furniture,"Bush Westfield Collection Bookcases, Fully Assembled",San Francisco,Delivery Truck,07-08-2013,0.07,100.98,9,0.62,35.84,888.48,-83.55344
+90780,02-08-2013,Low,1796,Furniture,"Hon Metal Bookcases, Black",San Francisco,Delivery Truck,07-08-2013,0.01,70.98,25,0.6,26.74,1858.23,162.50136
+90780,02-08-2013,Low,1796,Furniture,"Lesro Round Back Collection Coffee Table, End Table",San Francisco,Regular Air,04-08-2013,0.05,182.55,8,0.72,69,1491.25,-249.98192
+90781,23-10-2013,High,1796,Office Supplies,"#10 White Business Envelopes,4 1/8 x 9 1/2",San Francisco,Regular Air,24-10-2013,0.03,15.67,3,0.38,1.39,48.34,12.5
+90782,17-12-2013,Not Specified,1796,Office Supplies,Kensington 4 Outlet MasterPiece? Compact Power Control Center,San Francisco,Regular Air,19-12-2013,0.1,81.32,7,0.57,0.99,522.56,320.12032
+26695,06-06-2011,Not Specified,1810,Office Supplies,"REDIFORM Incoming/Outgoing Call Register, 11"" X 8 1/2"", 100 Messages",Los Angeles,Regular Air,08-06-2011,0.01,8.34,65,0.35,1.43,554.93,163.42
+26439,15-09-2012,Medium,1810,Technology,Belkin ErgoBoard? Keyboard,Los Angeles,Regular Air,16-09-2012,0,30.98,74,0.64,6.5,2396.88,75.5
+26439,15-09-2012,Medium,1810,Office Supplies,Xerox 1953,Los Angeles,Regular Air,15-09-2012,0.04,4.28,72,0.4,5.74,330.67,-114.35
+26439,15-09-2012,Medium,1810,Technology,MicroTAC 650,Los Angeles,Regular Air,17-09-2012,0.1,65.99,45,0.58,4.99,2302.72,53.649
+52389,21-10-2012,Critical,1810,Office Supplies,Boston 1730 StandUp Electric Pencil Sharpener,Los Angeles,Regular Air,21-10-2012,0.08,21.38,61,0.59,8.99,1289.52,-68.592
+86600,19-10-2010,High,1836,Technology,CF 688,San Francisco,Express Air,20-10-2010,0.01,155.99,5,0.58,8.99,675.83,-219.07908
+86601,09-01-2011,Low,1836,Technology,Canon Image Class D660 Copier,San Francisco,Regular Air,13-01-2011,0.05,599.99,12,0.44,24.49,7318.68,5049.8892
+86602,25-03-2011,Not Specified,1836,Office Supplies,Xerox 1897,San Francisco,Regular Air,28-03-2011,0.03,4.98,8,0.36,6.07,40.5,-102.36
+86605,10-12-2012,High,1836,Furniture,Office Star - Professional Matrix Back Chair with 2-to-1 Synchro Tilt and Mesh Fabric Seat,San Francisco,Delivery Truck,11-12-2012,0.06,350.98,12,0.61,30,4291.43,2863.545
+86606,26-02-2013,Medium,1836,Office Supplies,Fellowes PB300 Plastic Comb Binding Machine,San Francisco,Regular Air,01-03-2013,0.08,387.99,11,0.38,19.99,4122.78,2844.7182
+86607,27-03-2013,High,1836,Furniture,"Deflect-o SuperTray? Unbreakable Stackable Tray, Letter, Black",San Francisco,Regular Air,28-03-2013,0.08,29.18,3,0.42,8.55,88.51,61.0719
+86608,04-04-2013,Critical,1836,Technology,"80 Minute CD-R Spindle, 100/Pack - Staples",San Francisco,Regular Air,06-04-2013,0.06,39.48,2,0.54,1.99,74.96,-69.84
+86600,19-10-2010,High,1837,Office Supplies,Xerox 1983,San Gabriel,Regular Air,21-10-2010,0.01,5.98,4,0.36,5.46,28,-18.8784
+86603,03-07-2011,Critical,1837,Office Supplies,Standard Line? ?While You Were Out? Hardbound Telephone Message Book,San Gabriel,Regular Air,05-07-2011,0.07,21.98,1,0.39,8.32,29.99,-8.88
+86604,10-07-2012,Low,1837,Office Supplies,"GBC White Gloss Covers, Plain Front",San Gabriel,Regular Air,14-07-2012,0.1,14.48,8,0.38,6.46,114.75,23.9615
+86604,10-07-2012,Low,1837,Office Supplies,"Quartet Omega? Colored Chalk, 12/Pack",San Gabriel,Regular Air,15-07-2012,0.09,5.84,4,0.38,1,21.59,14.46
+86609,09-06-2013,Not Specified,1837,Furniture,12-1/2 Diameter Round Wall Clock,San Gabriel,Regular Air,10-06-2013,0.09,19.98,9,0.49,10.49,177.39,31.524
+86847,19-09-2010,Not Specified,1852,Office Supplies,Xerox 23,Carlsbad,Express Air,21-09-2010,0.06,6.48,10,0.37,5.14,68.34,-28.45
+86848,10-04-2011,Low,1852,Office Supplies,Xerox 1966,Carlsbad,Regular Air,12-04-2011,0,6.48,8,0.36,6.65,54.02,-84.33
+86848,10-04-2011,Low,1852,Office Supplies,"Tenex Personal Project File with Scoop Front Design, Black",Carlsbad,Regular Air,14-04-2011,0.09,13.48,7,0.59,4.51,87.9,-24.44
+86848,10-04-2011,Low,1852,Technology,8890,Carlsbad,Regular Air,12-04-2011,0.09,115.99,3,0.58,5.92,274.54,-182.974
+86853,20-04-2012,Low,1852,Furniture,Howard Miller Distant Time Traveler Alarm Clock,Carlsbad,Regular Air,27-04-2012,0.04,27.42,5,0.44,19.46,139.97,-5.18
+86853,20-04-2012,Low,1852,Furniture,"Chromcraft 48"" x 96"" Racetrack Double Pedestal Table",Carlsbad,Delivery Truck,22-04-2012,0.09,320.64,3,0.66,29.2,908.91,104.48
+86857,02-06-2013,Low,1852,Furniture,Eldon? Wave Desk Accessories,Carlsbad,Regular Air,07-06-2013,0,2.08,15,0.43,5.33,35.02,-120.92
+90101,12-05-2013,Not Specified,1872,Office Supplies,"Wilson Jones Hanging View Binder, White, 1""",Palo Alto,Regular Air,14-05-2013,0.05,7.1,12,0.39,6.05,83.66,-97.06
+90102,28-08-2013,High,1872,Technology,"Memorex 80 Minute CD-R, 30/Pack",Palo Alto,Regular Air,30-08-2013,0.04,22.98,8,0.46,1.99,183.55,116.9392
+90102,28-08-2013,High,1872,Office Supplies,Staples Standard Envelopes,Palo Alto,Regular Air,30-08-2013,0.02,5.68,12,0.38,1.39,72.87,50.2803
+87337,30-10-2011,Not Specified,1912,Furniture,Hon iLevel? Computer Training Table,Palo Alto,Delivery Truck,30-10-2011,0,31.76,17,0.65,45.51,565.68,-1349.3412
+87336,26-07-2011,Low,1913,Office Supplies,Ibico Presentation Index for Binding Systems,Paradise,Regular Air,02-08-2011,0.09,3.98,10,0.38,5.26,37.81,-122.6705
+87336,26-07-2011,Low,1913,Office Supplies,Avery Hi-Liter? Smear-Safe Highlighters,Paradise,Regular Air,02-08-2011,0.1,5.84,7,0.49,0.83,39.26,27.0894
+87337,30-10-2011,Not Specified,1913,Office Supplies,Newell? 3-Hole Punched Plastic Slotted Magazine Holders for Binders,Paradise,Regular Air,31-10-2011,0.09,4.57,16,0.37,5.42,72.34,-123.91434
+87338,21-05-2012,Critical,1913,Technology,"Imation Neon 80 Minute CD-R Spindle, 50/Pack",Paradise,Regular Air,21-05-2012,0.01,33.98,8,0.45,1.99,285.27,196.8363
+87339,27-01-2013,High,1913,Technology,"Imation Neon 80 Minute CD-R Spindle, 50/Pack",Paradise,Regular Air,28-01-2013,0,33.98,4,0.45,1.99,142.72,78.4776
+87340,08-06-2013,Not Specified,1913,Office Supplies,Sanford Pocket Accent? Highlighters,Paradise,Regular Air,09-06-2013,0.1,1.6,15,0.42,1.29,23.82,-14.224
+87341,19-12-2013,Critical,1913,Office Supplies,Avery Hole Reinforcements,Paradise,Regular Air,20-12-2013,0.07,6.23,13,0.36,6.97,84.97,-30.668568
+88470,21-06-2011,High,1921,Technology,Verbatim 4.7GB DVD-R,Pasadena,Regular Air,22-06-2011,0.01,33.29,18,0.41,1.99,628.82,433.8858
+86629,05-08-2010,Medium,2094,Furniture,Bretford CR8500 Series Meeting Room Furniture,Chico,Delivery Truck,06-08-2010,0.08,400.98,20,0.71,42.52,7840.04,3031.9724
+86630,05-06-2011,Critical,2094,Technology,"80 Minute Slim Jewel Case CD-R , 10/Pack - Staples",Chico,Regular Air,06-06-2011,0.06,8.33,2,0.52,1.99,17.4,-17.152
+86630,05-06-2011,Critical,2094,Office Supplies,Fellowes Recycled Storage Drawers,Chico,Regular Air,07-06-2011,0.06,111.03,10,0.78,8.64,1057.32,73.356
+86632,01-10-2013,High,2094,Technology,Micro Innovations 104 Keyboard,Chico,Regular Air,04-10-2013,0.04,10.97,11,0.64,6.5,119.25,-100.16
+86632,01-10-2013,High,2094,Office Supplies,Kleencut? Forged Office Shears by Acme United Corporation,Chico,Regular Air,03-10-2013,0.04,2.08,20,0.55,2.56,43.25,-64.29
+91294,26-12-2011,Low,2153,Technology,Bell Sonecor JB700 Caller ID,Pasadena,Regular Air,19-01-2012,0.05,7.99,2,0.6,5.03,15.56,-23.452
+91294,26-12-2011,Low,2153,Technology,SC7868i,Pasadena,Regular Air,30-12-2011,0.05,125.99,22,0.55,8.99,2260.6,1559.814
+91295,17-11-2012,Low,2153,Office Supplies,Wilson Jones 14 Line Acrylic Coated Pressboard Data Binders,Pasadena,Regular Air,21-11-2012,0.09,5.34,32,0.38,2.99,170.46,1.8887
+88794,09-01-2010,Not Specified,2164,Office Supplies,"Acco PRESSTEX? Data Binder with Storage Hooks, Dark Blue, 9 1/2"" X 11""",Pasadena,Regular Air,10-01-2010,0.01,5.38,3,0.36,7.57,18.68,-66.77958
+88794,09-01-2010,Not Specified,2164,Office Supplies,Newell 337,Pasadena,Regular Air,09-01-2010,0.05,3.28,11,0.56,3.97,36.3,-144.9188
+88795,28-03-2011,Not Specified,2164,Office Supplies,"Sanford Prismacolor? Professional Thick Lead Art Pencils, 36-Color Set",Pasadena,Regular Air,30-03-2011,0.06,37.44,1,0.46,4.27,39.79,-38.28
+89466,06-01-2011,High,2174,Furniture,"Master Big Foot? Doorstop, Beige",Chula Vista,Regular Air,07-01-2011,0.06,5.28,9,0.54,3.96,46.58,-57.8832
+89468,21-06-2011,High,2174,Office Supplies,"Avery Flip-Chart Easel Binder, Black",Chula Vista,Regular Air,23-06-2011,0.01,22.38,13,0.38,15.1,299.57,-58.7236
+86680,02-03-2011,Medium,2230,Office Supplies,Xerox 1939,Chula Vista,Regular Air,03-03-2011,0.09,18.97,1,0.37,9.54,20.96,-24.74
+86683,20-06-2013,Medium,2230,Technology,Sharp EL500L Fraction Calculator,Chula Vista,Regular Air,22-06-2013,0.03,13.99,2,0.39,7.51,30.19,-30.0672
+86683,20-06-2013,Medium,2230,Office Supplies,Panasonic KP-150 Electric Pencil Sharpener,Chula Vista,Regular Air,21-06-2013,0.01,37.74,16,0.59,2.9,622.82,429.7458
+86683,20-06-2013,Medium,2230,Furniture,Hon Rectangular Conference Tables,Chula Vista,Delivery Truck,23-06-2013,0.01,227.55,18,0.68,32.48,4229.32,2204.172
+86681,04-03-2011,Medium,2231,Furniture,Bevis Steel Folding Chairs,Citrus Heights,Delivery Truck,06-03-2011,0.04,95.95,9,0.57,74.35,897.87,-1216.64
+86682,19-01-2013,High,2231,Office Supplies,"Hot File? 7-Pocket, Floor Stand",Citrus Heights,Regular Air,20-01-2013,0.08,178.47,13,0.55,19.99,2310.91,1594.5279
+86681,04-03-2011,Medium,2232,Office Supplies,Panasonic KP-350BK Electric Pencil Sharpener with Auto Stop,Claremont,Regular Air,06-03-2011,0.1,34.58,4,0.56,8.99,129.38,-9.32
+86684,29-06-2013,Not Specified,2232,Office Supplies,Airmail Envelopes,Claremont,Regular Air,30-06-2013,0.03,83.93,14,0.38,19.99,1215.72,838.8468
+86684,29-06-2013,Not Specified,2232,Office Supplies,Xerox 1929,Claremont,Regular Air,30-06-2013,0.06,22.84,5,0.39,5.47,112.67,72.432
+86685,14-09-2013,High,2232,Office Supplies,"Cardinal Slant-D? Ring Binder, Heavy Gauge Vinyl",Claremont,Regular Air,16-09-2013,0.1,8.69,2,0.39,2.99,18.23,-6.81352
+88721,16-03-2010,High,2323,Office Supplies,"Holmes Replacement Filter for HEPA Air Cleaner, Very Large Room, HEPA Filter",Coachella,Delivery Truck,17-03-2010,0.08,68.81,5,0.41,60,337.86,-550.43
+88721,16-03-2010,High,2323,Office Supplies,Boston 1730 StandUp Electric Pencil Sharpener,Coachella,Regular Air,18-03-2010,0.04,21.38,4,0.59,8.99,84.21,-52.12
+88722,19-12-2010,Not Specified,2323,Technology,"Imation 3.5"", DISKETTE 44766 HGHLD3.52HD/FM, 10/Pack",Coachella,Express Air,19-12-2010,0.06,4.98,7,0.64,4.62,38.74,-27.005
+88724,25-06-2013,Not Specified,2323,Office Supplies,"Manila Recycled Extra-Heavyweight Clasp Envelopes, 6"" x 9""",Coachella,Express Air,27-06-2013,0.08,10.98,2,0.36,4.8,28.91,1.02
+88724,25-06-2013,Not Specified,2323,Office Supplies,Staples SlimLine Pencil Sharpener,Coachella,Regular Air,26-06-2013,0.09,11.97,18,0.6,5.81,200.16,-92.528
+91304,15-02-2010,Not Specified,2355,Furniture,Howard Miller 12-3/4 Diameter Accuwave DS ? Wall Clock,Coachella,Regular Air,16-02-2010,0.1,78.69,9,0.43,19.99,674.55,465.4395
+91306,16-12-2010,Medium,2355,Furniture,Bevis Round Conference Table Top & Single Column Base,Coachella,Delivery Truck,18-12-2010,0.06,146.34,12,0.65,43.75,1721.24,-89.27
+91307,15-02-2013,Not Specified,2355,Technology,Gyration RF Keyboard,Coachella,Regular Air,17-02-2013,0.01,159.99,8,0.49,5.5,1292.46,891.7974
+88455,22-06-2012,Medium,2400,Office Supplies,Fellowes Staxonsteel? Drawer Files,Anaheim,Regular Air,22-06-2012,0,193.17,19,0.71,19.99,3825.29,1975.716
+88456,16-01-2013,Medium,2400,Office Supplies,Avery 491,Anaheim,Regular Air,17-01-2013,0.02,4.13,7,0.39,0.99,28.9,19.941
+88456,16-01-2013,Medium,2400,Office Supplies,Sterilite Officeware Hinged File Box,Anaheim,Regular Air,16-01-2013,0.02,10.48,10,0.58,6.91,105.65,-134.168
+88457,21-07-2013,Not Specified,2400,Technology,Hewlett-Packard Deskjet 940 REFURBISHED Color Inkjet Printer,Anaheim,Delivery Truck,23-07-2013,0.03,80.97,15,0.4,30.06,1200.38,469.9616
+88457,21-07-2013,Not Specified,2400,Office Supplies,Xerox 4200 Series MultiUse Premium Copy Paper (20Lb. and 84 Bright),Anaheim,Regular Air,22-07-2013,0.05,5.28,13,0.4,5.66,71.71,-87.81648
+88459,16-10-2013,Low,2400,Office Supplies,Boston 16801 Nautilus? Battery Pencil Sharpener,Anaheim,Regular Air,16-10-2013,0.08,22.01,9,0.59,5.53,192.46,4.75
+88455,22-06-2012,Medium,2401,Furniture,Nu-Dell Executive Frame,Antioch,Regular Air,23-06-2012,0.06,12.64,1,0.48,4.98,14.49,-14.712
+24869,10-06-2010,Not Specified,2431,Office Supplies,GBC Standard Plastic Binding Systems Combs,Los Angeles,Regular Air,11-06-2010,0.05,8.85,21,0.36,5.6,199.08,-9.177
+5920,19-11-2010,High,2431,Office Supplies,"Dual Level, Single-Width Filing Carts",Los Angeles,Regular Air,19-11-2010,0.07,155.06,14,0.59,7.07,2039.07,-121.75
+37318,15-04-2011,Medium,2431,Furniture,"Linden? 12"" Wall Clock With Oak Frame",Los Angeles,Regular Air,17-04-2011,0.07,33.98,32,0.55,19.99,1031.23,-138.54
+21601,06-04-2012,Low,2431,Office Supplies,SAFCO Boltless Steel Shelving,Los Angeles,Regular Air,06-04-2012,0.09,113.64,22,,35,2450.07,-609.09
+52995,15-03-2013,Not Specified,2431,Office Supplies,Cardinal Poly Pocket Divider Pockets for Ring Binders,Los Angeles,Regular Air,15-03-2013,0.03,3.36,8,0.4,6.27,33.39,-35.512
+34086,29-04-2013,High,2431,Technology,6190,Los Angeles,Regular Air,01-05-2013,0.04,65.99,41,0.55,2.5,2251.91,655.911
+16480,06-12-2013,Not Specified,2431,Office Supplies,3M Organizer Strips,Los Angeles,Express Air,08-12-2013,0.09,5.4,28,0.37,7.78,174.46,-69.529
+89304,11-04-2011,Low,2439,Technology,5190,Menlo Park,Regular Air,11-04-2011,0.05,65.99,5,0.59,7.69,276.24,0.711
+89305,23-07-2011,Low,2439,Office Supplies,Belkin 8 Outlet SurgeMaster II Gold Surge Protector with Phone Protection,Menlo Park,Regular Air,25-07-2011,0,80.98,3,0.59,4.5,252.66,157.45
+86883,11-02-2010,High,2489,Technology,Lexmark 4227 Plus Dot Matrix Printer,Concord,Delivery Truck,13-02-2010,0.01,2036.48,2,0.55,14.7,3786.84,-1596.7458
+86885,26-04-2010,Medium,2489,Office Supplies,Smead Adjustable Mobile File Trolley with Lockable Top,Concord,Regular Air,27-04-2010,0.04,419.19,5,0.58,19.99,2012.11,1388.3559
+86886,12-07-2010,Not Specified,2489,Technology,6120,Concord,Regular Air,12-07-2010,0.07,65.99,9,0.58,8.8,471.66,109.836
+86891,30-01-2012,Not Specified,2489,Furniture,"Eldon? Expressions? Wood Desk Accessories, Oak",Concord,Regular Air,31-01-2012,0.08,7.38,3,0.56,5.21,23.73,1.4212
+86894,10-12-2012,Not Specified,2489,Office Supplies,Hoover Portapower? Portable Vacuum,Concord,Regular Air,11-12-2012,0.01,4.48,10,0.6,49,70.19,-446.695
+86894,10-12-2012,Not Specified,2489,Furniture,"Office Star - Contemporary Task Swivel chair with 2-way adjustable arms, Plum",Concord,Delivery Truck,12-12-2012,0.02,130.98,23,0.78,30,3026.67,-143.81
+86894,10-12-2012,Not Specified,2489,Technology,Logitech Access Keyboard,Concord,Regular Air,12-12-2012,0.09,15.98,2,0.48,6.5,34.08,-26.22
+86884,14-02-2010,Critical,2490,Furniture,Bretford CR4500 Series Slim Rectangular Table,Costa Mesa,Delivery Truck,16-02-2010,0.09,348.21,2,0.62,40.19,662.8,-93.85
+86886,12-07-2010,Not Specified,2490,Technology,TDK 4.7GB DVD-R,Costa Mesa,Express Air,14-07-2010,0,10.01,11,0.41,1.99,119.86,82.7034
+86892,16-04-2012,Medium,2490,Furniture,"Tenex Contemporary Contur Chairmats for Low and Medium Pile Carpet, Computer, 39"" x 49""",Costa Mesa,Regular Air,18-04-2012,0.09,107.53,11,0.65,5.81,1087.14,750.1266
+86893,22-07-2012,Medium,2490,Furniture,"O'Sullivan Elevations Bookcase, Cherry Finish",Costa Mesa,Delivery Truck,24-07-2012,0.08,130.98,8,0.69,54.74,1058.65,-581.59
+86895,19-06-2013,Medium,2490,Office Supplies,"Avery Flip-Chart Easel Binder, Black",Costa Mesa,Regular Air,21-06-2013,0.05,22.38,7,0.38,15.1,163.63,-44.9696
+86895,19-06-2013,Medium,2490,Furniture,Novimex Fabric Task Chair,Costa Mesa,Delivery Truck,20-06-2013,0.1,60.98,11,0.7,30,614.7,-500.864
+86895,19-06-2013,Medium,2490,Office Supplies,Newell 335,Costa Mesa,Regular Air,21-06-2013,0.02,2.88,18,0.56,0.7,54.62,34.668
+86897,14-09-2013,Critical,2490,Technology,1726 Digital Answering Machine,Costa Mesa,Regular Air,16-09-2013,0,20.99,9,0.58,4.81,173.98,-7.14472
+48836,14-02-2010,Critical,2491,Furniture,Bretford CR4500 Series Slim Rectangular Table,Los Angeles,Delivery Truck,16-02-2010,0.09,348.21,8,0.62,40.19,2651.21,-93.85
+11712,26-04-2010,Low,2491,Office Supplies,Newell 336,Los Angeles,Regular Air,28-04-2010,0.06,4.28,9,0.56,0.94,38.96,0.37
+23042,26-04-2010,Medium,2491,Office Supplies,Smead Adjustable Mobile File Trolley with Lockable Top,Los Angeles,Regular Air,27-04-2010,0.04,419.19,20,0.58,19.99,8048.45,1947.67
+23877,12-07-2010,Not Specified,2491,Technology,6120,Los Angeles,Regular Air,12-07-2010,0.07,65.99,37,0.58,8.8,1939.03,109.836
+23877,12-07-2010,Not Specified,2491,Technology,TDK 4.7GB DVD-R,Los Angeles,Express Air,14-07-2010,0,10.01,42,0.41,1.99,457.63,128.03
+14785,09-10-2010,High,2491,Office Supplies,Avery 493,Los Angeles,Regular Air,09-10-2010,0.08,4.91,36,0.36,0.5,170.75,31.752
+14785,09-10-2010,High,2491,Office Supplies,"Boston Model 1800 Electric Pencil Sharpener, Gray",Los Angeles,Regular Air,10-10-2010,0.02,28.15,45,0.55,6.17,1339.42,117.208
+1222,04-02-2011,Medium,2491,Office Supplies,Xerox 1981,Los Angeles,Regular Air,04-02-2011,0.08,5.28,48,0.4,5.57,257.39,-121.91
+56166,04-08-2011,Critical,2491,Office Supplies,Holmes Odor Grabber,Los Angeles,Regular Air,06-08-2011,0.08,14.42,81,0.52,6.75,1108.22,-54.34
+56166,04-08-2011,Critical,2491,Furniture,Office Star Flex Back Scooter Chair with Aluminum Finish Frame,Los Angeles,Delivery Truck,05-08-2011,0.08,100.89,2,0.61,42,284.48,-62.19
+49443,23-01-2012,High,2491,Office Supplies,Lumber Crayons,Los Angeles,Regular Air,24-01-2012,0.05,9.85,46,0.47,4.82,444.46,-17.568
+21760,30-01-2012,Not Specified,2491,Furniture,"Eldon? Expressions? Wood Desk Accessories, Oak",Los Angeles,Regular Air,31-01-2012,0.08,7.38,10,0.56,5.21,79.11,0.748
+41157,16-04-2012,Medium,2491,Furniture,"Tenex Contemporary Contur Chairmats for Low and Medium Pile Carpet, Computer, 39"" x 49""",Los Angeles,Regular Air,18-04-2012,0.09,107.53,44,0.65,5.81,4348.55,1116.98
+48288,22-07-2012,Medium,2491,Furniture,"O'Sullivan Elevations Bookcase, Cherry Finish",Los Angeles,Delivery Truck,24-07-2012,0.08,130.98,34,0.69,54.74,4499.26,-581.59
+22848,10-12-2012,Not Specified,2491,Office Supplies,Hoover Portapower? Portable Vacuum,Los Angeles,Regular Air,11-12-2012,0.01,4.48,40,0.6,49,280.74,-893.39
+22848,10-12-2012,Not Specified,2491,Furniture,"Office Star - Contemporary Task Swivel chair with 2-way adjustable arms, Plum",Los Angeles,Delivery Truck,12-12-2012,0.02,130.98,90,0.78,30,11843.48,-287.62
+22848,10-12-2012,Not Specified,2491,Technology,Logitech Access Keyboard,Los Angeles,Regular Air,12-12-2012,0.09,15.98,8,0.48,6.5,136.32,-52.44
+18790,11-02-2013,High,2491,Technology,Lexmark 4227 Plus Dot Matrix Printer,Los Angeles,Delivery Truck,13-02-2013,0.01,2036.48,7,0.55,14.7,13253.93,-1596.7458
+33222,19-06-2013,Medium,2491,Office Supplies,"Avery Flip-Chart Easel Binder, Black",Los Angeles,Regular Air,21-06-2013,0.05,22.38,27,0.38,15.1,631.14,-56.212
+33222,19-06-2013,Medium,2491,Furniture,Novimex Fabric Task Chair,Los Angeles,Delivery Truck,20-06-2013,0.1,60.98,45,0.7,30,2514.69,-626.08
+33222,19-06-2013,Medium,2491,Office Supplies,Newell 335,Los Angeles,Regular Air,21-06-2013,0.02,2.88,72,0.56,0.7,218.49,28.89
+26021,14-09-2013,Critical,2491,Technology,1726 Digital Answering Machine,Los Angeles,Regular Air,16-09-2013,0,20.99,36,0.58,4.81,695.92,-7.766
+16547,18-02-2010,Not Specified,2498,Furniture,Hon 4700 Series Mobuis? Mid-Back Task Chairs with Adjustable Arms,San Diego,Delivery Truck,20-02-2010,0.09,355.98,30,0.64,58.92,10554.63,1240.25
+16547,18-02-2010,Not Specified,2498,Furniture,BoxOffice By Design Rectangular and Half-Moon Meeting Room Tables,San Diego,Delivery Truck,18-02-2010,0.04,218.75,8,0.77,69.64,1749.64,-533.232
+54567,02-08-2010,Medium,2498,Furniture,Eldon? 200 Class? Desk Accessories,San Diego,Regular Air,04-08-2010,0.09,6.28,56,0.53,5.41,355.4,-61.59
+20007,05-08-2010,Not Specified,2498,Office Supplies,Newell 323,San Diego,Regular Air,06-08-2010,0.08,1.68,88,0.59,1.57,148.36,-46.25
+16741,30-09-2011,Medium,2498,Office Supplies,Xerox 1982,San Diego,Regular Air,01-10-2011,0.01,22.84,11,0.39,16.87,289.61,-42.38
+31492,15-10-2011,Critical,2498,Office Supplies,Staples 6 Outlet Surge,San Diego,Regular Air,17-10-2011,0.04,11.97,47,0.58,4.98,581.5,-14.7
+31492,15-10-2011,Critical,2498,Office Supplies,Acco Perma? 2700 Stacking Storage Drawers,San Diego,Express Air,18-10-2011,0.09,29.74,61,0.7,6.64,1743.79,-25.32
+31492,15-10-2011,Critical,2498,Office Supplies,Fellowes Stor/Drawer? Steel Plus? Storage Drawers,San Diego,Regular Air,16-10-2011,0.03,95.43,41,0.79,19.99,3830.88,-282.672
+8419,29-09-2012,Critical,2498,Office Supplies,Xerox 1936,San Diego,Express Air,01-10-2012,0.07,19.98,37,0.38,5.97,716.71,70.39
+8419,29-09-2012,Critical,2498,Office Supplies,Xerox 214,San Diego,Regular Air,30-09-2012,0.1,6.48,47,0.37,7.03,298.84,-86.62
+3524,02-05-2013,High,2498,Office Supplies,Computer Printout Paper with Letter-Trim Perforations,San Diego,Regular Air,03-05-2013,0,18.97,27,0.37,9.03,549.41,52.35
+8833,04-05-2013,Low,2498,Office Supplies,Carina Double Wide Media Storage Towers in Natural & Black,San Diego,Regular Air,08-05-2013,0,80.98,52,0.81,35,4340.67,-846.73
+87034,24-05-2011,Low,2505,Furniture,"Howard Miller 13"" Diameter Goldtone Round Wall Clock",Daly City,Regular Air,02-06-2011,0,46.94,18,0.44,6.77,881.15,607.9935
+87034,24-05-2011,Low,2505,Office Supplies,Fellowes Super Stor/Drawer? Files,Daly City,Regular Air,28-05-2011,0.09,161.55,3,0.66,19.99,458.42,-139.75
+87457,03-09-2011,Critical,2529,Office Supplies,"#10- 4 1/8"" x 9 1/2"" Recycled Envelopes",Antioch,Regular Air,05-09-2011,0.05,8.74,3,0.38,8.29,28.46,-32.35
+87451,29-03-2010,High,2530,Technology,Targus USB Numeric Keypad,Apple Valley,Regular Air,30-03-2010,0.04,40.98,7,0.74,6.5,277.07,-89.5
+87456,17-05-2011,Not Specified,2530,Office Supplies,Sanford 52201 APSCO Electric Pencil Sharpener,Apple Valley,Regular Air,17-05-2011,0.06,40.97,17,0.59,8.99,664.5,196.58
+87456,17-05-2011,Not Specified,2530,Office Supplies,Tennsco Regal Shelving Units,Apple Valley,Regular Air,19-05-2011,0.06,101.41,2,0.82,35,216.09,-253.38
+87456,17-05-2011,Not Specified,2530,Technology,Accessory32,Apple Valley,Regular Air,19-05-2011,0.01,55.99,15,0.35,1.25,763.27,526.6563
+87452,02-05-2010,Medium,2531,Office Supplies,EcoTones? Memo Sheets,Atascadero,Regular Air,04-05-2010,0.08,4,14,0.37,1.3,51.99,28.4
+87454,24-02-2011,High,2531,Office Supplies,UniKeep? View Case Binders,Atascadero,Regular Air,26-02-2011,0.03,4.89,9,0.39,6.07,45.49,-132.2615
+87455,10-04-2011,Medium,2531,Furniture,Bush Advantage Collection? Round Conference Table,Atascadero,Delivery Truck,12-04-2011,0.05,212.6,2,0.64,52.2,426.93,-248.78
+87458,26-01-2013,Medium,2531,Office Supplies,Xerox 191,Atascadero,Regular Air,27-01-2013,0.05,19.98,1,0.38,5.86,21.48,0.1444
+87459,02-05-2013,Medium,2531,Technology,"Verbatim DVD-RAM, 5.2GB, Rewritable, Type 1, DS",Atascadero,Regular Air,03-05-2013,0.05,29.89,14,0.5,1.99,401.51,277.0419
+87462,26-12-2013,High,2531,Office Supplies,"Advantus Push Pins, Aluminum Head",Atascadero,Regular Air,26-12-2013,0,5.81,22,0.54,3.37,130.82,-12.00864
+46436,04-04-2010,Low,2548,Technology,Accessory31,Los Angeles,Regular Air,11-04-2010,0,35.99,46,0.35,0.99,1477.57,840.051
+40997,21-04-2010,Low,2548,Office Supplies,Xerox 1951,Los Angeles,Express Air,21-04-2010,0.05,30.98,12,0.4,9.18,382.29,61.47
+40997,21-04-2010,Low,2548,Office Supplies,Boston KS Multi-Size Manual Pencil Sharpener,Los Angeles,Regular Air,28-04-2010,0.05,22.99,37,0.57,8.99,881.74,18.27
+40997,21-04-2010,Low,2548,Furniture,Bush Advantage Collection? Round Conference Table,Los Angeles,Delivery Truck,25-04-2010,0.04,212.6,33,0.73,110.2,7384.18,-513.79042
+29889,04-12-2010,Not Specified,2548,Office Supplies,"Dixon Ticonderoga? Erasable Colored Pencil Set, 12-Color",Los Angeles,Regular Air,07-12-2010,0.09,5.98,81,0.51,1.67,448.26,23.87
+4610,17-06-2011,Low,2548,Technology,"80 Minute Slim Jewel Case CD-R , 10/Pack - Staples",Los Angeles,Regular Air,19-06-2011,0.09,8.33,12,0.52,1.99,100.32,-17.01
+4610,17-06-2011,Low,2548,Office Supplies,"#10 White Business Envelopes,4 1/8 x 9 1/2",Los Angeles,Regular Air,21-06-2011,0.08,15.67,44,0.38,1.39,678.72,203.01
+19205,26-07-2011,Medium,2548,Office Supplies,Xerox 1935,Los Angeles,Regular Air,27-07-2011,0.04,26.38,56,0.39,5.86,1538.63,479.62
+19205,26-07-2011,Medium,2548,Office Supplies,"Avery Hi-Liter GlideStik Fluorescent Highlighter, Yellow Ink",Los Angeles,Regular Air,28-07-2011,0,3.26,37,0.41,1.86,128.87,2.36
+27811,04-03-2012,Not Specified,2548,Office Supplies,Avery Self-Adhesive Photo Pockets for Polaroid Photos,Los Angeles,Regular Air,06-03-2012,0.09,6.81,35,0.37,5.48,223.09,-73.623
+27811,04-03-2012,Not Specified,2548,Office Supplies,"GBC Pre-Punched Binding Paper, Plastic, White, 8-1/2"" x 11""",Los Angeles,Regular Air,05-03-2012,0.06,15.99,4,0.37,13.18,73.9,-39.6405
+40997,21-04-2013,Low,2548,Office Supplies,Pizazz? Global Quick File?,Los Angeles,Regular Air,23-04-2013,0.03,14.97,1,0.57,7.51,22.61,-8.4
+50181,30-05-2013,High,2548,Furniture,Global Deluxe High-Back Office Chair in Storm,Los Angeles,Delivery Truck,31-05-2013,0.04,135.99,3,0.76,28.63,434.6,-246.21
+43713,07-09-2013,Medium,2548,Office Supplies,12 Colored Short Pencils,Los Angeles,Regular Air,09-09-2013,0.05,2.6,25,0.58,2.4,71.69,-17.69
+53445,24-10-2013,High,2548,Office Supplies,Boston 16765 Mini Stand Up Battery Pencil Sharpener,Los Angeles,Regular Air,26-10-2013,0.01,11.66,17,0.59,8.99,225.14,-44.33
+53445,24-10-2013,High,2548,Office Supplies,Acco? Hot Clips? Clips to Go,Los Angeles,Regular Air,26-10-2013,0.02,3.29,44,0.4,1.35,154.63,11.23
+90328,22-02-2011,Critical,2569,Office Supplies,Xerox 190,Danville,Express Air,23-02-2011,0.05,4.98,1,0.38,4.86,19.96,3.25
+90328,22-02-2011,Critical,2569,Office Supplies,Barrel Sharpener,Danville,Regular Air,24-02-2011,0.03,3.57,10,0.59,4.17,36.34,-115.48
+90328,22-02-2011,Critical,2569,Office Supplies,Newell 342,Danville,Regular Air,24-02-2011,0.06,3.28,5,0.56,3.97,16.82,-57.84
+90330,31-03-2012,High,2569,Office Supplies,Xerox 198,Danville,Express Air,01-04-2012,0.02,4.98,3,0.38,8.33,19.78,-42.61
+90327,25-10-2010,Critical,2570,Office Supplies,"Eureka Sanitaire ? Multi-Pro Heavy-Duty Upright, Disposable Bags",Davis,Regular Air,27-10-2010,0,4.37,19,0.59,5.15,87.85,-150.2604
+90327,25-10-2010,Critical,2570,Furniture,Global Troy? Executive Leather Low-Back Tilter,Davis,Delivery Truck,26-10-2010,0.01,500.98,14,0.6,56,7429.63,4899.1288
+90327,25-10-2010,Critical,2570,Furniture,"DAX Copper Panel Document Frame, 5 x 7 Size",Davis,Regular Air,25-10-2010,0.02,12.58,18,0.43,5.16,224.29,44.712
+90327,25-10-2010,Critical,2570,Furniture,Deflect-O? Glasstique? Clear Desk Accessories,Davis,Regular Air,26-10-2010,0.1,7.7,7,0.52,3.68,51.2,-22.626
+90332,14-09-2013,Medium,2570,Office Supplies,Avery Durable Binders,Davis,Regular Air,16-09-2013,0.01,2.88,17,0.36,1.49,50.23,7.27974
+86118,16-05-2010,High,2610,Office Supplies,3M Organizer Strips,Davis,Regular Air,17-05-2010,0.09,5.4,9,0.37,7.78,49.24,-136.252
+86120,11-02-2011,High,2610,Office Supplies,Newell 340,Davis,Regular Air,12-02-2011,0.05,2.88,3,0.56,0.7,8.47,0.35
+90927,07-08-2010,High,2626,Office Supplies,"Avery Trapezoid Extra Heavy Duty 4"" Binders",Menlo Park,Regular Air,08-08-2010,0.1,41.94,6,0.35,2.99,237.8,164.082
+90928,18-02-2012,Low,2626,Office Supplies,"Conquest? 14 Commercial Heavy-Duty Upright Vacuum, Collection System, Accessory Kit",Menlo Park,Regular Air,23-02-2012,0,56.96,14,0.56,13.22,864.94,596.8086
+90928,18-02-2012,Low,2626,Technology,Okidata ML390 Turbo Dot Matrix Printers,Menlo Park,Delivery Truck,23-02-2012,0.08,442.14,13,0.56,14.7,5605.27,3867.6363
+90929,27-02-2013,Critical,2626,Furniture,Bretford Rectangular Conference Table Tops,Menlo Park,Delivery Truck,01-03-2013,0.02,376.13,11,0.74,85.63,4319.87,483.95
+90930,04-03-2013,Medium,2626,Office Supplies,Newell 338,Menlo Park,Regular Air,05-03-2013,0.05,2.94,4,0.58,0.7,11.82,1.82
+90931,07-08-2013,High,2626,Office Supplies,"Brites Rubber Bands, 1 1/2 oz. Box",Menlo Park,Regular Air,07-08-2013,0.06,1.98,11,0.83,0.7,20.83,-5.87664
+91386,17-09-2010,Low,2647,Office Supplies,Staples Surge Protector 6 outlet,Bakersfield,Regular Air,24-09-2010,0.1,10.98,5,0.58,3.99,52.21,-21.03
+91386,17-09-2010,Low,2647,Furniture,Eldon Radial Chair Mat for Low to Medium Pile Carpets,Bakersfield,Regular Air,19-09-2010,0.01,39.98,4,0.65,9.2,170.32,117.5208
+91387,03-08-2011,Critical,2647,Office Supplies,"Avery? Durable Plastic 1"" Binders",Bakersfield,Regular Air,04-08-2011,0.01,4.54,10,0.36,5.83,48.5,-39.83278
+89361,25-05-2010,Medium,2652,Office Supplies,Xerox 1938,Bakersfield,Regular Air,27-05-2010,0.06,47.9,2,0.37,5.86,94.2,21.78
+89362,08-01-2012,Low,2652,Technology,"Maxell 3.5"" DS/HD IBM-Formatted Diskettes, 10/Pack",Bakersfield,Regular Air,12-01-2012,0.1,4.89,10,0.66,4.93,46.34,-172.794
+89363,20-04-2013,Medium,2652,Office Supplies,"Multi-Use Personal File Cart and Caster Set, Three Stacking Bins",Bakersfield,Regular Air,21-04-2013,0.02,34.76,8,0.57,8.22,285.48,175.32
+89364,19-08-2013,Low,2652,Furniture,"Bevis Round Conference Table Top, X-Base",Bakersfield,Delivery Truck,24-08-2013,0.03,179.29,18,0.74,29.21,3145.43,144.31432
+37924,29-11-2010,High,2670,Office Supplies,Economy Rollaway Files,Los Angeles,Regular Air,29-11-2010,0.05,165.2,167,0.59,19.99,27587.55,2008.71
+37924,29-11-2010,High,2670,Office Supplies,Model L Table or Wall-Mount Pencil Sharpener,Los Angeles,Regular Air,29-11-2010,0.09,17.99,71,0.57,8.65,1191.58,-80.53
+54497,19-01-2011,Not Specified,2670,Office Supplies,Letter Size Cart,Los Angeles,Regular Air,22-01-2011,0.07,142.86,1,0.56,19.99,155.51,-139.744
+12804,25-05-2013,Medium,2670,Office Supplies,Avery 497,Los Angeles,Regular Air,28-05-2013,0,3.08,27,0.37,0.5,88.79,28.47
+12804,25-05-2013,Medium,2670,Office Supplies,Assorted Color Push Pins,Los Angeles,Regular Air,27-05-2013,0.08,1.81,65,0.52,0.75,109.21,-4.17
+12804,25-05-2013,Medium,2670,Office Supplies,"Letter/Legal File Tote with Clear Snap-On Lid, Black Granite",Los Angeles,Express Air,27-05-2013,0.02,16.06,44,0.59,8.34,767.31,-44.92
+39686,08-06-2013,Not Specified,2670,Office Supplies,"Sanyo Counter Height Refrigerator with Crisper, 3.6 Cubic Foot, Stainless Steel/Black",Los Angeles,Delivery Truck,09-06-2013,0.06,328.14,3,0.57,91.05,1108.2,-473.66
+39686,08-06-2013,Not Specified,2670,Technology,8860,Los Angeles,Regular Air,09-06-2013,0,65.99,72,0.56,5.26,4126.07,791.901
+49889,12-12-2013,Critical,2670,Office Supplies,Ibico Covers for Plastic or Wire Binding Elements,Los Angeles,Regular Air,14-12-2013,0.09,11.5,94,0.4,7.19,1066.94,-50.209
+49889,12-12-2013,Critical,2670,Office Supplies,"Premium Writing Pencils, Soft, #2 by Central Association for the Blind",Los Angeles,Express Air,14-12-2013,0.09,2.98,42,0.57,2.03,123.88,-22.32
+89020,12-11-2011,Not Specified,2733,Office Supplies,Xerox 188,Dublin,Regular Air,13-11-2011,0.04,11.34,13,0.36,5.01,148.69,27.5
+89020,12-11-2011,Not Specified,2733,Technology,5180,Dublin,Regular Air,14-11-2011,0.1,65.99,36,0.56,8.99,1860.26,581.5062
+89022,18-07-2013,Not Specified,2733,Office Supplies,Serrated Blade or Curved Handle Hand Letter Openers,Dublin,Regular Air,20-07-2013,0.08,3.14,12,0.84,1.92,37.79,-48.11712
+89024,19-08-2013,Medium,2733,Office Supplies,Self-Adhesive Address Labels for Typewriters by Universal,Dublin,Regular Air,19-08-2013,0.09,7.31,2,0.38,0.49,14.37,-1.21688
+89024,19-08-2013,Medium,2733,Office Supplies,"Post-it? ?Important Message? Note Pad, Neon Colors, 50 Sheets/Pad",Dublin,Regular Air,21-08-2013,0.03,7.28,18,0.37,1.77,133.08,91.8252
+91584,26-03-2010,Not Specified,2773,Office Supplies,Wilson Jones Impact Binders,Dublin,Regular Air,28-03-2010,0.1,5.18,2,0.36,5.74,10.96,-29.003
+91585,12-07-2012,Not Specified,2773,Furniture,"Master Giant Foot? Doorstop, Safety Yellow",Dublin,Regular Air,14-07-2012,0.06,7.59,13,0.42,4,94.12,17.15
+91585,12-07-2012,Not Specified,2773,Office Supplies,"Premium Writing Pencils, Soft, #2 by Central Association for the Blind",Dublin,Regular Air,14-07-2012,0.01,2.98,11,0.57,2.03,33.11,-30.39
+87433,04-11-2011,Low,2799,Furniture,Bush Mission Pointe Library,East Los Angeles,Delivery Truck,09-11-2011,0.05,150.98,30,0.65,66.27,4531.85,153.81
+87434,12-04-2013,High,2799,Office Supplies,ACCOHIDE? Binder by Acco,East Los Angeles,Regular Air,14-04-2013,0,4.13,6,0.38,5.34,28.16,-68.1375
+86227,05-02-2010,Medium,2803,Technology,"Hewlett-Packard cp1700 [D, PS] Series Color Inkjet Printers",East Los Angeles,Delivery Truck,06-02-2010,0.07,500.98,10,0.38,28.14,3913.02,2699.9838
+86227,05-02-2010,Medium,2803,Office Supplies,"Hot File? 7-Pocket, Floor Stand",East Los Angeles,Regular Air,07-02-2010,0.1,178.47,1,0.55,19.99,180.14,-170.98
+86229,26-09-2011,Low,2803,Furniture,G.E. Longer-Life Indoor Recessed Floodlight Bulbs,East Los Angeles,Regular Air,28-09-2011,0.04,6.64,3,0.37,4.95,22.77,14.57
+86230,30-10-2011,High,2803,Office Supplies,"Adams Phone Message Book, 200 Message Capacity, 8 1/16? x 11?",East Los Angeles,Regular Air,30-10-2011,0.07,6.88,20,0.39,2,132.7,68.1444
+86230,30-10-2011,High,2803,Office Supplies,"Binney & Smith inkTank? Erasable Desk Highlighter, Chisel Tip, Yellow, 12/Box",East Los Angeles,Regular Air,30-10-2011,0.01,2.52,7,0.44,4.28,20.68,-44.874
+87722,24-05-2011,Low,2827,Technology,TDK 4.7GB DVD+RW,El Cajon,Regular Air,26-05-2011,0.08,14.48,2,0.49,1.99,27.57,-29.71
+87724,01-09-2013,Not Specified,2827,Technology,"Memorex 4.7GB DVD-RAM, 3/Pack",El Cajon,Regular Air,03-09-2013,0,31.78,15,0.42,1.99,495.77,342.0813
+87720,19-02-2010,High,2828,Office Supplies,X-Rack? File for Hanging Folders,El Centro,Regular Air,21-02-2010,0.05,11.29,8,0.59,5.03,90.46,-35.26
+87721,01-12-2010,Medium,2828,Technology,"80 Minute CD-R Spindle, 100/Pack - Staples",El Centro,Regular Air,02-12-2010,0.07,39.48,12,0.54,1.99,467.03,322.2507
+87723,07-03-2012,Low,2828,Office Supplies,Boston 16765 Mini Stand Up Battery Pencil Sharpener,El Centro,Regular Air,12-03-2012,0.05,11.66,10,0.59,8.99,114.38,-182.87
+10919,27-03-2011,High,2842,Office Supplies,Tennsco Industrial Shelving,Los Angeles,Regular Air,27-03-2011,0.07,48.91,42,0.83,35,2040.95,-1231.87
+44647,24-01-2013,Low,2842,Furniture,Global Troy? Executive Leather Low-Back Tilter,Los Angeles,Delivery Truck,24-01-2013,0.06,500.98,52,0.6,26,25712.3,2755.344
+44647,24-01-2013,Low,2842,Office Supplies,Recycled Eldon Regeneration Jumbo File,Los Angeles,Regular Air,28-01-2013,0.05,12.28,26,0.57,6.13,328.15,-58.816
+87621,29-05-2011,Low,2930,Office Supplies,Xerox 1899,El Centro,Regular Air,05-06-2011,0.09,5.78,11,0.36,4.96,59.74,-58.25
+87619,30-08-2010,Not Specified,2931,Office Supplies,Newell 309,El Dorado Hills,Regular Air,30-08-2010,0.1,11.55,12,0.55,2.36,135.77,69.7672
+87622,03-07-2011,Critical,2931,Technology,Hewlett-Packard 2600DN Business Color Inkjet Printer,El Dorado Hills,Delivery Truck,05-07-2011,0.06,119.99,11,0.39,56.14,1270.75,-34.3041
+87622,03-07-2011,Critical,2931,Office Supplies,"Dixon Ticonderoga Core-Lock Colored Pencils, 48-Color Set",El Dorado Hills,Regular Air,06-07-2011,0.07,36.55,7,0.41,13.89,253.89,104.37
+87626,25-10-2012,High,2931,Technology,StarTAC 7760,El Dorado Hills,Regular Air,26-10-2012,0.07,65.99,13,0.59,3.99,732.4,248.95476
+87627,28-11-2012,Critical,2931,Furniture,"Eldon Expressions? Desk Accessory, Wood Pencil Holder, Oak",El Dorado Hills,Express Air,29-11-2012,0.03,9.65,3,0.55,6.22,39.32,2.596
+87627,28-11-2012,Critical,2931,Office Supplies,Newell 314,El Dorado Hills,Regular Air,30-11-2012,0.08,5.58,41,0.6,0.7,217.39,107.91
+87628,29-03-2013,Critical,2931,Office Supplies,"Holmes Replacement Filter for HEPA Air Cleaner, Very Large Room, HEPA Filter",El Dorado Hills,Delivery Truck,30-03-2013,0,68.81,7,0.41,60,525.05,-520.55
+54949,10-08-2010,Low,3004,Office Supplies,Xerox 1930,Los Angeles,Regular Air,15-08-2010,0.08,6.48,58,0.36,6.81,382.33,-94.59
+54949,10-08-2010,Low,3004,Office Supplies,"Tennsco Lockers, Gray",Los Angeles,Delivery Truck,17-08-2010,0.09,20.98,13,0.78,53.03,356.61,-293.74
+32931,15-02-2011,Low,3004,Office Supplies,Avery 484,Los Angeles,Regular Air,22-02-2011,0.06,2.88,31,0.36,0.5,86.1,32.7
+32931,15-02-2011,Low,3004,Office Supplies,Eldon Simplefile? Box Office?,Los Angeles,Regular Air,20-02-2011,0.08,12.44,25,0.57,6.27,298.11,-60.79
+44005,03-09-2011,Medium,3004,Technology,US Robotics 56K V.92 External Faxmodem,Los Angeles,Regular Air,04-09-2011,0.02,99.99,13,0.52,19.99,1361.95,-270.48
+45668,12-12-2011,Not Specified,3004,Furniture,O'Sullivan 5-Shelf Heavy-Duty Bookcases,Los Angeles,Delivery Truck,13-12-2011,0.01,81.94,15,0.6,55.81,1321.44,-298.9
+40612,28-02-2012,High,3004,Office Supplies,Newell 327,Los Angeles,Regular Air,29-02-2012,0.1,2.21,10,0.58,1.12,21.33,-6.84
+59686,08-03-2012,Low,3004,Office Supplies,Wilson Jones ?Snap? Scratch Pad Binder Tool for Ring Binders,Los Angeles,Regular Air,13-03-2012,0.01,5.8,46,0.4,5.59,273.05,-106.421
+27872,13-10-2012,Not Specified,3004,Office Supplies,"GBC Laser Imprintable Binding System Covers, Desert Sand",Los Angeles,Regular Air,15-10-2012,0.01,14.27,49,0.38,7.27,761.87,29.1448
+41987,21-10-2012,Not Specified,3004,Furniture,"Chromcraft 48"" x 96"" Racetrack Double Pedestal Table",Los Angeles,Delivery Truck,22-10-2012,0.05,320.64,49,0.66,29.2,12702.85,1408.088
+37700,08-12-2013,Critical,3004,Office Supplies,GBC Therma-A-Bind 250T Electric Binding System,Los Angeles,Express Air,11-12-2013,0.05,122.99,54,0.37,19.99,6781.02,1169.7105
+89071,09-07-2010,Critical,3017,Office Supplies,Staples Brown Kraft Recycled Clasp Envelopes,Encinitas,Regular Air,10-07-2010,0.01,5.58,1,0.35,5.3,11.16,-7.25
+89071,09-07-2010,Critical,3017,Office Supplies,4009? Highlighters by Sanford,Encinitas,Regular Air,10-07-2010,0.03,3.98,11,0.52,0.7,45.22,31.2018
+89073,25-06-2011,Medium,3017,Office Supplies,Binder Posts,Encinitas,Regular Air,26-06-2011,0.04,5.74,3,0.39,5.01,19.17,-16.0816
+89073,25-06-2011,Medium,3017,Office Supplies,Storex DuraTech Recycled Plastic Frosted Binders,Encinitas,Regular Air,26-06-2011,0.06,4.24,8,0.35,5.41,34.58,-57.4724
+89075,24-06-2013,High,3017,Technology,StarTAC 7760,Encinitas,Regular Air,26-06-2013,0.02,65.99,18,0.59,3.99,989.45,682.7205
+89789,05-09-2010,High,3048,Furniture,SAFCO Arco Folding Chair,Berkeley,Express Air,07-09-2010,0.06,276.2,10,,24.49,2610.56,1167.38
+89790,04-03-2011,Low,3048,Office Supplies,Xerox 1933,Berkeley,Regular Air,11-03-2011,0.08,12.28,5,0.38,4.86,61.66,31.54
+89791,06-02-2012,High,3048,Furniture,"Advantus Employee of the Month Certificate Frame, 11 x 13-1/2",Berkeley,Express Air,07-02-2012,0.09,30.93,3,0.44,3.92,87.78,60.5682
+89792,01-05-2012,Medium,3048,Furniture,Bretford CR4500 Series Slim Rectangular Table,Berkeley,Delivery Truck,03-05-2012,0.09,348.21,5,0.62,40.19,1663.19,298.83
+89795,05-09-2013,High,3048,Office Supplies,Newell 346,Berkeley,Regular Air,07-09-2013,0.09,2.88,8,0.56,0.7,22.79,3.0348
+14756,31-08-2010,Low,3075,Furniture,"Executive Impressions 13"" Clairmont Wall Clock",Los Angeles,Regular Air,31-08-2010,0.06,19.23,4,0.44,6.15,84.6,-25.38
+38979,26-02-2011,Low,3075,Furniture,"Situations Contoured Folding Chairs, 4/Set",Los Angeles,Delivery Truck,26-02-2011,0.07,70.98,48,0.6,59.81,3355.1,-1701.96
+38979,26-02-2011,Low,3075,Technology,"Micro Innovations Micro Digital Wireless Keyboard and Mouse, Gray",Los Angeles,Regular Air,03-03-2011,0.06,82.99,34,0.44,5.5,2864.55,1021.07
+38979,26-02-2011,Low,3075,Office Supplies,"Avery Hi-Liter Comfort Grip Fluorescent Highlighter, Yellow Ink",Los Angeles,Regular Air,03-03-2011,0.02,1.95,31,0.46,1.63,65.61,-16.63
+24577,01-03-2011,Medium,3075,Office Supplies,Xerox 1929,Los Angeles,Regular Air,02-03-2011,0.05,22.84,8,0.39,5.47,180.79,20.09
+30497,06-02-2012,Critical,3075,Office Supplies,Premium Transparent Presentation Covers by GBC,Los Angeles,Express Air,08-02-2012,0.03,20.98,38,0.37,8.83,790.08,85.68
+30497,06-02-2012,Critical,3075,Office Supplies,Xerox 1947,Los Angeles,Regular Air,08-02-2012,0.06,5.98,35,0.4,5.35,214.58,-61.9
+37252,19-11-2012,Low,3075,Office Supplies,Tripp Lite Isotel 8 Ultra 8 Outlet Metal Surge,Los Angeles,Regular Air,21-11-2012,0.03,70.97,71,0.59,3.5,5083.23,408.73
+37252,19-11-2012,Low,3075,Technology,"Imation 3.5 IBM Formatted Diskettes, 10/Box",Los Angeles,Regular Air,23-11-2012,0.02,8.32,3,0.74,2.38,31.86,-31.2
+37252,19-11-2012,Low,3075,Technology,US Robotics 56K V.92 Internal PCI Faxmodem,Los Angeles,Regular Air,21-11-2012,0.1,49.99,170,0.45,19.99,7945.9,-37.19
+37252,19-11-2012,Low,3075,Furniture,"Riverside Palais Royal Lawyers Bookcase, Royale Cherry Finish",Los Angeles,Delivery Truck,24-11-2012,0.03,880.98,116,0.62,44.55,100119.16,7497.55
+7107,04-01-2013,Not Specified,3075,Furniture,Eldon Advantage? Foldable Chair Mats for Low Pile Carpets,Los Angeles,Regular Air,04-01-2013,0.02,54.2,3,0.64,11.1,172.04,57.232
+7107,04-01-2013,Not Specified,3075,Office Supplies,"Snap-A-Way? Black Print Carbonless Ruled Speed Letter, Triplicate",Los Angeles,Regular Air,06-01-2013,0.06,37.94,3,0.38,5.08,113.14,-33.968
+7107,04-01-2013,Not Specified,3075,Office Supplies,Recycled Steel Personal File for Standard File Folders,Los Angeles,Regular Air,05-01-2013,0.1,55.29,35,0.59,5.08,1886.52,163.12
+42823,25-06-2013,Medium,3075,Office Supplies,Xerox 1980,Los Angeles,Express Air,27-06-2013,0.05,4.28,12,0.4,6.18,73.71,-22.56
+31681,07-11-2013,Not Specified,3075,Office Supplies,Xerox 4200 Series MultiUse Premium Copy Paper (20Lb. and 84 Bright),Los Angeles,Regular Air,08-11-2013,0.02,5.28,137,0.4,5.66,764.75,-93.78
+88543,03-06-2010,Not Specified,3151,Furniture,Bevis Rectangular Conference Tables,Twentynine Palms,Delivery Truck,03-06-2010,0.01,145.98,9,0.69,46.2,1370.79,-134.512
+88544,04-08-2010,Critical,3151,Technology,Okidata Pacemark 4410N Wide Format Dot Matrix Printer,Twentynine Palms,Delivery Truck,05-08-2010,0.01,3502.14,1,0.57,8.73,3501.79,-4075.933992
+88544,04-08-2010,Critical,3151,Office Supplies,Acme Galleria? Hot Forged Steel Scissors with Colored Handles,Twentynine Palms,Regular Air,05-08-2010,0.06,15.73,4,0.56,7.42,63.04,-18.5588
+88545,16-08-2010,Not Specified,3151,Office Supplies,"BOSTON? Ranger? #55 Pencil Sharpener, Black",Twentynine Palms,Express Air,18-08-2010,0.05,25.99,18,0.56,5.37,451.35,220.3572
+88546,28-08-2010,Medium,3151,Office Supplies,"Fiskars 8"" Scissors, 2/Pack",Twentynine Palms,Regular Air,31-08-2010,0.04,17.24,7,0.56,3.26,119.6,47.73
+88547,11-09-2010,Medium,3151,Office Supplies,Avery Hanging File Binders,Twentynine Palms,Regular Air,12-09-2010,0.02,5.98,10,0.39,1.49,59.9,28.526
+88548,29-09-2010,High,3151,Furniture,"GE 48"" Fluorescent Tube, Cool White Energy Saver, 34 Watts, 30/Box",Twentynine Palms,Regular Air,02-10-2010,0.01,99.23,1,0.35,8.99,99.22,-87.46
+88549,11-12-2012,High,3151,Office Supplies,Belkin 6 Outlet Metallic Surge Strip,Twentynine Palms,Regular Air,11-12-2012,0.03,10.89,13,0.59,4.5,139.66,-13.165
+88549,11-12-2012,High,3151,Furniture,"Dana Fluorescent Magnifying Lamp, White, 36""",Twentynine Palms,Regular Air,12-12-2012,0.06,50.98,13,0.55,22.24,640.33,113.04
+88550,11-01-2013,Critical,3151,Office Supplies,"Black Print Carbonless Snap-Off? Rapid Letter, 8 1/2"" x 7""",Twentynine Palms,Regular Air,12-01-2013,0.08,9.11,5,0.4,2.15,45.41,31.3329
+88551,03-03-2013,Critical,3151,Furniture,"Executive Impressions 14"" Two-Color Numerals Wall Clock",Twentynine Palms,Regular Air,04-03-2013,0.05,22.72,5,0.44,8.99,113.66,21.96
+88551,03-03-2013,Critical,3151,Technology,5180,Twentynine Palms,Express Air,05-03-2013,0.07,65.99,12,0.56,8.99,654.34,451.4946
+88552,28-03-2013,Low,3151,Furniture,Office Star - Ergonomic Mid Back Chair with 2-Way Adjustable Arms,Twentynine Palms,Delivery Truck,04-04-2013,0.07,180.98,8,0.69,30,1394.63,241.06
+88552,28-03-2013,Low,3151,Office Supplies,"Speediset Carbonless Redi-Letter? 7"" x 8 1/2""",Twentynine Palms,Regular Air,04-04-2013,0.02,10.31,10,0.38,1.79,107.55,74.2095
+88553,28-08-2013,Medium,3151,Furniture,BoxOffice By Design Rectangular and Half-Moon Meeting Room Tables,Twentynine Palms,Delivery Truck,30-08-2013,0.07,218.75,10,0.77,69.64,1705.65,-293.11544
+88553,28-08-2013,Medium,3151,Furniture,Hon 2111 Invitation? Series Corner Table,Twentynine Palms,Regular Air,30-08-2013,0.08,209.37,25,0.79,69,4111.71,-687.46512
+86807,20-05-2012,Not Specified,3172,Office Supplies,"#10 White Business Envelopes,4 1/8 x 9 1/2",Twentynine Palms,Regular Air,21-05-2012,0.02,15.67,17,0.38,1.39,281.95,194.5455
+86807,20-05-2012,Not Specified,3172,Furniture,"Deflect-o EconoMat Nonstudded, No Bevel Mat",Twentynine Palms,Regular Air,22-05-2012,0.07,51.65,11,0.65,18.45,556.76,63.88
+86807,20-05-2012,Not Specified,3172,Technology,5170i,Twentynine Palms,Express Air,21-05-2012,0.04,125.99,4,0.57,8.99,419.98,-176.055
+86809,29-05-2013,High,3172,Office Supplies,Prang Dustless Chalk Sticks,Twentynine Palms,Regular Air,30-05-2013,0.09,1.68,16,0.35,1,25.02,-4.56
+86810,21-07-2013,Not Specified,3172,Furniture,Global Enterprise Series Seating High-Back Swivel/Tilt Chairs,Twentynine Palms,Delivery Truck,22-07-2013,0.04,270.98,1,0.77,50,280.45,-414.7776
+86811,03-09-2013,Not Specified,3172,Office Supplies,Tyvek? Side-Opening Peel & Seel? Expanding Envelopes,Twentynine Palms,Regular Air,05-09-2013,0.02,90.48,13,0.4,19.99,1209.22,799.1028
+24294,02-08-2010,Not Specified,3196,Technology,Hewlett-Packard Deskjet 6122 Color Inkjet Printer,San Francisco,Delivery Truck,03-08-2010,0.03,200.97,43,0.36,15.59,8717.75,1951.3
+34246,07-10-2011,Critical,3196,Office Supplies,Eureka Disposable Bags for Sanitaire? Vibra Groomer I? Upright Vac,San Francisco,Regular Air,08-10-2011,0.03,4.06,88,0.6,6.89,358.93,-308.532
+34246,07-10-2011,Critical,3196,Technology,AT&T 2230 Dual Handset Phone With Caller ID/Call Waiting,San Francisco,Regular Air,08-10-2011,0.03,99.99,32,0.52,19.99,3356.48,153.864
+34246,07-10-2011,Critical,3196,Office Supplies,"Peel & Seel? Recycled Catalog Envelopes, Brown",San Francisco,Regular Air,09-10-2011,0.01,11.58,49,0.35,6.97,585.62,1.528
+15907,11-04-2012,High,3196,Furniture,O'Sullivan 2-Shelf Heavy-Duty Bookcases,San Francisco,Delivery Truck,13-04-2012,0.01,48.58,40,0.69,54.11,2041.6,-1414.41
+15907,11-04-2012,High,3196,Furniture,"Tenex 46"" x 60"" Computer Anti-Static Chairmat, Rectangular Shaped",San Francisco,Express Air,14-04-2012,0.04,105.98,40,0.65,13.99,4135.88,950.68
+15907,11-04-2012,High,3196,Office Supplies,"Wirebound Message Books, 2 7/8"" x 5"", 3 Forms per Page",San Francisco,Regular Air,12-04-2012,0.09,7.04,4,0.38,2.17,28.05,-5.41
+88438,22-01-2012,Critical,3200,Office Supplies,"Fellowes Premier Superior Surge Suppressor, 10-Outlet, With Phone and Remote",Escondido,Express Air,24-01-2012,0.03,48.92,11,0.59,4.5,547.08,377.4852
+88438,22-01-2012,Critical,3200,Office Supplies,Avery 506,Escondido,Regular Air,24-01-2012,0,4.13,1,0.39,0.5,4.31,2.09
+88438,22-01-2012,Critical,3200,Office Supplies,"Sanford Colorific Colored Pencils, 12/Box",Escondido,Regular Air,24-01-2012,0.1,2.88,12,0.55,1.01,32.32,-1.8476
+88439,21-02-2012,Low,3200,Office Supplies,Eldon Portable Mobile Manager,Escondido,Express Air,27-02-2012,0.04,28.28,12,0.58,13.99,341.97,-138.02
+88440,10-03-2013,Not Specified,3200,Furniture,DAX Wood Document Frame,Escondido,Regular Air,12-03-2013,0.06,13.73,3,0.49,8.99,42.58,12.2
+88441,15-03-2013,Not Specified,3200,Office Supplies,Staples Gold Paper Clips,Escondido,Regular Air,16-03-2013,0.01,2.98,8,0.39,1.58,25.65,8.88
+88436,27-04-2011,Not Specified,3201,Office Supplies,"Avery Trapezoid Extra Heavy Duty 4"" Binders",Eureka,Regular Air,28-04-2011,0.09,41.94,4,0.35,2.99,164.88,113.7672
+88437,06-06-2011,Low,3201,Technology,T39m,Eureka,Regular Air,08-06-2011,0.09,155.99,15,0.55,3.9,1882.27,1298.7663
+88441,15-03-2013,Not Specified,3201,Technology,PC Concepts 116 Key Quantum 3000 Keyboard,Eureka,Express Air,17-03-2013,0.02,32.98,13,0.75,5.5,440.87,51.98
+88442,11-06-2013,Low,3201,Office Supplies,Computer Printout Paper with Letter-Trim Perforations,Eureka,Express Air,11-06-2013,0.05,18.97,1,0.37,9.03,34.09,-15.92
+90741,19-11-2011,Not Specified,3208,Furniture,Ultra Door Pull Handle,Berkeley,Regular Air,21-11-2011,0.06,10.52,10,0.52,7.94,113.42,0.756
+90741,19-11-2011,Not Specified,3208,Office Supplies,Desktop 3-Pocket Hot File?,Berkeley,Regular Air,19-11-2011,0.04,54.1,4,0.59,19.99,238.28,13.978
+90742,15-02-2012,Not Specified,3208,Technology,Hewlett-Packard 2600DN Business Color Inkjet Printer,Berkeley,Delivery Truck,17-02-2012,0.02,119.99,11,0.39,56.14,1335.2,239.41
+90743,18-12-2012,Not Specified,3208,Technology,R289LX,Berkeley,Regular Air,20-12-2012,0.09,95.99,24,0.57,7.69,1856.51,1205.4015
+90739,28-12-2010,Critical,3209,Technology,"Imation 3.5"", DISKETTE 44766 HGHLD3.52HD/FM, 10/Pack",Beverly Hills,Express Air,29-12-2010,0.03,4.98,8,0.64,4.62,44.24,-30.45
+90740,22-02-2011,Medium,3209,Technology,Microsoft Multimedia Keyboard,Beverly Hills,Regular Air,24-02-2011,0.02,30.97,12,0.74,4,383.44,112.78
+90744,27-08-2013,Medium,3209,Technology,R280,Beverly Hills,Regular Air,29-08-2013,0.06,155.99,7,0.55,8.99,924.8,97.968888
+91253,02-02-2012,Not Specified,3235,Office Supplies,Storex Dura Pro? Binders,Beverly Hills,Regular Air,04-02-2012,0.07,5.94,7,0.38,9.92,42.34,-169.165
+91253,02-02-2012,Not Specified,3235,Furniture,Eldon Radial Chair Mat for Low to Medium Pile Carpets,Beverly Hills,Regular Air,03-02-2012,0.01,39.98,1,0.65,9.2,43.83,30.2427
+91253,02-02-2012,Not Specified,3235,Furniture,Electrix Halogen Magnifier Lamp,Beverly Hills,Regular Air,02-02-2012,0.02,194.3,11,0.59,11.54,2262.12,1560.8628
+91253,02-02-2012,Not Specified,3235,Office Supplies,Eldon Shelf Savers? Cubes and Bins,Beverly Hills,Regular Air,02-02-2012,0.07,6.98,6,0.83,9.69,41.48,-197.13
+91252,05-03-2011,Medium,3236,Technology,5185,Brentwood,Regular Air,07-03-2011,0.09,115.99,7,0.58,8.99,642.57,249.102
+91254,11-02-2012,High,3236,Furniture,"Eldon? 400 Class? Desk Accessories, Black Carbon",Brentwood,Regular Air,13-02-2012,0.08,8.75,3,0.43,8.54,26.71,-16.49
+91254,11-02-2012,High,3236,Office Supplies,"Array? Parchment Paper, Assorted Colors",Brentwood,Express Air,12-02-2012,0.04,7.28,11,0.37,11.15,81.77,-270.96
+91254,11-02-2012,High,3236,Office Supplies,Belkin OmniView SE Rackmount Kit,Brentwood,Regular Air,13-02-2012,0.02,35.48,10,0.85,35,361.18,-1087.36
+91255,05-03-2013,Medium,3236,Office Supplies,Newell 333,Brentwood,Regular Air,05-03-2013,0.05,2.78,4,0.59,0.97,10.91,-3.67
+88332,21-09-2011,Critical,3241,Office Supplies,Southworth Structures Collection?,Brentwood,Regular Air,22-09-2011,0.08,7.28,3,0.35,5.47,23.24,-16.46
+88333,15-03-2012,Low,3241,Furniture,Eldon? 500 Class? Desk Accessories,Brentwood,Regular Air,17-03-2012,0.08,12.07,6,0.52,6.2,73.82,20.67
+88336,11-01-2013,Critical,3242,Furniture,Bevis Round Conference Table Top & Single Column Base,Burbank,Delivery Truck,13-01-2013,0,146.34,3,0.65,43.75,485.08,-23.3244
+88338,01-10-2013,Low,3242,Office Supplies,*Staples* Letter Opener,Burbank,Regular Air,05-10-2013,0.1,2.18,22,0.81,5,46.22,-195.93
+89835,19-05-2010,Medium,3264,Office Supplies,Hammermill Color Copier Paper (28Lb. and 96 Bright),Eureka,Regular Air,21-05-2010,0.04,9.99,5,0.4,11.59,52.09,-92.32
+89837,25-05-2011,Not Specified,3265,Office Supplies,Xerox 1991,Fairfield,Regular Air,27-05-2011,0.02,22.84,9,0.39,8.18,204.52,89.6
+89839,08-11-2013,Critical,3265,Office Supplies,Avery Printable Repositionable Plastic Tabs,Fairfield,Regular Air,10-11-2013,0.02,8.6,21,0.38,6.19,186.18,16.445552
+89840,30-12-2013,Not Specified,3265,Furniture,Novimex Fabric Task Chair,Fairfield,Delivery Truck,30-12-2013,0.06,60.98,3,0.7,30,195.56,-56.09856
+89840,30-12-2013,Not Specified,3265,Office Supplies,"Tenex Personal Project File with Scoop Front Design, Black",Fairfield,Express Air,30-12-2013,0.1,13.48,18,0.59,4.51,230.45,-5.06352
+89897,25-05-2010,Low,3287,Office Supplies,Surelock? Post Binders,Granite Bay,Regular Air,27-05-2010,0.08,30.56,17,0.35,2.99,511.42,352.8798
+89898,14-08-2011,Medium,3287,Office Supplies,Fellowes Super Stor/Drawer? Files,Granite Bay,Regular Air,14-08-2011,0.06,161.55,14,0.66,19.99,2177.26,890.7824
+89899,25-05-2012,High,3287,Office Supplies,Xerox 199,Granite Bay,Regular Air,26-05-2012,0.09,4.28,13,0.4,5.68,55.4,-111.87
+89899,25-05-2012,High,3287,Technology,StarTAC 6500,Granite Bay,Regular Air,26-05-2012,0.09,125.99,20,0.59,8.8,1949.07,851.31
+89901,19-03-2013,Not Specified,3287,Office Supplies,"1/4 Fold Party Design Invitations & White Envelopes, 24 8-1/2"" X 11"" Cards, 25 Env./Pack",Granite Bay,Regular Air,21-03-2013,0.01,7.35,4,0.38,5.96,31.18,-30.04
+39238,26-09-2011,Critical,3289,Office Supplies,"Avery Trapezoid Ring Binder, 3"" Capacity, Black, 1040 sheets",Los Angeles,Express Air,27-09-2011,0.1,40.98,16,0.36,2.99,663.96,112.0555
+38337,31-10-2011,Medium,3289,Office Supplies,Newell 340,Los Angeles,Regular Air,02-11-2011,0.09,2.88,83,0.56,0.7,236.19,15
+386,24-01-2012,High,3289,Office Supplies,Avery 501,Los Angeles,Regular Air,26-01-2012,0.02,3.69,4,0.38,0.5,14.96,-0.048
+386,24-01-2012,High,3289,Office Supplies,Avery Hi-Liter Pen Style Six-Color Fluorescent Set,Los Angeles,Regular Air,26-01-2012,0.09,3.85,4,0.44,0.7,15.69,-2.544
+23968,04-03-2012,Critical,3289,Office Supplies,Xerox 226,Los Angeles,Regular Air,07-03-2012,0.05,6.48,21,0.37,5.84,140.9,-41.99
+40896,02-09-2012,Not Specified,3289,Office Supplies,"It's Hot Message Books with Stickers, 2 3/4"" x 5""",Los Angeles,Express Air,03-09-2012,0.03,7.4,41,0.4,1.71,304.04,42.86
+12320,20-12-2012,Critical,3289,Furniture,Anderson Hickey Conga Table Tops & Accessories,Los Angeles,Delivery Truck,22-12-2012,0.05,15.23,70,0.76,27.75,1078.42,11.65095
+18534,30-12-2012,Low,3289,Technology,"80 Minute Slim Jewel Case CD-R , 10/Pack - Staples",Los Angeles,Express Air,30-12-2012,0.1,8.33,72,0.52,1.99,565.16,21.68
+18373,12-04-2013,Critical,3289,Office Supplies,Kensington 7 Outlet MasterPiece Power Center with Fax/Phone Line Protection,Los Angeles,Regular Air,12-04-2013,0.09,207.48,35,0.55,0.99,6608.24,2164.64
+11808,31-07-2013,Not Specified,3289,Furniture,"Iceberg OfficeWorks 42"" Round Tables",Los Angeles,Delivery Truck,01-08-2013,0.06,150.98,1,0.75,39.25,148.34,25.20675
+11874,09-09-2013,Medium,3289,Technology,"Fellowes Internet Keyboard, Platinum",Los Angeles,Regular Air,11-09-2013,0,30.42,2,0.74,8.65,80.58,-82.13
+11874,09-09-2013,Medium,3289,Office Supplies,"Blue String-Tie & Button Interoffice Envelopes, 10 x 13",Los Angeles,Regular Air,09-09-2013,0.07,39.98,42,0.4,9.83,1629.12,179.37
+88589,16-05-2010,High,3354,Office Supplies,Lock-Up Easel 'Spel-Binder',Calexico,Regular Air,17-05-2010,0.03,28.53,7,0.38,1.49,199.53,137.6757
+88589,16-05-2010,High,3354,Office Supplies,Universal Premium White Copier/Laser Paper (20Lb. and 87 Bright),Calexico,Regular Air,18-05-2010,0.07,5.98,6,0.36,7.15,37.05,-62
+88590,27-09-2010,Not Specified,3354,Office Supplies,Avery 487,Calexico,Regular Air,29-09-2010,0.04,3.69,19,0.38,0.5,68.88,47.5272
+88592,21-06-2011,High,3354,Office Supplies,Filing/Storage Totes and Swivel Casters,Calexico,Regular Air,22-06-2011,0.09,9.71,9,0.6,9.45,87.84,-121.44
+88593,02-08-2011,Not Specified,3354,Furniture,3M Polarizing Light Filter Sleeves,Calexico,Regular Air,04-08-2011,0.01,18.65,3,0.39,3.77,60.33,41.6277
+88593,02-08-2011,Not Specified,3354,Office Supplies,Home/Office Personal File Carts,Calexico,Express Air,04-08-2011,0.06,34.76,11,0.6,5.49,373.2,177.6296
+88594,07-09-2011,High,3354,Office Supplies,Fellowes Binding Cases,Calexico,Regular Air,09-09-2011,0.05,11.7,6,0.4,5.63,73.29,1.156
+88595,02-08-2012,Critical,3354,Office Supplies,Belkin F5C206VTEL 6 Outlet Surge,Calexico,Express Air,03-08-2012,0.04,22.98,3,0.55,4.5,78.97,13.542
+88587,28-02-2010,Low,3355,Office Supplies,GBC VeloBinder Electric Binding Machine,Camarillo,Regular Air,09-03-2010,0.1,120.98,5,0.35,9.07,549.85,379.3965
+88587,28-02-2010,Low,3355,Technology,"Imation 3.5 IBM Formatted Diskettes, 10/Box",Camarillo,Express Air,04-03-2010,0.08,8.32,6,0.74,2.38,48.99,-41.83
+88587,28-02-2010,Low,3355,Technology,V3682,Camarillo,Regular Air,28-02-2010,0.1,125.99,7,0.59,4.2,681.42,372.402
+88591,08-01-2011,Low,3355,Technology,Sharp EL500L Fraction Calculator,Camarillo,Regular Air,08-01-2011,0.01,13.99,8,0.39,7.51,115.94,-6.008916
+88596,09-04-2013,Critical,3355,Office Supplies,"#10- 4 1/8"" x 9 1/2"" Security-Tint Envelopes",Camarillo,Regular Air,10-04-2013,0.03,7.64,12,0.36,1.39,94.62,65.2878
+88597,02-08-2013,Not Specified,3355,Office Supplies,Bionaire Personal Warm Mist Humidifier/Vaporizer,Camarillo,Regular Air,04-08-2013,0.01,46.89,6,0.46,5.1,281.08,193.9452
+90154,11-11-2010,Not Specified,3388,Office Supplies,Safco Industrial Wire Shelving,Fairfield,Regular Air,12-11-2010,0.03,95.99,9,,35,894.64,67.012
+90155,07-01-2011,Low,3388,Office Supplies,Crayola Colored Pencils,Fairfield,Express Air,12-01-2011,0,3.28,11,0.52,0.98,39.85,26.3568
+90157,18-08-2012,High,3388,Office Supplies,3M Organizer Strips,Fairfield,Regular Air,20-08-2012,0.04,5.4,5,0.37,7.78,29.81,-29.27808
